@@ -6,11 +6,11 @@ Network embedding approach has provided an effective way to overcome the complex
 
 This pipeline consists of three parts; 
 
-&emsp; 1. [Network Preparation](#1-network-preparation)
-&emsp; &emsp; 1.1. [Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list)
-&emsp; &emsp; 1.2. [Heterogeneous Network Preparation](#12-heterogeneous-network-preparation)
-&emsp; 2. [Embedding](#2-embedding)
-&emsp; &emsp;2.1. [Merge Embeddings](#21-merge-embeddings)
+&emsp; 1. [Network Preparation](#1-network-preparation)\
+&emsp; &emsp; 1.1. [Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list)\
+&emsp; &emsp; 1.2. [Heterogeneous Network Preparation](#12-heterogeneous-network-preparation)\
+&emsp; 2. [Embedding](#2-embedding)\
+&emsp; &emsp;2.1. [Merge Embeddings](#21-merge-embeddings)\
 &emsp; 3. [Predictions Using the Integration of Embeddings](#3-predictions-using-the-integration-of-embeddings)
 
 
