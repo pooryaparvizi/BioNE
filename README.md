@@ -42,7 +42,7 @@ pip install -r requirements.txt
 &nbsp;
 
 ## Input files formats
-The input file format to the [Embedding](#2-embedding) is space-delimited edge list file. If the edge list file is ready in [this](./output/edgelist_protein_disease.txt) format the user can start from [Embedding](#2-embedding) step. However, if the networks are in adjacency matrix format, this pipeline provides the command line to convert adjacency matrix to edge list in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). The adjacency matrix should contain col names and row names, and the format should be space-delimited. Click [here](./output/mat_protein_disease.txt) to see sample adjacency matrix.
+The input file format to the [Embedding](#2-embedding) is space-delimited edge list file. If the edge list file is ready in [this](./output/edgelist_protein_disease.txt) format the user can start from [Embedding](#2-embedding) step. However, if the networks are in adjacency matrix format, this pipeline provides the command line to convert adjacency matrix to edge list in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). The adjacency matrix should contain col names and row names, and the format should be space-delimited. Click [here](./data/mat_protein_disease.txt) to see sample adjacency matrix.
 
 &nbsp;
 
