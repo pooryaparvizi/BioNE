@@ -2,7 +2,7 @@
 
 ## Overview
 
-Network embedding approach has provided an effective way to overcome the complexity of large biological network analysis. Network embedding methods convert high-dimensional data to low-dimensional vector representations and in return these representations can be used in supervised machine learning tasks such as link prediction and node classification. However, different network embedding methods follow different approaches and some may learn certain network features that are not learned in other network embedding methods. The BioNE represent a new pipeline to integrate embedding results from different methods to have a more comprehensive knowledge of network and therefore better performance on prediction tasks.
+Network embedding approach has provided an effective way to overcome the complexity of large biological network analysis. Network embedding methods convert high-dimensional data to low-dimensional vector representations and in return these representations can be used in supervised machine learning tasks such as link prediction and node classification. However, different network embedding methods follow different approaches and some may learn certain network features that are not learned in other network embedding methods. The BioNE is a new pipeline which integrates embedding results from different methods, providing a more comprehensive knowledge of the network and therefore better performance on prediction tasks.
 
 This pipeline consists of three parts; 
 
@@ -40,6 +40,8 @@ source BioNEvenv/bin/activate
 pip install -r requirements.txt
 ```
 &nbsp;
+
+## [Add a short section describing the formats of the input files (adj matrices, edge list)]
 
 ## 1. Network Preparation
 This part consists of two sections. The adjacency matrices are converted to the edge list files in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). On the other hand, when required, the user can combine two edge list files to making heterogeneous network using command line is section [1.2. Heterogeneous Network Preparation](#12-heterogeneous-network-preparation).
