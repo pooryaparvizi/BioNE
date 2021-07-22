@@ -41,7 +41,10 @@ pip install -r requirements.txt
 ```
 &nbsp;
 
-## [Add a short section describing the formats of the input files (adj matrices, edge list)]
+## Input files formats
+The input file format to the [Embedding](#2-embedding) is space-delimited edge list file. If the edge list file is ready in [this](./output/edgelist_protein_disease.txt) format the user can start from [Embedding](#2-embedding) step. However, if the networks are in adjacency matrix format, this pipeline provides the command line to convert adjacency matrix to edge list in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). The adjacency matrix should contain col names and row names, and the format should be space-delimited. Click [here](./output/mat_protein_disease.txt) to see sample adjacency matrix.
+
+&nbsp;
 
 ## 1. Network Preparation
 This part consists of two sections. The adjacency matrices are converted to the edge list files in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). On the other hand, when required, the user can combine two edge list files to making heterogeneous network using command line is section [1.2. Heterogeneous Network Preparation](#12-heterogeneous-network-preparation).
