@@ -55,7 +55,8 @@ python3 scripts/mat2edgelist.py --input input.txt --directed --keepzero --attrib
 ##### *Arguments*:
 
 &emsp; &emsp; &emsp; **input** &ensp; The filepath of adjacency matrix\
-&emsp; &emsp; &emsp; Input adjacency matrix file should be space-delimited file and contains row and column index labels. Click [here](./data/mat_protein_disease.txt) to see a sample file.
+&emsp; &emsp; &emsp; Input adjacency matrix file should be space-delimited file and contains row and column index labels.\
+&emsp; &emsp; &emsp; Click [here](./data/mat_protein_disease.txt) to see a sample file.
 
 &emsp; &emsp; &emsp; **directed** &ensp; Treat the graph as directed\
 &emsp; &emsp; &emsp; When directed, row indexes are source nodes and column indexes are target nodes.
@@ -63,7 +64,7 @@ python3 scripts/mat2edgelist.py --input input.txt --directed --keepzero --attrib
 &emsp; &emsp; &emsp; **keepzero** &ensp; Adding also negative associations (0s) to the output
 
 &emsp; &emsp; &emsp; **attribute** &ensp; Including the edge attributes to the output file\
-&emsp; &emsp; &emsp; If edge attributed are not going to use in embedding as the weights, it is recommended to not use this in order to save memory.
+&emsp; &emsp; &emsp; If edge attributes are not going to be used as weights in embedding, it is recommended to not add this to save memory.
 
 &emsp; &emsp; &emsp; **output** &ensp; The filepath to save edge list file\
 &emsp; &emsp; &emsp; The file saves as space-delimited file format. Click [here](./output/edgelist_protein_disease.txt) to see a sample edge list file.
@@ -115,7 +116,7 @@ python3 scripts/embedding.py --method lle --input input.txt --directed --weighte
 &emsp; &emsp; &emsp; &emsp; deepwalk (parameters: walk_length, number_walks, workers, window_size)\
 &emsp; &emsp; &emsp; &emsp; gf (parameters: epochs, lr, weight-decay)
 
-&emsp; &emsp; &emsp; &emsp; Note: *input*, *directed*, *weighted*, *random_state*, *representation_size* and *output* are shared among all methods.
+&emsp; &emsp; &emsp; &emsp; Note: *input*, *directed*, *weighted*, *random_state* and *representation_size* are shared among all methods.
 
 &emsp; &emsp; &emsp; **input**: &ensp; The filepath of edge list file\
 &emsp; &emsp; &emsp; This file should be an edge list with space-delimited format. Click [here](./output/edgelist_protein_disease.txt) to see a sample input file.
@@ -208,7 +209,7 @@ python3 scripts/merge_embeddings.py --input1 input1.txt --input2 input2.txt --ou
 &emsp; &emsp; &emsp; This file should contain embeddings with space-delimited format file. Click [here](./output/hope_6_drug_se.txt) to see a sample input file.
 
 &emsp; &emsp; &emsp; **output** &ensp; The filepath to save the combined embedding results for mutual entity\
-&emsp; &emsp; &emsp; The file saves as space-delimited file format. Click [here](./output/./output/hope_12_drug_emb_merge.txt) to see a sample output file.
+&emsp; &emsp; &emsp; The file saves as space-delimited file format. Click [here](./output/hope_12_drug_emb_merge.txt) to see a sample output file.
 
 &nbsp;
 
@@ -216,7 +217,7 @@ python3 scripts/merge_embeddings.py --input1 input1.txt --input2 input2.txt --ou
 In this part, we developed three different integration methods (late fusion, early fusion and mix fusion) to integrate embedding results from different methods to have a more comprehensive knowledge of network and therefore better performance on prediction tasks.
 
 ```shell
-python3 scripts/integration.py --type late --annotation data/annotation.txt 
+python3 scripts/integration.py --fusion late --annotation annotation.txt --annotation-firstcolumn '["hope_x.txt","lap_x.txt"]' --annotation-secondcolumn '["hope_y.txt","lap_y.txt"]' --cv-type stratified --cv 10 --imbalance ADASYN --model '["RF"]' --output ./output
 ```
 ##### *Arguments*:
 
