@@ -1,16 +1,15 @@
-# BioNE: a pipeline to integrate the biological network embeddings to use in supervised learning tasks
+# BioNE: Integration of network embeddings for supervised learning
 
 ## Overview
 
-Network embedding approach has provided an effective way to overcome the complexity of large biological network analysis. Network embedding methods convert high-dimensional data to low-dimensional vector representations and in return these representations can be used in supervised machine learning tasks such as link prediction and node classification. However, different network embedding methods follow different approaches and some may learn certain network features that are not learned in other network embedding methods. The BioNE is a new pipeline which integrates embedding results from different methods, providing a more comprehensive knowledge of the network and therefore better performance on prediction tasks.
+A network embedding approach reduces the complexity of analyzing large biological networks by converting the high-dimensional adjacency matrix representations to low-dimensional vector representations. These lower-dimensional representations can then be used in machine learning prediction tasks such as link prediction and node classification. Several network embedding methods have been proposed with different approaches to obtain network features. Integrating them could offer complementary information about the network, and therefore better performance on prediction tasks. BioNE is a pipeline that applies network embedding methods following the network preparation step and integrates the vector representations achieved by these methods using three different techniques.
 
-This pipeline consists of three parts; 
+The BioNE pipeline is divided into three steps;
 
 &emsp; 1. [Network Preparation](#1-network-preparation)\
 &emsp; &emsp; 1.1. [Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list)\
 &emsp; &emsp; 1.2. [Heterogeneous Network Preparation](#12-heterogeneous-network-preparation)\
-&emsp; 2. [Embedding](#2-embedding)\
-&emsp; &emsp;2.1. [Merge Embeddings](#21-merge-embeddings)\
+&emsp; 2. [Network Embedding](#2-network-embedding)\
 &emsp; 3. [Predictions Using the Integration of Embeddings](#3-predictions-using-the-integration-of-embeddings)
 
 
@@ -42,7 +41,7 @@ pip install -r requirements.txt
 &nbsp;
 
 ## Input files formats
-The input file format to the [Embedding](#2-embedding) is space-delimited edge list file. If the edge list file is ready in [this](./output/edgelist_protein_disease.txt) format the user can start from [Embedding](#2-embedding) step. However, if the networks are in adjacency matrix format, this pipeline provides the command line to convert adjacency matrix to edge list in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). The adjacency matrix should contain col names and row names, and the format should be space-delimited. Click [here](./data/mat_protein_disease.txt) to see sample adjacency matrix.
+The input file format to the [Network Embedding](#2-network-embedding) is space-delimited edge list file. If the edge list file is ready in [this](./output/edgelist_protein_disease.txt) format the user can start from [Network Embedding](#2-network-embedding) step. Otherwise, if the networks are in adjacency matrix format, this pipeline provides the command line to convert adjacency matrix to edge list in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). The adjacency matrix should contain column names and row names, and the format should be space-delimited. Click [here](./data/mat_protein_disease.txt) to see sample adjacency matrix.
 
 &nbsp;
 
@@ -59,7 +58,7 @@ python3 scripts/mat2edgelist.py --input input.txt --directed --keepzero --attrib
 ```
 ##### *Arguments*:
 
-&emsp; &emsp; &emsp; **input** &ensp; The filepath of adjacency matrix\
+&emsp; &emsp; &emsp; **input** &ensp; The filepath of the adjacency matrix\
 &emsp; &emsp; &emsp; Input adjacency matrix file should be space-delimited file and contains row and column index labels.\
 &emsp; &emsp; &emsp; Click [here](./data/mat_protein_disease.txt) to see a sample file.
 
@@ -69,7 +68,7 @@ python3 scripts/mat2edgelist.py --input input.txt --directed --keepzero --attrib
 &emsp; &emsp; &emsp; **keepzero** &ensp; Adding also negative associations (0s) to the output
 
 &emsp; &emsp; &emsp; **attribute** &ensp; Including the edge attributes to the output file\
-&emsp; &emsp; &emsp; If edge attributes are not going to be used as weights in embedding, it is recommended to not add this to save memory.
+&emsp; &emsp; &emsp; If edge attributes are not going to be used as weights in network embedding, it is recommended to not add this to save memory.
 
 &emsp; &emsp; &emsp; **output** &ensp; The filepath to save edge list file\
 &emsp; &emsp; &emsp; The file saves as space-delimited file format. Click [here](./output/edgelist_protein_disease.txt) to see a sample edge list file.
@@ -78,7 +77,6 @@ python3 scripts/mat2edgelist.py --input input.txt --directed --keepzero --attrib
 
 ### 1.2. Heterogeneous Network Preparation
 When required, the user can combine two edge lists (e.g. drug-disease and drug-side effect networks) to construct heterogeneous network. The command line below help to combine edge lists. This can be used multiple times to combine more than two edge list files.\
-The other way to combine two networks with mutual entities (e.g. drug-disease and drug-side effect networks) is to combine their embeddings (e.g. combine embeddings of drugs from drug-disease network and embedding of drugs from drug-side effect networks) after the [Embedding](#2-embedding) step using [Merge Embeddings](#21-merge-embeddings) command line.
 
 ```shell
 python3 scripts/merge_edgelist.py --input1 input1.txt --input2 input2.txt --rmduplicate --output output.txt
@@ -99,7 +97,7 @@ python3 scripts/merge_edgelist.py --input1 input1.txt --input2 input2.txt --rmdu
 
 &nbsp;
 
-## 2. Embedding
+## 2. Network Embedding
 Network embedding methods convert high-dimensional data to low-dimensional vector representations. In this project the user able to conduct these embedding methods:\
 [LINE](https://doi.org/10.1145/2736277.2741093), [GraRep](https://doi.org/10.1145/2806416.2806512), [SDNE](https://doi.org/10.1145/2939672.2939753), [LLE](https://doi.org/10.1126/science.290.5500.2323), [HOPE](https://doi.org/10.1145/2939672.2939751), [LaplacianEigenmaps (Lap)](https://dl.acm.org/doi/abs/10.5555/2980539.2980616), [node2vec](https://doi.org/10.1145/2939672.2939754), [DeepWalk](https://doi.org/10.1145/2623330.2623732) and [GF](https://doi.org/10.1145/2488388.2488393).\
 Embedding methods in this section are inherited from [OpenNE](https://github.com/thunlp/OpenNE.git) and [OpenNE-PyTorch](https://github.com/thunlp/OpenNE/tree/pytorch) repositories.
@@ -109,7 +107,7 @@ python3 scripts/embedding.py --method lle --input input.txt --directed --weighte
 ```
 ##### *Arguments*:
 
-&emsp; &emsp; &emsp; **method:** &ensp; Embedding method\
+&emsp; &emsp; &emsp; **method:** &ensp; Network embedding method\
 &emsp; &emsp; &emsp; Choices are:\
 &emsp; &emsp; &emsp; &emsp; line (parameters: epochs, order, negative_ratio)\
 &emsp; &emsp; &emsp; &emsp; grarep (parameters: kstep)\
@@ -197,26 +195,6 @@ python3 scripts/embedding.py --method lle --input input.txt --directed --weighte
 
 &nbsp;
 
-### 2.1. Merge Embeddings
-When required, the user can combine embedding results of two networks (e.g. drug-disease and drug-side effect networks) with mutual entities (e.g. combining the embeddings of drugs from drug-disease network to embedding of drugs from drug-side effect network).\
-Other way, to combine two networks to create heterogeneous network is given in section [1.2. Heterogeneous Network Preparation](#12-heterogeneous-network-preparation).
-
-```shell
-python3 scripts/merge_embeddings.py --input1 input1.txt --input2 input2.txt --output output.txt
-```
-##### *Arguments*:
-
-&emsp; &emsp; &emsp; **input1** &ensp; The filepath of first embedding file\
-&emsp; &emsp; &emsp; This file should contain embeddings with space-delimited format file. Click [here](./output/hope_6_drug_disease.txt) to see a sample input file.
-
-
-&emsp; &emsp; &emsp; **input2** &ensp; The filepath of second embedding file\
-&emsp; &emsp; &emsp; This file should contain embeddings with space-delimited format file. Click [here](./output/hope_6_drug_se.txt) to see a sample input file.
-
-&emsp; &emsp; &emsp; **output** &ensp; The filepath to save the combined embedding results for mutual entity\
-&emsp; &emsp; &emsp; The file saves as space-delimited file format. Click [here](./output/hope_12_drug_emb_merge.txt) to see a sample output file.
-
-&nbsp;
 
 ## 3. Predictions using the integration of embeddings
 In this part, we developed three different integration methods (late fusion, early fusion and mix fusion) to integrate embedding results from different methods to have a more comprehensive knowledge of network and therefore better performance on prediction tasks.
@@ -243,7 +221,7 @@ python3 scripts/integration.py --fusion late --annotation annotation.txt --annot
 &emsp; &emsp; &emsp; When the fusion is late, the annotation-firstcolumn and annotation-secondcolumn should have same length with the same order of embedding methods.
 
 &emsp; &emsp; &emsp; **annotation-secondcolumn** &ensp; filepaths of the embeddings containing the entities of the **second** column in the annotation file\
-&emsp; &emsp; &emsp; The file paths should be given in this format: '[["hope_protein.txt"](./output/hope_6_hetero_drugs.txt), ["lap_protein.txt"](./output/lap_6_hetero_drugs.txt)]'.\
+&emsp; &emsp; &emsp; The file paths should be given in this format: '[["hope_protein.txt"](./output/hope_6_protein_disease.txt), ["lap_protein.txt"](./output/lap_6_protein_disease.txt)]'.\
 &emsp; &emsp; &emsp; When the fusion is late, the annotation-firstcolumn and annotation-secondcolumn should have same length with the same order of embedding methods.
 
 &emsp; &emsp; &emsp; **cv-type** &ensp; Cross-validation method\
@@ -346,7 +324,7 @@ python3 scripts/integration.py --fusion late --annotation ./output/annotation.tx
 Please cite:\
 The paper is under processing.
 
-If you only used the embedding part in your research and not the other parts, you should consider citing [OpenNE](https://github.com/thunlp/OpenNE.git) and the articles of embedding methods that you used.
+Embedding methods in this section are inherited from OpenNE repository (https://github.com/thunlp/OpenNE). If only network embedding section used in your research and not the other parts, you should consider citing [OpenNE](https://github.com/thunlp/OpenNE.git) and the articles of embedding methods that you used.
 
 ## Contact
 If you have any questions, please submit an issue on GitHub or send an email to [poorya.parvizi@ed.ac.uk](mailto:poorya.parvizi@ed.ac.uk).
