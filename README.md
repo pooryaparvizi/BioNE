@@ -1,4 +1,4 @@
-# BioNE: a pipeline to integrate the biological network embeddings to use in supervised learning tasks
+# BioNE: Integration of network embeddings for supervised learning
 
 ## Overview
 
