@@ -2,7 +2,7 @@
 
 ## Overview
 
-A network embedding approach reduces the complexity of analyzing large biological networks by converting the high-dimensional adjacency matrix representations to low-dimensional vector representations. These lower-dimensional representations can then be used in machine learning prediction tasks such as link prediction and node classification. Several network embedding methods have been proposed with different approaches to obtain network features. Integrating them could offer complementary information about the network, and therefore better performance on prediction tasks. BioNE is a pipeline that applies network embedding methods following the network preparation step and integrates the vector representations achieved by these methods using three different techniques.
+A network embedding approach reduces the complexity of analyzing large biological networks by converting the high-dimensional adjacency matrix representations to low-dimensional vector representations. These lower-dimensional representations can then be used in machine learning prediction tasks such as link prediction and node classification. Several network embedding methods have been proposed with different approaches to obtain network features. Integrating them could offer complementary information about the network, and therefore improve performance on prediction tasks. BioNE is a pipeline that applies a range of network embedding methods following the network preparation step and integrates the vector representations obtained by these methods using three different techniques.
 
 The BioNE pipeline is divided into three steps;
 
@@ -13,13 +13,13 @@ The BioNE pipeline is divided into three steps;
 &emsp; 3. [Predictions Using the Integration of Embeddings](#3-predictions-using-the-integration-of-embeddings)
 
 
-In order to install packages and create virtual environment, check section [Virtual Environment and Installing Packages](#virtual-environment-and-installing-packages).\
-This pipeline will be tested on the Drug-Target Interaction (DTI) as a sample of link prediction task. You can find the scripts of this test in the [Example](#example) section.
+In order to install packages and create the necessary virtual environment, check section [Virtual Environment and Installing Packages](#virtual-environment-and-installing-packages).\
+This pipeline will be tested using Drug-Target Interaction (DTI) data as a link prediction task. You can find the scripts of this test in the [Example](#example) section.
 
 &nbsp;
 
 ## Virtual Environment and Installing Packages
-All of the analysis in this project wrote and tested on virtual environment using python 3.7. The detailed software versions are listed below:
+All of the analyses are written and tested on virtual environment using python 3.7. The detailed software versions are listed below:
 - Python 3.7
 - virtualenv 20.4.0
 - ubuntu 20.04
@@ -41,17 +41,17 @@ pip install -r requirements.txt
 &nbsp;
 
 ## Input files formats
-The input file format to the [Network Embedding](#2-network-embedding) is space-delimited edge list file. If the edge list file is ready in [this](./output/edgelist_protein_disease.txt) format the user can start from [Network Embedding](#2-network-embedding) step. Otherwise, if the networks are in adjacency matrix format, this pipeline provides the command line to convert adjacency matrix to edge list in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). The adjacency matrix should contain column names and row names, and the format should be space-delimited. Click [here](./data/mat_protein_disease.txt) to see sample adjacency matrix.
+The input file format for [Network Embedding](#2-network-embedding) is a space-delimited edge list file. If the edge list file is ready in [this](./output/edgelist_protein_disease.txt) format, users can start from the [Network Embedding](#2-network-embedding) step. If the networks are in adjacency matrix format, this pipeline provides the command line to convert adjacency matrices to edge lists in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). Adjacency matrices should contain column names and row names, and the format should be space-delimited. Click [here](./data/mat_protein_disease.txt) to see sample adjacency matrix.
 
 &nbsp;
 
 ## 1. Network Preparation
-This part consists of two sections. The adjacency matrices are converted to the edge list files in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). On the other hand, when required, the user can combine two edge list files to making heterogeneous network using command line is section [1.2. Heterogeneous Network Preparation](#12-heterogeneous-network-preparation).
+This part consists of two sections. Users can convert adjacency matrices to edge list files in section [1.1. Convert Adjacency Matrix to Edge List](#11-convert-adjacency-matrix-to-edge-list). On the other hand, when required, users can combine two edge list files to form a  heterogeneous network using command lines provided in section [1.2. Heterogeneous Network Preparation](#12-heterogeneous-network-preparation).
 
 &nbsp;
 
 ### 1.1. Convert Adjacency Matrix to Edge List
-In order to conduct network embedding, adjacency matrices should convert to the edge list file format.
+In order to conduct network embedding, adjacency matrices should be converted to an edge list file format.
 
 ```shell
 python3 scripts/mat2edgelist.py --input input.txt --directed --keepzero --attribute --output output.txt
@@ -65,18 +65,18 @@ python3 scripts/mat2edgelist.py --input input.txt --directed --keepzero --attrib
 &emsp; &emsp; &emsp; **directed** &ensp; Treat the graph as directed\
 &emsp; &emsp; &emsp; When directed, row indexes are source nodes and column indexes are target nodes.
 
-&emsp; &emsp; &emsp; **keepzero** &ensp; Adding also negative associations (0s) to the output
+&emsp; &emsp; &emsp; **keepzero** &ensp; Adding negative associations (0s) to the output
 
 &emsp; &emsp; &emsp; **attribute** &ensp; Including the edge attributes to the output file\
-&emsp; &emsp; &emsp; If edge attributes are not going to be used as weights in network embedding, it is recommended to not add this to save memory.
+&emsp; &emsp; &emsp; If edge attributes are not going to be used as weights in network embedding, removing this line is recommended to save memory.
 
-&emsp; &emsp; &emsp; **output** &ensp; The filepath to save edge list file\
-&emsp; &emsp; &emsp; The file saves as space-delimited file format. Click [here](./output/edgelist_protein_disease.txt) to see a sample edge list file.
+&emsp; &emsp; &emsp; **output** &ensp; The filepath for the outputted edge list file\
+&emsp; &emsp; &emsp; The file will be saved as a space-delimited file. Click [here](./output/edgelist_protein_disease.txt) to see a sample edge list file.
 
 &nbsp;
 
 ### 1.2. Heterogeneous Network Preparation
-When required, the user can combine two edge lists (e.g. drug-disease and drug-side effect networks) to construct heterogeneous network. The command line below help to combine edge lists. This can be used multiple times to combine more than two edge list files.\
+When required, users can combine two edge lists (e.g. drug-disease and drug-side effect networks) to construct a heterogeneous network. The command line below can be used to combine edge lists. This can be used multiple times to combine more than two edge list files.
 
 ```shell
 python3 scripts/merge_edgelist.py --input1 input1.txt --input2 input2.txt --rmduplicate --output output.txt
@@ -84,21 +84,21 @@ python3 scripts/merge_edgelist.py --input1 input1.txt --input2 input2.txt --rmdu
 ##### *Arguments*:
 
 &emsp; &emsp; &emsp; **input1** &ensp; The filepath of first edge list file\
-&emsp; &emsp; &emsp; This file should be an edge list with space-delimited format file. Click [here](./output/edgelist_drug_disease.txt) to see a sample input file.
+&emsp; &emsp; &emsp; This file should be a space-delimited edge list file. Click [here](./output/edgelist_drug_disease.txt) to see a sample input file.
 
 
 &emsp; &emsp; &emsp; **input2** &ensp; The filepath of second edge list file\
-&emsp; &emsp; &emsp; This file should be an edge list with space-delimited csv format. Click [here](./output/edgelist_drug_se.txt) to see a sample input file.
+&emsp; &emsp; &emsp; This file should be a space-delimited edge list file. Click [here](./output/edgelist_drug_se.txt) to see a sample input file.
 
-&emsp; &emsp; &emsp; **rmduplicate** &ensp; Remove duplicated edges
+&emsp; &emsp; &emsp; **rmduplicate** &ensp; Removes duplicated edges
 
-&emsp; &emsp; &emsp; **output** &ensp; The filepath to save the combined edge lists file\
-&emsp; &emsp; &emsp; The file saves as space-delimited file format. Click [here](./output/hetero_drugs.txt) to see a sample output file.
+&emsp; &emsp; &emsp; **output** &ensp; The filepath for the outputted combined edge list file\
+&emsp; &emsp; &emsp; The file will be saved as a space-delimited file. Click [here](./output/hetero_drugs.txt) to see a sample output file.
 
 &nbsp;
 
 ## 2. Network Embedding
-Network embedding methods convert high-dimensional data to low-dimensional vector representations. In this project the user able to conduct these embedding methods:\
+Network embedding methods convert high-dimensional data to low-dimensional vector representations. In this project users are able to conduct the following embedding methods:\
 [LINE](https://doi.org/10.1145/2736277.2741093), [GraRep](https://doi.org/10.1145/2806416.2806512), [SDNE](https://doi.org/10.1145/2939672.2939753), [LLE](https://doi.org/10.1126/science.290.5500.2323), [HOPE](https://doi.org/10.1145/2939672.2939751), [LaplacianEigenmaps (Lap)](https://dl.acm.org/doi/abs/10.5555/2980539.2980616), [node2vec](https://doi.org/10.1145/2939672.2939754), [DeepWalk](https://doi.org/10.1145/2623330.2623732) and [GF](https://doi.org/10.1145/2488388.2488393).\
 Embedding methods in this section are inherited from [OpenNE](https://github.com/thunlp/OpenNE.git) and [OpenNE-PyTorch](https://github.com/thunlp/OpenNE/tree/pytorch) repositories.
 
@@ -121,10 +121,10 @@ python3 scripts/embedding.py --method lle --input input.txt --directed --weighte
 
 &emsp; &emsp; &emsp; &emsp; Note: *input*, *directed*, *weighted*, *random_state* and *representation_size* are shared among all methods.
 
-&emsp; &emsp; &emsp; **input**: &ensp; The filepath of edge list file\
-&emsp; &emsp; &emsp; This file should be an edge list with space-delimited format. Click [here](./output/edgelist_protein_disease.txt) to see a sample input file.
+&emsp; &emsp; &emsp; **input**: &ensp; The filepath of the edge list file\
+&emsp; &emsp; &emsp; This file should be an space-delimited edge list. Click [here](./output/edgelist_protein_disease.txt) to see a sample input file.
 
-&emsp; &emsp; &emsp; **directed**: &ensp; Treat the network as directed\
+&emsp; &emsp; &emsp; **directed**: &ensp; Treats the network as directed\
 &emsp; &emsp; &emsp; There is no need to use this if you already specified this in section [1.1](#11-convert-adjacency-matrix-to-edge-list).
 
 &emsp; &emsp; &emsp; **weighted**: &ensp; Treat the network as weighted\
@@ -148,7 +148,7 @@ python3 scripts/embedding.py --method lle --input input.txt --directed --weighte
 &emsp; &emsp; &emsp; **kstep**: &ensp; Use k-step transition probability matrix\
 &emsp; &emsp; &emsp; This parameter is used in *grarep*. The default value is 4.
 
-&emsp; &emsp; &emsp; **encoder-list**: &ensp; a list of numbers of the neurons at each encoder layer in *sdne*\
+&emsp; &emsp; &emsp; **encoder-list**: &ensp; a list of neuron numbers in each encoder layer within *sdne*\
 &emsp; &emsp; &emsp; The last number is the dimension of the output embeddings. The default is [1000, 128].
 
 &emsp; &emsp; &emsp; **alpha**: &ensp; alpha is a hyperparameter in *sdne*\
@@ -167,7 +167,7 @@ python3 scripts/embedding.py --method lle --input input.txt --directed --weighte
 &emsp; &emsp; &emsp; Number of training samples utilized in one iteration. The default is 200.
 
 &emsp; &emsp; &emsp; **lr**: &ensp; learning rate in *sdne*\
-&emsp; &emsp; &emsp; The learning rate controls how quickly the model is adapted to the problem. The default is 0.001.
+&emsp; &emsp; &emsp; The learning rate controls how quickly the model adapts to the problem. The default is 0.001.
 
 &emsp; &emsp; &emsp; **walk-length**: &ensp; Length of the random walk started at each node\
 &emsp; &emsp; &emsp; This parameter is used in *node2vec* and *deepwalk*. The default value is 80.
@@ -190,14 +190,14 @@ python3 scripts/embedding.py --method lle --input input.txt --directed --weighte
 &emsp; &emsp; &emsp; **weight-decay**: &ensp; Weight for L2 loss on embedding matrix in *gf*\
 &emsp; &emsp; &emsp; The default value is 5e-4.
 
-&emsp; &emsp; &emsp; **output**: &ensp; The filepath to save the embedding results\
-&emsp; &emsp; &emsp; The file saves as space-delimited file format. Click [here](./output/hope_6_protein_disease.txt) to see a sample output file.
+&emsp; &emsp; &emsp; **output**: &ensp; The filepath for the embedding results\
+&emsp; &emsp; &emsp; The file saves as a space-delimited file. Click [here](./output/hope_6_protein_disease.txt) to see a sample output file.
 
 &nbsp;
 
 
 ## 3. Predictions using the integration of embeddings
-In this part, we developed three different integration methods (late fusion, early fusion and mix fusion) to integrate embedding results from different methods to have a more comprehensive knowledge of network and therefore better performance on prediction tasks.
+For this section, we developed three different integration methods (late fusion, early fusion and mixed fusion) to integrate embedding results from the different methods. This ensures a comprehensive representation of networks and therefore imrpoves performance on prediction tasks.
 
 ```shell
 python3 scripts/integration.py --fusion late --annotation annotation.txt --annotation-firstcolumn '["hope_x.txt","lap_x.txt"]' --annotation-secondcolumn '["hope_y.txt","lap_y.txt"]' --cv-type stratified --cv 10 --imbalance ADASYN --model '["RF"]' --output ./output
@@ -206,9 +206,9 @@ python3 scripts/integration.py --fusion late --annotation annotation.txt --annot
 
 &emsp; &emsp; &emsp; **fusion** &ensp; The integration type\
 &emsp; &emsp; &emsp; Choices are:\
-&emsp; &emsp; &emsp; &emsp; early: Merging whole embedding results before putting in to the prediction model\
-&emsp; &emsp; &emsp; &emsp; late: Run each embedding results in the prediction model and then add up the achieved prediction probabilities.\
-&emsp; &emsp; &emsp; &emsp; mix: Merging whole embedding results, and then add up the prediction probabilities achieved from different prediction models.
+&emsp; &emsp; &emsp; &emsp; early: Merging all embedding results before inclusion in the prediction model\
+&emsp; &emsp; &emsp; &emsp; late (default): Including each embedding result in the prediction model and then summing up the achieved prediction probabilities.\
+&emsp; &emsp; &emsp; &emsp; mix: Merging all embedding results, and then summing up the prediction probabilities achieved from different prediction models.
 
 &emsp; &emsp; &emsp; **annotation** &ensp; The filepath of the annotation file\
 &emsp; &emsp; &emsp; This file should contain either two or three columns. Click [here](./output/annotation.txt) or [here](./output/annotation_2.txt) to see a sample annotation file.\
@@ -218,51 +218,55 @@ python3 scripts/integration.py --fusion late --annotation annotation.txt --annot
 
 &emsp; &emsp; &emsp; **annotation-firstcolumn** &ensp; filepaths of the embeddings containing the entities of the **first** column in the annotation file\
 &emsp; &emsp; &emsp; The file paths should be given in this format: '[["hope_drugs.txt"](./output/hope_6_hetero_drugs.txt), ["lap_drugs.txt"](./output/lap_6_hetero_drugs.txt)]'.\
-&emsp; &emsp; &emsp; When the fusion is late, the annotation-firstcolumn and annotation-secondcolumn should have same length with the same order of embedding methods.
+&emsp; &emsp; &emsp; When late fusion is applied, the annotation-firstcolumn and annotation-secondcolumn should have the same length with the same order of embedding methods.
 
 &emsp; &emsp; &emsp; **annotation-secondcolumn** &ensp; filepaths of the embeddings containing the entities of the **second** column in the annotation file\
 &emsp; &emsp; &emsp; The file paths should be given in this format: '[["hope_protein.txt"](./output/hope_6_protein_disease.txt), ["lap_protein.txt"](./output/lap_6_protein_disease.txt)]'.\
-&emsp; &emsp; &emsp; When the fusion is late, the annotation-firstcolumn and annotation-secondcolumn should have same length with the same order of embedding methods.
+&emsp; &emsp; &emsp; When late fusion is applied, the annotation-firstcolumn and annotation-secondcolumn should have same length with the same order of embedding methods.
 
 &emsp; &emsp; &emsp; **cv-type** &ensp; Cross-validation method\
-&emsp; &emsp; &emsp; Choices are 'kfold', 'stratified' and 'split'. 'split' divide the data regarding the *test-size* size.
+&emsp; &emsp; &emsp; Choices are 'kfold', 'stratified' and 'split' (default). 'split' divides the data according to the *test-size* size.
 
 &emsp; &emsp; &emsp; **cv** &ensp; Number of folds\
-&emsp; &emsp; &emsp; This argument is used when the *cv-type* is either 'kfold' or 'stratified'.
+&emsp; &emsp; &emsp; This argument is used when the *cv-type* is either 'kfold' or 'stratified'.\
+&emsp; &emsp; &emsp; Default value is 5.
 
 &emsp; &emsp; &emsp; **cv-shuffle** &ensp; Whether to shuffle each class’s samples before splitting into batches\
 &emsp; &emsp; &emsp; This argument is used when the *cv-type* is either 'kfold' or 'stratified'.
 
 &emsp; &emsp; &emsp; **test-size** &ensp; Percentage of the data to be test-set\
-&emsp; &emsp; &emsp; The value of this argument must be between 0 and 1. This can be used when *cv-type* is 'split'.
+&emsp; &emsp; &emsp; The value of this argument must be between 0 and 1. This can be used when *cv-type* is 'split'.\
+&emsp; &emsp; &emsp; Default value is 0.2.
 
-&emsp; &emsp; &emsp; **imbalance** &ensp; Dealing with imbalance classes\
-&emsp; &emsp; &emsp; Choices are: 'equalize' which equalize the number of majority class to minority class.\
+&emsp; &emsp; &emsp; **imbalance** &ensp; Deals with imbalanced classes\
+&emsp; &emsp; &emsp; Choices are: 'equalize' which equalizes the number of majority class to minority class.\
 &emsp; &emsp; &emsp; 'SMOTE' and 'ADASYN' are oversampling methods.\
-&emsp; &emsp; &emsp; 'None' does not deal with imbalance classes.
+&emsp; &emsp; &emsp; 'None' (default) does not deal with imbalanced classes.
 
 
 &emsp; &emsp; &emsp; **fselection** &ensp; feature selection\
 &emsp; &emsp; &emsp; Choices are: 'fvalue', 'qvalue', 'MI' or None.\
-&emsp; &emsp; &emsp; ANOVA analyze the differences among the means between classes. The output is either in 'fvalue' or pvalue.\
+&emsp; &emsp; &emsp; ANOVA analyses the differences among the means between classes. The output is either in 'fvalue' or pvalue.\
 &emsp; &emsp; &emsp; *ktop* argument helps to select features with K highest 'fvalues'.\
 &emsp; &emsp; &emsp; The 'qvalue' is the Bonferroni correction of p-values with values lower than 0.1.\
 &emsp; &emsp; &emsp; The MI is based on mutual information. Here *ktop* helps to collect features with K highest MI value.
 
 
 &emsp; &emsp; &emsp; **ktop** &ensp; Select K highest value features\
-&emsp; &emsp; &emsp; Select features according to the k highest scores if feature selection is either fvalue or MI.
+&emsp; &emsp; &emsp; Select features according to the k highest scores if feature selection is either fvalue or MI.\
+&emsp; &emsp; &emsp; Default value is 10.
 
 &emsp; &emsp; &emsp; **model** &ensp; Machine Learning models\
-&emsp; &emsp; &emsp; Choices are 'SVM','RF','NB' and 'XGBoost'.\
+&emsp; &emsp; &emsp; Choices are 'SVM' (default), 'RF','NB' and 'XGBoost'.\
 &emsp; &emsp; &emsp; The models should be given in this format: '["SVM"]'\
-&emsp; &emsp; &emsp; In case it is mix fusion, the models should given in this format: '["SVM","RF", "NB", "XGBoost"]'
+&emsp; &emsp; &emsp; In the case where mixed fusion is applied, the models should be given in this format: '["SVM","RF", "NB", "XGBoost"]'
 
 &emsp; &emsp; &emsp; **random_state** &ensp; Fixing the randomization\
-&emsp; &emsp; &emsp; Default value is None.
+&emsp; &emsp; &emsp; Default value is None. 
 
 &emsp; &emsp; &emsp; **kernel** &ensp; Specifies the kernel type to be used in the algorithm\
-&emsp; &emsp; &emsp; This can be used when *classification* is SVM.
+&emsp; &emsp; &emsp; This can be used when *classification* is SVM.\
+&emsp; &emsp; &emsp; Default is 'linear'.
 
 &emsp; &emsp; &emsp; **C** &ensp; Regularization parameter\
 &emsp; &emsp; &emsp; The default value is 1. This can be used when *model* is SVM.
@@ -271,11 +275,11 @@ python3 scripts/integration.py --fusion late --annotation annotation.txt --annot
 &emsp; &emsp; &emsp; Default value is 100.
 
 &emsp; &emsp; &emsp; **criterion** &ensp; The function to measure the quality of a split in random forest\
-&emsp; &emsp; &emsp; Choices are 'gini' and 'entropy'
+&emsp; &emsp; &emsp; Choices are 'gini' (default) and 'entropy'
 
-&emsp; &emsp; &emsp; **njob** &ensp; The number of jobs to run in parallel in random forest
+&emsp; &emsp; &emsp; **njob** &ensp; The number of parallel jobs to run in random forest.
 
-&emsp; &emsp; &emsp; **output** &ensp; The folder path to save predictions and evaluation results\
+&emsp; &emsp; &emsp; **output** &ensp; The filepath for the predictions and evaluation results\
 &emsp; &emsp; &emsp; Only provide directory and file prefix. e.g. ./Desktop/DTI_prediction \
 &emsp; &emsp; &emsp; Click [here](./output/mix_DTI_prediction.csv) to see a sample prediction output and [here](./output/mix_DTI_prediction.png) for ROC and PR curves.\
 &emsp; &emsp; &emsp; In ROC and PR, the label of the positive class is fixed to 1.
@@ -284,8 +288,8 @@ python3 scripts/integration.py --fusion late --annotation annotation.txt --annot
 
 
 ## Example
-Here you can find the example of Drug-Target interaction link prediction task.\
-The toy data provided here are downsized versions of real data and not recommended to use in other scientific study.
+Here you can find the example of the Drug-Target interaction link prediction task.\
+The toy data provided here are downsized versions of real data and not recommended to use in other scientific studies.
 
 ```shell
 # 1) Network Preparation
@@ -322,7 +326,7 @@ python3 scripts/integration.py --fusion late --annotation ./output/annotation.tx
 
 ## Citation
 Please cite:\
-The paper is under processing.
+The paper is under process.
 
 Embedding methods in this section are inherited from OpenNE repository (https://github.com/thunlp/OpenNE). If only network embedding section used in your research and not the other parts, you should consider citing [OpenNE](https://github.com/thunlp/OpenNE.git) and the articles of embedding methods that you used.
 
