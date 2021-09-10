@@ -327,8 +327,9 @@ python3 scripts/integration.py --fusion late --annotation ./output/annotation.tx
 ## Citation
 Please cite:\
 The paper is under process.
-
 Embedding methods in this section are inherited from OpenNE repository (https://github.com/thunlp/OpenNE). If only network embedding section used in your research and not the other parts, you should consider citing [OpenNE](https://github.com/thunlp/OpenNE.git) and the articles of embedding methods that you used.
+
+BioNE is also archived at Zenodo (https://doi.org/10.5281/zenodo.5500712)
 
 ## Contact
 If you have any questions, please submit an issue on GitHub or send an email to [poorya.parvizi@ed.ac.uk](mailto:poorya.parvizi@ed.ac.uk).
