@@ -334,4 +334,4 @@ Embedding methods in this section are inherited from OpenNE repository (https://
 If you have any questions, please submit an issue on GitHub or send an email to [poorya.parvizi@ed.ac.uk](mailto:poorya.parvizi@ed.ac.uk).
 
 ## License
-Licensed under GPL V3.0 license
+Licensed under [GPLv3](./LICENCE) license
