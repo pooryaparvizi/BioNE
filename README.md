@@ -29,7 +29,7 @@ All of the analyses are written and tested on virtual environment using python 3
 
 To create the virtual environment:
 ```shell
-cd BioNE
+cd BioNE-main
 virtualenv --python=/usr/bin/python3.7 BioNEvenv
 ```
 
@@ -146,10 +146,10 @@ python3 scripts/embedding.py --method lle --input input.txt --directed --weighte
 &emsp; &emsp; &emsp; This parameter is used in *line*. The default is 5.
 
 &emsp; &emsp; &emsp; **kstep**: &ensp; Use k-step transition probability matrix\
-&emsp; &emsp; &emsp; This parameter is used in *grarep*. The default value is 4.
+&emsp; &emsp; &emsp; This parameter is used in *grarep*. The default value is 2.
 
 &emsp; &emsp; &emsp; **encoder-list**: &ensp; a list of neuron numbers in each encoder layer within *sdne*\
-&emsp; &emsp; &emsp; The last number is the dimension of the output embeddings. The default is [1000, 128].
+&emsp; &emsp; &emsp; The last number is the dimension of the output embeddings. The default is [1000,128].
 
 &emsp; &emsp; &emsp; **alpha**: &ensp; alpha is a hyperparameter in *sdne*\
 &emsp; &emsp; &emsp; The default value is 1e-6.
@@ -170,10 +170,10 @@ python3 scripts/embedding.py --method lle --input input.txt --directed --weighte
 &emsp; &emsp; &emsp; The learning rate controls how quickly the model adapts to the problem. The default is 0.001.
 
 &emsp; &emsp; &emsp; **walk-length**: &ensp; Length of the random walk started at each node\
-&emsp; &emsp; &emsp; This parameter is used in *node2vec* and *deepwalk*. The default value is 80.
+&emsp; &emsp; &emsp; This parameter is used in *node2vec* and *deepwalk*. The default value is 20.
 
 &emsp; &emsp; &emsp; **number-walks**: &ensp; Number of random walks to start at each node\
-&emsp; &emsp; &emsp; This parameter is used in *node2vec* and *deepwalk*. The default value is 10.
+&emsp; &emsp; &emsp; This parameter is used in *node2vec* and *deepwalk*. The default value is 80.
 
 &emsp; &emsp; &emsp; **workers**: &ensp; Number of parallel processes\
 &emsp; &emsp; &emsp; This parameter is used in *node2vec* and *deepwalk*. The default value is 8.

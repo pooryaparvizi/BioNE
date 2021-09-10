@@ -50,9 +50,9 @@ def parse_args():
                         help='Choose the order of line. 1 means first order, 2 means second order, 3 means first order + second order')    
     parser.add_argument('--negative_ratio', default=5, type=int,
                         help='Negative sampling ratio')
-    parser.add_argument('--kstep', default=4, type=int,
+    parser.add_argument('--kstep', default=2, type=int,
                         help='Use k-step transition probability matrix')
-    parser.add_argument('--encoder-list', default='[1000, 128]', type=str,
+    parser.add_argument('--encoder_list', default='[1000, 128]', type=str,
                         help='a list of numbers of the neurons at each encoder layer in sdne')    
     parser.add_argument('--alpha', default=1e-6, type=float,
                         help='alhpa is a hyperparameter in sdne')
@@ -66,9 +66,9 @@ def parse_args():
                         help='batch size in sdne')    
     parser.add_argument('--lr', default=0.01, type=float,
                         help='learning rate in sdne')    
-    parser.add_argument('--walk-length', default=80, type=int,
+    parser.add_argument('--walk-length', default=20, type=int,
                         help='Length of the random walk started at each node')
-    parser.add_argument('--number-walks', default=10, type=int,
+    parser.add_argument('--number-walks', default=80, type=int,
                         help='Number of random walks to start at each node')
     parser.add_argument('--workers', default=8, type=int,
                         help='Number of parallel processes')

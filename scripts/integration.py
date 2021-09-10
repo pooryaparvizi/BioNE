@@ -263,7 +263,7 @@ def annotation_merge(annotation_file, annotation_firstcolumn, annotation_secondc
         xfile= pd.read_csv(i, header= None,index_col= 0,  sep= " ")
         
         firstcolumn_embedding= pd.concat([firstcolumn_embedding, xfile], axis=1, join='outer')
-    firstcolumn_embedding= firstcolumn_embedding.loc[firstcolumn]
+    firstcolumn_embedding= firstcolumn_embedding.reindex(firstcolumn)
     firstcolumn_embedding= firstcolumn_embedding.reset_index(drop=True, inplace=False)
 
     if annotation_secondcolumn != []:
@@ -273,7 +273,7 @@ def annotation_merge(annotation_file, annotation_firstcolumn, annotation_secondc
             for j in annotation_secondcolumn:
                 x2file= pd.read_csv(j, header= None,index_col= 0,  sep= " ")
                 secondcolumn_embedding= pd.concat([secondcolumn_embedding, x2file], axis=1, join='outer')
-            secondcolumn_embedding= secondcolumn_embedding.loc[secondcolumn]
+            secondcolumn_embedding= secondcolumn_embedding.reindex(secondcolumn)
             secondcolumn_embedding.index= range(np.size(secondcolumn_embedding,0))
         else:
             raise ValueError ("annotation file have two columns. There is no need for annotation-secondcolumn argument")
