@@ -50,16 +50,16 @@ def parse_args():
     parser = argparse.ArgumentParser(description="Run integration")
 
     parser.add_argument('--fusion', default= 'late', choices=['early','late','mix'],
-            help='The integration type')
+            help='The integration type, choices are early, late and mix')
     
     parser.add_argument('--annotation', required=True,
-            help='The filepath of the annotation file')
+            help='The filepath of the annotation file of links/associations')
     
-    parser.add_argument('--annotation-firstcolumn', required=True, 
-            help='The filepaths of the node embedding files containing the entities of the first column in the annotation file')
+    parser.add_argument('--entity1-embeddings', required=True, 
+            help='Node embedding files containing the entities of the first column in the annotation file')
         
-    parser.add_argument('--annotation-secondcolumn',  required=False, default= '[]',
-            help='The filepaths of the node embedding files containing the entities of the second column in the annotation file')
+    parser.add_argument('--entity2-embeddings',  required=False, default= '[]',
+            help='Node embedding files containing the entities of the second column in the annotation file')
 
     parser.add_argument('--cv-type', help='cross-validation method',
                         default= 'split', choices=['kfold', 'stratified', 'split'])
@@ -70,33 +70,33 @@ def parse_args():
             help='Whether to shuffle each class’s samples before splitting into batches.')
 
 
-    parser.add_argument('--test-size', help='Percentage of the data to be test-set', default= 0.2, type= float)
+    parser.add_argument('--test-size', help='Percentage of the data to be test-set in case cv-type is split', default= 0.2, type= float)
     
 
     parser.add_argument('--imbalance', help='Dealing with imbalance dependent variables',
-                        default= None, choices=["equalize","SMOTE", "ADASYN", "None"])
+                        default= "None", choices=["equalize","SMOTE", "None"])
     
     parser.add_argument('--fselection', help='feature selection',
                         default= "None", choices=['qvalue','fvalue','MI', "None"])
 
     parser.add_argument('--ktop', 
-                        help='Select features according to the k highest scores if feature selection is either fvalue or MI', default= 10, type= int)
+                        help='top k highest scores if feature selection is either fvalue or MI', default= 10, type= int)
 
     parser.add_argument('--model', help='Machine Learning model for Classification',
-                        default= 'SVM')
+                        default= '["SVM"]')
 
     parser.add_argument('--random_state', default= None, type= int,
             help='Fixing the randomization')
     
-    parser.add_argument('--kernel', help='Specifies the kernel type to be used in the algorithm', default= "linear")
+    parser.add_argument('--kernel', help='Kernel type to be used in SVM', default= "linear")
     
     parser.add_argument('--C', help='Regularization parameter.', default= 1, type= float)
 
     parser.add_argument('--ntree', type= int, default= 100,
-            help='The number of trees in the forest')
+            help='The number of trees in the forest in case model is RF')
     
     parser.add_argument('--criterion', choices=['gini','entropy'],
-            help='The function to measure the quality of a split in random forest', default= "gini")
+            help='The function to measure the quality of a split in RF', default= "gini")
 
     parser.add_argument('--njob', type= int, default= 1,
             help='The number of jobs to run in parallel')
@@ -315,8 +315,8 @@ def annotation_merge(annotation_file, annotation_firstcolumn, annotation_secondc
 ## fusion
 def earlyfusion(args):
     
-    annotation_firstcolumn= ast.literal_eval(args.annotation_firstcolumn)
-    annotation_secondcolumn= ast.literal_eval(args.annotation_secondcolumn)
+    annotation_firstcolumn= ast.literal_eval(args.entity1_embeddings)
+    annotation_secondcolumn= ast.literal_eval(args.entity2_embeddings)
 
     classifier= ast.literal_eval(args.model)
     
@@ -325,6 +325,10 @@ def earlyfusion(args):
     
     anno_new, X= annotation_merge(annotation_file, annotation_firstcolumn, annotation_secondcolumn)
     y= anno_new.iloc[:,-1]
+    
+    
+    X, y= oversampling(args.imbalance, X, y, args.random_state)
+    
     kf= cv_set(args.cv_type, args.test_size, args.cv, X, y, args.random_state, args.cv_shuffle)
     
     score= []
@@ -338,15 +342,13 @@ def earlyfusion(args):
     X= pd.DataFrame(X)
     counter= 0
     for train_index, test_index in kf:   
-        
         X_train, X_test = X.iloc[train_index,:], X.iloc[test_index,:]
         y_train, y_test = y.iloc[train_index,:], y.iloc[test_index,:]
         
 
         counter += 1
         print("fold:", counter)
-        
-        X_train, y_train= oversampling(args.imbalance, X_train, y_train.iloc[:,-1], args.random_state)
+                
         y_train= pd.DataFrame(y_train)
         X_train= pd.DataFrame(X_train)
         
@@ -389,7 +391,7 @@ def earlyfusion(args):
     axs[1].text(0.35, 0.6, pr_auc_text , size=12)
     axs[1].set_xlim([-0.05, 1.05])
     axs[1].set_ylim([-0.05, 1.05])
-    plt.savefig(args.output + ".png")
+    plt.savefig(args.output + ".pdf", format= "pdf")
     
     score.to_csv(args.output + ".csv", index=True, header=True)
     return
@@ -399,8 +401,8 @@ def earlyfusion(args):
 
 def latefusion(args):
     
-    annotation_firstcolumn= ast.literal_eval(args.annotation_firstcolumn)
-    annotation_secondcolumn= ast.literal_eval(args.annotation_secondcolumn)
+    annotation_firstcolumn= ast.literal_eval(args.entity1_embeddings)
+    annotation_secondcolumn= ast.literal_eval(args.entity2_embeddings)
 
     classifier= ast.literal_eval(args.model)
     
@@ -417,12 +419,15 @@ def latefusion(args):
     
     nfile= len(annotation_firstcolumn)
     anno_new= mutual_check(annotation_file, annotation_firstcolumn, annotation_secondcolumn)
-    X= anno_new.iloc[:,:-1]
-    y= anno_new.iloc[:,-1]
-    
 
-    kf= cv_set(args.cv_type, args.test_size, args.cv, X, y, args.random_state, args.cv_shuffle)
-    
+    oversamples = {}
+    for j in range(nfile):
+        ann, merged= annotation_merge(anno_new, [annotation_firstcolumn[j]], [annotation_secondcolumn[j]])
+        X_oversample, y_oversample= oversampling(args.imbalance, merged, ann.iloc[:,-1], args.random_state)
+        oversamples[j]= [X_oversample, y_oversample]
+
+    kf= cv_set(args.cv_type, args.test_size, args.cv, X_oversample, y_oversample, args.random_state, args.cv_shuffle)
+            
     fig, axs = plt.subplots(1, 2, figsize = (15,10))
     score= []      
     counter= 0
@@ -431,17 +436,17 @@ def latefusion(args):
         counter += 1
         print("fold:", counter)
         for j in range(nfile):
-            ann, merged= annotation_merge(anno_new, [annotation_firstcolumn[j]], [annotation_secondcolumn[j]])
-            y= pd.DataFrame(ann.iloc[:,-1])
-            X= merged
+            
+            y= pd.DataFrame(oversamples[j][1])
+            X= pd.DataFrame(oversamples[j][0])
 
             X_train, X_test = X.iloc[train_index,:], X.iloc[test_index,:]
             y_train, y_test = y.iloc[train_index,-1], y.iloc[test_index,-1]
-        
-        
-            X_train, y_train= oversampling(args.imbalance, X_train, y_train, args.random_state)
             
             y_train= pd.DataFrame(y_train)
+            y_test= pd.DataFrame(y_test)
+            
+        
             X_train_fselected, X_test_fselected= feature_selection(args.fselection, X_train, y_train, X_test, args.ktop)
             y_prob, y_pred= classification(classifier[0], X_train_fselected, y_train, X_test_fselected, 
                                            y_test, args.random_state, args.kernel, args.C, args.ntree, args.criterion, args.njob)
@@ -497,7 +502,7 @@ def latefusion(args):
     axs[1].text(0.35, 0.6, pr_auc_text , size=12)
     axs[1].set_xlim([-0.05, 1.05])
     axs[1].set_ylim([-0.05, 1.05])
-    plt.savefig(args.output + ".png")
+    plt.savefig(args.output + ".pdf", format= "pdf")
     
     score.to_csv(args.output + ".csv", index=True, header=True)
     return 
@@ -508,8 +513,8 @@ def latefusion(args):
 def mixfusion(args):
     
         
-    annotation_firstcolumn= ast.literal_eval(args.annotation_firstcolumn)
-    annotation_secondcolumn= ast.literal_eval(args.annotation_secondcolumn)
+    annotation_firstcolumn= ast.literal_eval(args.entity1_embeddings)
+    annotation_secondcolumn= ast.literal_eval(args.entity2_embeddings)
 
     classifier= ast.literal_eval(args.model)
     #if len(classifier) <= 1:
@@ -521,6 +526,8 @@ def mixfusion(args):
     
     anno_new, X= annotation_merge(annotation_file, annotation_firstcolumn, annotation_secondcolumn)
     y= anno_new.iloc[:,-1]
+    
+    X, y= oversampling(args.imbalance, X, y, args.random_state)
     
     kf= cv_set(args.cv_type, args.test_size, args.cv, X, y, args.random_state, args.cv_shuffle)
     
@@ -541,7 +548,7 @@ def mixfusion(args):
 
         counter += 1
         print("fold:", counter)
-        X_train, y_train= oversampling(args.imbalance, X_train, y_train.iloc[:,-1], args.random_state)
+        
         y_train= pd.DataFrame(y_train)
         X_train= pd.DataFrame(X_train)
 
@@ -605,12 +612,12 @@ def mixfusion(args):
     axs[1].text(0.35, 0.6, pr_auc_text , size=12)
     axs[1].set_xlim([-0.05, 1.05])
     axs[1].set_ylim([-0.05, 1.05])
-    plt.savefig(args.output + ".png")
+    plt.savefig(args.output + ".pdf", format= "pdf")
     
     score.to_csv(args.output + ".csv", index=True, header=True)
     return 
             
-    
+
         
 
 

@@ -1,0 +1,5604 @@
+,V1
+S1,depressive disorder
+S2,drug-induced liver injury
+S3,mercury poisoning
+S4,necrosis
+S5,neoplasms
+S6,anemia, hemolytic
+S7,attention deficit and disruptive behavior disorders
+S8,autistic disorder
+S9,cognition disorders
+S10,cystitis
+S11,heavy metal toxicity
+S12,hemolysis
+S13,hypertension
+S14,lead poisoning
+S15,learning disorders
+S16,lung injury
+S17,micronuclei, chromosome-defective
+S18,pneumonia
+S19,anxiety disorders
+S20,ataxia
+S21,autoimmune diseases
+S22,brain diseases
+S23,brain edema
+S24,brain injuries
+S25,cardiomyopathies
+S26,craniofacial abnormalities
+S27,death
+S28,disease models, animal
+S29,drug toxicity
+S30,epilepsy
+S31,epilepsy, absence
+S32,fetal growth retardation
+S33,hyperkinesis
+S34,hypersensitivity, delayed
+S35,kidney diseases
+S36,lead poisoning, nervous system
+S37,memory disorders
+S38,movement disorders
+S39,myoclonus
+S40,nerve degeneration
+S41,prenatal exposure delayed effects
+S42,reflex, abnormal
+S43,seizures
+S44,splenomegaly
+S45,status epilepticus
+S46,weight loss
+S47,carcinoma
+S48,liver neoplasms, experimental
+S49,melanoma
+S50,prostatic neoplasms
+S51,respiratory distress syndrome, adult
+S52,urinary bladder neoplasms
+S53,abnormalities, drug-induced
+S54,abnormalities, multiple
+S55,acne vulgaris
+S56,activated protein c resistance
+S57,acute kidney injury
+S58,adenocarcinoma
+S59,adenoma, liver cell
+S60,adrenal insufficiency
+S61,adrenocortical hyperfunction
+S62,albuminuria
+S63,alcoholism
+S64,alopecia
+S65,amenorrhea
+S66,amnesia
+S67,anemia
+S68,anemia, iron-deficiency
+S69,anemia, macrocytic
+S70,aneuploidy
+S71,angioedema
+S72,anorexia
+S73,arrhythmias, cardiac
+S74,arterial occlusive diseases
+S75,arteriosclerosis
+S76,arthritis, experimental
+S77,asthenozoospermia
+S78,atherosclerosis
+S79,atrial septal defect 2
+S80,atrophy
+S81,attention deficit disorder with hyperactivity
+S82,biliary dyskinesia
+S83,birth weight
+S84,blood coagulation disorders
+S85,body weight changes
+S86,bone diseases
+S87,bone diseases, developmental
+S88,bone marrow diseases
+S89,bone resorption
+S90,brain ischemia
+S91,breast diseases
+S92,breast neoplasms
+S93,bronchial hyperreactivity
+S94,budd-chiari syndrome
+S95,cadmium poisoning
+S96,candidiasis, vulvovaginal
+S97,carcinoma, endometrioid
+S98,carcinoma, hepatocellular
+S99,carcinoma in situ
+S100,cardiomegaly
+S101,cardiomyopathy, hypertrophic
+S102,cardiovascular abnormalities
+S103,cardiovascular diseases
+S104,carotid artery thrombosis
+S105,catalepsy
+S106,cell transformation, neoplastic
+S107,cerebral hemorrhage
+S108,cerebral infarction
+S109,child behavior disorders
+S110,chloracne
+S111,cholangiocarcinoma
+S112,choledochal cyst
+S113,cholestasis
+S114,cholestasis, intrahepatic
+S115,chromosome aberrations
+S116,chronobiology disorders
+S117,cleft lip
+S118,cleft palate
+S119,cocaine-related disorders
+S120,colitis
+S121,congenital abnormalities
+S122,congenital, hereditary, and neonatal diseases and abnormalities
+S123,coronary artery disease
+S124,coronary occlusion
+S125,coxsackievirus infections
+S126,cystadenoma
+S127,cysts
+S128,diabetes mellitus, type 1
+S129,diabetes mellitus, type 2
+S130,diabetic nephropathies
+S131,diarrhea
+S132,disorders of sex development
+S133,disseminated intravascular coagulation
+S134,dizziness
+S135,drug hypersensitivity
+S136,dyslipidemias
+S137,dysmenorrhea
+S138,dysostoses
+S139,dyspepsia
+S140,dysuria
+S141,ear neoplasms
+S142,eating disorders
+S143,ebstein anomaly
+S144,ectrodactyly
+S145,edema
+S146,edema, cardiac
+S147,embryo loss
+S148,encephalomyelitis, autoimmune, experimental
+S149,endometrial neoplasms
+S150,endometriosis
+S151,epstein-barr virus infections
+S152,eye abnormalities
+S153,eye diseases
+S154,fatigue
+S155,fatty liver
+S156,feminization
+S157,fetal death
+S158,fetal diseases
+S159,fibrosis
+S160,folic acid deficiency
+S161,gallbladder diseases
+S162,gallbladder neoplasms
+S163,gallstones
+S164,genital diseases, female
+S165,genital diseases, male
+S166,glucose intolerance
+S167,glucose metabolism disorders
+S168,glycosuria
+S169,gonadal disorders
+S170,growth disorders
+S171,gynecomastia
+S172,hamartoma
+S173,hashimoto&apos;s encephalitis
+S174,headache
+S175,hearing disorders
+S176,heart defects, congenital
+S177,heart diseases
+S178,heart failure
+S179,heart septal defects, ventricular
+S180,hematuria
+S181,hemorrhage
+S182,hepatomegaly
+S183,herpes genitalis
+S184,hirsutism
+S185,hot flashes
+S186,hydronephrosis
+S187,hyperalgesia
+S188,hyperglycemia
+S189,hyperlipidemias
+S190,hyperplasia
+S191,hyperprolactinemia
+S192,hypertension, malignant
+S193,hypertension, renovascular
+S194,hyperthyroidism
+S195,hypertriglyceridemia
+S196,hypertrophy
+S197,hypertrophy, left ventricular
+S198,hypocalcemia
+S199,hypokinesia
+S200,hypospadias
+S201,immune system diseases
+S202,immunologic deficiency syndromes
+S203,infant, newborn, diseases
+S204,infertility
+S205,infertility, female
+S206,infertility, male
+S207,inflammation
+S208,insulin resistance
+S209,intestinal diseases
+S210,intestinal neoplasms
+S211,intracranial embolism and thrombosis
+S212,intracranial hemorrhages
+S213,iron overload
+S214,jaundice, obstructive
+S215,jaw abnormalities
+S216,keratitis, herpetic
+S217,kidney neoplasms
+S218,lactation disorders
+S219,leiomyoma
+S220,liver cirrhosis, experimental
+S221,liver diseases
+S222,liver neoplasms
+S223,lung diseases
+S224,lung neoplasms
+S225,lupus erythematosus, systemic
+S226,lymphatic diseases
+S227,lymphoma
+S228,lymphopenia
+S229,mammary neoplasms, animal
+S230,mammary neoplasms, experimental
+S231,manganese poisoning
+S232,medulloblastoma
+S233,melanosis
+S234,mesothelioma
+S235,metaplasia
+S236,metrorrhagia
+S237,microcephaly
+S238,mood disorders
+S239,musculoskeletal abnormalities
+S240,myocardial infarction
+S241,myocardial ischemia
+S242,myocardial reperfusion injury
+S243,myocarditis
+S244,nausea
+S245,neoplasm invasiveness
+S246,neoplasm metastasis
+S247,neoplasms, experimental
+S248,neovascularization, pathologic
+S249,nephritis
+S250,nervous system diseases
+S251,nervous system malformations
+S252,neural tube defects
+S253,neuronal migration disorders
+S254,neurotoxicity syndromes
+S255,olfaction disorders
+S256,oligospermia
+S257,osteoporosis, postmenopausal
+S258,ovarian cysts
+S259,ovarian diseases
+S260,ovarian neoplasms
+S261,pain
+S262,pancreatic neoplasms
+S263,panic disorder
+S264,paralysis
+S265,parkinson disease
+S266,peanut hypersensitivity
+S267,peliosis hepatis
+S268,pericardial effusion
+S269,pigmentation disorders
+S270,pituitary diseases
+S271,pituitary neoplasms
+S272,placenta diseases
+S273,pneumococcal infections
+S274,poisoning
+S275,polycystic ovary syndrome
+S276,polyuria
+S277,porphyria cutanea tarda
+S278,porphyrias, hepatic
+S279,precancerous conditions
+S280,pre-eclampsia
+S281,premature birth
+S282,prenatal injuries
+S283,prolactinoma
+S284,prostatic diseases
+S285,prostatic hyperplasia
+S286,prostatic intraepithelial neoplasia
+S287,prostatitis
+S288,proteinuria
+S289,pruritus
+S290,psychotic disorders
+S291,puberty, delayed
+S292,puberty, precocious
+S293,pulmonary embolism
+S294,pyelonephritis
+S295,respiratory system abnormalities
+S296,salivary gland diseases
+S297,sarcoma
+S298,scoliosis
+S299,sexual and gender disorders
+S300,sinus thrombosis, intracranial
+S301,skin diseases
+S302,skin neoplasms
+S303,skin ulcer
+S304,sleep initiation and maintenance disorders
+S305,somatosensory disorders
+S306,spermatocele
+S307,streptococcal infections
+S308,stroke
+S309,substance-related disorders
+S310,substance withdrawal syndrome
+S311,tachycardia
+S312,tachycardia, ventricular
+S313,taste disorders
+S314,testicular diseases
+S315,tetany
+S316,thromboangiitis obliterans
+S317,thromboembolism
+S318,thrombophilia
+S319,thrombophlebitis
+S320,thrombosis
+S321,thyroid diseases
+S322,tibial fractures
+S323,torsades de pointes
+S324,tricuspid atresia
+S325,ureteral obstruction
+S326,urethral stricture
+S327,urinary bladder calculi
+S328,urinary retention
+S329,urination disorders
+S330,urogenital abnormalities
+S331,uterine cervical neoplasms
+S332,uterine diseases
+S333,uterine hemorrhage
+S334,uterine neoplasms
+S335,vaginal diseases
+S336,vascular malformations
+S337,vasospasm, intracranial
+S338,venous thromboembolism
+S339,venous thrombosis
+S340,ventricular dysfunction
+S341,ventricular dysfunction, left
+S342,ventricular fibrillation
+S343,vestibular diseases
+S344,vision disorders
+S345,vomiting
+S346,wasting syndrome
+S347,weight gain
+S348,xanthomatosis
+S349,abortion, spontaneous
+S350,bone neoplasms
+S351,brain infarction
+S352,congenital diaphragmatic hernia
+S353,eosinophilia
+S354,exanthema
+S355,fanconi syndrome
+S356,fibromatosis, aggressive
+S357,gastrointestinal neoplasms
+S358,gastrointestinal stromal tumors
+S359,glioma
+S360,glomerulonephritis
+S361,hearing loss, sensorineural
+S362,hepatitis
+S363,hepatitis, autoimmune
+S364,hypophosphatemia
+S365,leukemia, experimental
+S366,leukemia, myelogenous, chronic, bcr-abl positive
+S367,leukemia, myeloid
+S368,lichenoid eruptions
+S369,liver cirrhosis
+S370,liver failure, acute
+S371,muscle cramp
+S372,muscular dystrophy, animal
+S373,neoplasms, hormone-dependent
+S374,neuroectodermal tumors, primitive, peripheral
+S375,osteolysis
+S376,osteopetrosis
+S377,peripheral nervous system diseases
+S378,precursor cell lymphoblastic leukemia-lymphoma
+S379,purpura
+S380,renal insufficiency
+S381,small cell lung carcinoma
+S382,stomach neoplasms
+S383,thrombocythemia, essential
+S384,thyroid neoplasms
+S385,vasculitis
+S386,aberrant crypt foci
+S387,angina pectoris
+S388,anoxia
+S389,antisocial personality disorder
+S390,aortic aneurysm
+S391,burns
+S392,cerebrovascular disorders
+S393,child development disorders, pervasive
+S394,colonic neoplasms
+S395,coronary disease
+S396,cryptorchidism
+S397,depressive disorder, major
+S398,diabetes mellitus, experimental
+S399,diabetic angiopathies
+S400,diabetic neuropathies
+S401,dyskinesia, drug-induced
+S402,dysthymic disorder
+S403,dystocia
+S404,epilepsies, myoclonic
+S405,erectile dysfunction
+S406,fetal nutrition disorders
+S407,firesetting behavior
+S408,glioblastoma
+S409,glomerulosclerosis, focal segmental
+S410,hiv wasting syndrome
+S411,hyperandrogenism
+S412,hypercholesterolemia
+S413,hyperinsulinism
+S414,hyperphagia
+S415,hypoglycemia
+S416,hypogonadism
+S417,hypopituitarism
+S418,hypotension
+S419,impulse control disorders
+S420,klinefelter syndrome
+S421,leydig cell tumor
+S422,lithiasis
+S423,lymphoma, non-hodgkin
+S424,malaria
+S425,melanoma, experimental
+S426,mental disorders
+S427,metabolic syndrome x
+S428,muscular atrophy
+S429,nephritis, interstitial
+S430,non-alcoholic fatty liver disease
+S431,obesity
+S432,plaque, atherosclerotic
+S433,polycythemia
+S434,reperfusion injury
+S435,salivary gland neoplasms
+S436,sebaceous gland neoplasms
+S437,sexual dysfunction, physiological
+S438,sexual dysfunctions, psychological
+S439,shock, hemorrhagic
+S440,shock, traumatic
+S441,sleep apnea, obstructive
+S442,splenic diseases
+S443,stomach diseases
+S444,varicocele
+S445,vascular calcification
+S446,virilism
+S447,voice disorders
+S448,abdomen, acute
+S449,abdominal pain
+S450,abruptio placentae
+S451,accelerated idioventricular rhythm
+S452,acid-base imbalance
+S453,acidosis
+S454,acute coronary syndrome
+S455,agoraphobia
+S456,agranulocytosis
+S457,aids dementia complex
+S458,akathisia, drug-induced
+S459,alveolitis, extrinsic allergic
+S460,anaphylaxis
+S461,aneurysm
+S462,aneurysm, dissecting
+S463,aneurysm, ruptured
+S464,angina, unstable
+S465,anisocoria
+S466,anterior spinal artery syndrome
+S467,anterior wall myocardial infarction
+S468,anti-glomerular basement membrane disease
+S469,anuria
+S470,aortic diseases
+S471,aortic rupture
+S472,aphasia
+S473,apnea
+S474,arthralgia
+S475,arthritis
+S476,asthma
+S477,athetosis
+S478,atresia of small intestine
+S479,atrial fibrillation
+S480,atrial flutter
+S481,atrioventricular block
+S482,auditory perceptual disorders
+S483,autonomic nervous system diseases
+S484,basal ganglia cerebrovascular disease
+S485,basal ganglia diseases
+S486,basal ganglia hemorrhage
+S487,bipolar disorder
+S488,blindness
+S489,blood platelet disorders
+S490,botulism
+S491,bradycardia
+S492,brain damage, chronic
+S493,brain stem infarctions
+S494,bronchial diseases
+S495,bronchial spasm
+S496,bronchiolitis obliterans
+S497,brown-sequard syndrome
+S498,bundle-branch block
+S499,cardiac complexes, premature
+S500,cardiomyopathy, dilated
+S501,carotid artery, internal, dissection
+S502,catatonia
+S503,cellulitis
+S504,central nervous system cysts
+S505,central nervous system diseases
+S506,cerebellar diseases
+S507,chest pain
+S508,chills
+S509,chorea
+S510,churg-strauss syndrome
+S511,cluster headache
+S512,colitis, ischemic
+S513,colonic diseases
+S514,color vision defects
+S515,coma
+S516,compartment syndromes
+S517,confusion
+S518,constriction, pathologic
+S519,coronary aneurysm
+S520,coronary stenosis
+S521,coronary thrombosis
+S522,coronary vasospasm
+S523,cough
+S524,cranial nerve diseases
+S525,cryoglobulinemia
+S526,death, sudden
+S527,death, sudden, cardiac
+S528,deglutition disorders
+S529,delirium
+S530,demyelinating diseases
+S531,developmental disabilities
+S532,diabetes insipidus
+S533,disorders of excessive somnolence
+S534,drug eruptions
+S535,dyspnea
+S536,dystonia
+S537,emphysema
+S538,encephalomalacia
+S539,encephalomyelitis, acute disseminated
+S540,endarteritis
+S541,endocarditis
+S542,endophthalmitis
+S543,enteritis
+S544,enterocolitis
+S545,epilepsy, tonic-clonic
+S546,epistaxis
+S547,exophthalmos
+S548,eye hemorrhage
+S549,eyelid diseases
+S550,facial injuries
+S551,facial pain
+S552,fetal distress
+S553,fetal membranes, premature rupture
+S554,fever
+S555,fibromuscular dysplasia
+S556,finger injuries
+S557,fistula
+S558,flank pain
+S559,gastroenteritis
+S560,gastrointestinal hemorrhage
+S561,gastroschisis
+S562,gingival diseases
+S563,gingival recession
+S564,granuloma
+S565,granuloma, foreign-body
+S566,granuloma, lethal midline
+S567,hallucinations
+S568,hearing loss
+S569,hearing loss, bilateral
+S570,hearing loss, sudden
+S571,heart arrest
+S572,heart rupture, post-infarction
+S573,heart septal defects, atrial
+S574,heart valve diseases
+S575,heat stroke
+S576,helicobacter infections
+S577,hematoma
+S578,hematoma, epidural, spinal
+S579,hematoma, subdural
+S580,hematoma, subdural, acute
+S581,hemolytic-uremic syndrome
+S582,hemoperitoneum
+S583,hepatic encephalopathy
+S584,heroin dependence
+S585,hiv infections
+S586,hydranencephaly
+S587,hyperammonemia
+S588,hypercalcemia
+S589,hyperkalemia
+S590,hypertension, pulmonary
+S591,hypertensive encephalopathy
+S592,hypesthesia
+S593,hyphema
+S594,hypokalemia
+S595,hypokalemic periodic paralysis
+S596,hypothermia
+S597,hypothyroidism
+S598,hypoxia, brain
+S599,hypoxia-ischemia, brain
+S600,iliac aneurysm
+S601,infant, premature, diseases
+S602,infarction
+S603,infarction, posterior cerebral artery
+S604,infection
+S605,intestinal obstruction
+S606,intracranial arterial diseases
+S607,intracranial thrombosis
+S608,intraoperative complications
+S609,intussusception
+S610,ischemia
+S611,ischemic attack, transient
+S612,jaundice
+S613,keratitis
+S614,kidney failure, chronic
+S615,kidney tubular necrosis, acute
+S616,kleeblattschaedel syndrome
+S617,labyrinth diseases
+S618,lacrimal duct obstruction
+S619,language development disorders
+S620,laryngeal diseases
+S621,laryngeal edema
+S622,lateral medullary syndrome
+S623,lethargy
+S624,leukocytosis
+S625,leukoencephalopathies
+S626,leukoencephalopathy, progressive multifocal
+S627,limb deformities, congenital
+S628,lip diseases
+S629,liver failure
+S630,long qt syndrome
+S631,low back pain
+S632,lung diseases, interstitial
+S633,magnesium deficiency
+S634,meconium aspiration syndrome
+S635,mediastinal emphysema
+S636,meningitis
+S637,mental disorders diagnosed in childhood
+S638,mesenteric vascular disease
+S639,mesenteric vascular occlusion
+S640,migraine disorders
+S641,mitral valve insufficiency
+S642,mobius syndrome
+S643,mononeuropathies
+S644,motor skills disorders
+S645,mouth abnormalities
+S646,mouth diseases
+S647,moyamoya disease
+S648,multiple organ failure
+S649,muscle hypertonia
+S650,muscle rigidity
+S651,muscle spasticity
+S652,muscle weakness
+S653,mutism
+S654,myasthenia gravis
+S655,mydriasis
+S656,myocardial stunning
+S657,nasal obstruction
+S658,neonatal abstinence syndrome
+S659,neoplasms, fibrous tissue
+S660,neurobehavioral manifestations
+S661,neuroleptic malignant syndrome
+S662,neuromuscular diseases
+S663,neutropenia
+S664,nose deformities, acquired
+S665,nose diseases
+S666,nose neoplasms
+S667,obsessive-compulsive disorder
+S668,obstetric labor, premature
+S669,ocular motility disorders
+S670,ophthalmoplegia
+S671,optic nerve diseases
+S672,oral fistula
+S673,orbital cellulitis
+S674,orbital diseases
+S675,osteomyelitis
+S676,osteonecrosis
+S677,pancreatitis
+S678,panniculitis
+S679,papilledema
+S680,paranasal sinus diseases
+S681,paranoid disorders
+S682,paresis
+S683,paresthesia
+S684,peptic ulcer perforation
+S685,periodontal diseases
+S686,peripheral vascular diseases
+S687,peritonitis
+S688,personality disorders
+S689,photosensitivity disorders
+S690,placenta accreta
+S691,pneumopericardium
+S692,pneumothorax
+S693,poland syndrome
+S694,postoperative complications
+S695,pregnancy complications
+S696,pregnancy complications, cardiovascular
+S697,pregnancy complications, hematologic
+S698,priapism
+S699,psychomotor agitation
+S700,psychomotor disorders
+S701,psychoses, substance-induced
+S702,puerperal disorders
+S703,pulmonary arterial hypertension
+S704,pulmonary edema
+S705,pulmonary emphysema
+S706,pulmonary infarction
+S707,pupil disorders
+S708,purpura, schoenlein-henoch
+S709,purpura, thrombotic thrombocytopenic
+S710,putaminal hemorrhage
+S711,pyoderma gangrenosum
+S712,quadriplegia
+S713,raynaud disease
+S714,reactive attachment disorder
+S715,reflex sympathetic dystrophy
+S716,renal artery obstruction
+S717,respiration disorders
+S718,respiratory distress syndrome, newborn
+S719,respiratory insufficiency
+S720,respiratory tract fistula
+S721,retinal artery occlusion
+S722,retinal diseases
+S723,retroperitoneal fibrosis
+S724,rhabdomyolysis
+S725,rhinitis
+S726,schizophrenia
+S727,scleroderma, systemic
+S728,scotoma
+S729,self mutilation
+S730,sensation disorders
+S731,shock
+S732,shock, cardiogenic
+S733,sialometaplasia, necrotizing
+S734,sialorrhea
+S735,sinoatrial block
+S736,sinus arrest, cardiac
+S737,sinusitis
+S738,skin diseases, vascular
+S739,sleep deprivation
+S740,sleep disorders
+S741,spasm
+S742,speech disorders
+S743,spinal cord ischemia
+S744,splenic infarction
+S745,stereotypic movement disorder
+S746,stomach ulcer
+S747,stomatognathic diseases
+S748,strabismus
+S749,subarachnoid hemorrhage
+S750,subcutaneous emphysema
+S751,sudden infant death
+S752,syncope
+S753,syphilis, congenital
+S754,systemic vasculitis
+S755,tachycardia, sinus
+S756,tachycardia, supraventricular
+S757,takotsubo cardiomyopathy
+S758,temporomandibular joint disorders
+S759,temporomandibular joint dysfunction syndrome
+S760,thrombocytopenia
+S761,thrombocytosis
+S762,tic disorders
+S763,tooth erosion
+S764,torticollis
+S765,tremor
+S766,trichotillomania
+S767,ulcer
+S768,unconsciousness
+S769,upper extremity deformities, congenital
+S770,urinary incontinence
+S771,uterine rupture
+S772,vascular diseases
+S773,vascular headaches
+S774,vasculitis, central nervous system
+S775,venous insufficiency
+S776,vertebrobasilar insufficiency
+S777,wegener granulomatosis
+S778,xerostomia
+S779,cerebral palsy
+S780,dementia
+S781,mercury poisoning, nervous system
+S782,nephrosis
+S783,neurologic manifestations
+S784,trauma, nervous system
+S785,adenocarcinoma of lung
+S786,adenocarcinoma, papillary
+S787,adenoma
+S788,adenoma, bile duct
+S789,ageusia
+S790,agricultural workers&apos; diseases
+S791,alcohol withdrawal delirium
+S792,alzheimer disease
+S793,amblyopia
+S794,anemia, aplastic
+S795,anemia, hemolytic, autoimmune
+S796,anemia, megaloblastic
+S797,anemia, sickle cell
+S798,anemia, sideroblastic
+S799,anencephaly
+S800,anus neoplasms
+S801,aortic aneurysm, abdominal
+S802,arthritis, psoriatic
+S803,astrocytoma
+S804,brain neoplasms
+S805,carcinoma, renal cell
+S806,carcinoma, squamous cell
+S807,cataract
+S808,central nervous system neoplasms
+S809,cerebellar ataxia
+S810,chromosome breakage
+S811,colorectal neoplasms
+S812,corneal opacity
+S813,coronary restenosis
+S814,diabetes mellitus
+S815,ectodermal dysplasia
+S816,endometrial hyperplasia
+S817,esophageal achalasia
+S818,esophageal neoplasms
+S819,exfoliation syndrome
+S820,fatty liver, alcoholic
+S821,fibrosarcoma
+S822,flushing
+S823,gastritis
+S824,gastrointestinal diseases
+S825,genital neoplasms, male
+S826,genomic instability
+S827,glaucoma
+S828,glycosylphosphatidylinositol deficiency
+S829,hemangioma
+S830,hematologic diseases
+S831,hepatoblastoma
+S832,histiocytoma, malignant fibrous
+S833,hiv seropositivity
+S834,hydrocephalus
+S835,hyperhomocysteinemia
+S836,laryngeal neoplasms
+S837,leukemia
+S838,leukemia, myeloid, acute
+S839,leukemic infiltration
+S840,lice infestations
+S841,lower extremity deformities, congenital
+S842,lymphoma, b-cell
+S843,lymphoma, t-cell
+S844,lymphoproliferative disorders
+S845,malaria, falciparum
+S846,maxillofacial abnormalities
+S847,meningioma
+S848,microsatellite instability
+S849,mouth neoplasms
+S850,mucositis
+S851,multiple chemical sensitivity
+S852,muscular diseases
+S853,nasopharyngeal neoplasms
+S854,neurilemmoma
+S855,neurodegenerative diseases
+S856,occupational diseases
+S857,oligodendroglioma
+S858,osteomalacia
+S859,osteoporosis
+S860,papilloma
+S861,pharyngeal neoplasms
+S862,polyneuropathies
+S863,psoriasis
+S864,psychophysiologic disorders
+S865,retinal degeneration
+S866,retinoblastoma
+S867,scabies
+S868,spinal cord diseases
+S869,spinal dysraphism
+S870,sprue, tropical
+S871,thymus neoplasms
+S872,tongue neoplasms
+S873,toxoplasmosis
+S874,uremia
+S875,wilms tumor
+S876,abdominal neoplasms
+S877,acidosis, lactic
+S878,acidosis, respiratory
+S879,acrodynia
+S880,acute disease
+S881,acute lung injury
+S882,adenoma, islet cell
+S883,adrenal gland neoplasms
+S884,alcohol-related disorders
+S885,alkalosis
+S886,amnesia, retrograde
+S887,anisometropia
+S888,apraxias
+S889,arnold-chiari malformation
+S890,arteritis
+S891,ascites
+S892,astigmatism
+S893,ataxia telangiectasia
+S894,back pain
+S895,blindness, cortical
+S896,bone diseases, metabolic
+S897,brain diseases, metabolic
+S898,breast neoplasms, male
+S899,camptocormia
+S900,carcinoma, ductal, breast
+S901,carcinoma, non-small-cell lung
+S902,carcinoma, pancreatic ductal
+S903,carcinoma, transitional cell
+S904,cardiovirus infections
+S905,cartilage diseases
+S906,cecal diseases
+S907,cholecystitis
+S908,cholelithiasis
+S909,choroid diseases
+S910,conduct disorder
+S911,consciousness disorders
+S912,corneal diseases
+S913,craniosynostoses
+S914,cystic fibrosis
+S915,dandy-walker syndrome
+S916,dermatitis
+S917,dermatitis, allergic contact
+S918,dermatitis, atopic
+S919,dermatitis, irritant
+S920,dermatofibrosarcoma
+S921,dermatomyositis
+S922,diabetes complications
+S923,diabetic cardiomyopathies
+S924,diabetic ketoacidosis
+S925,diabetic retinopathy
+S926,double outlet right ventricle
+S927,drug overdose
+S928,dysarthria
+S929,dyskinesias
+S930,dyspareunia
+S931,dysphonia
+S932,ear diseases
+S933,embolism
+S934,embolism, fat
+S935,endocardial cushion defects
+S936,endocrine system diseases
+S937,enuresis
+S938,epidermal necrolysis, toxic
+S939,epilepsies, partial
+S940,epilepsy, complex partial
+S941,epilepsy, generalized
+S942,epilepsy, reflex
+S943,epilepsy, rolandic
+S944,epilepsy, temporal lobe
+S945,erythema multiforme
+S946,esophagitis, peptic
+S947,essential tremor
+S948,female urogenital diseases
+S949,fetal resorption
+S950,fibroadenoma
+S951,fibromatosis, abdominal
+S952,gait ataxia
+S953,gait disorders, neurologic
+S954,glaucoma, angle-closure
+S955,glomerulonephritis, membranous
+S956,gout
+S957,granulosa cell tumor of the ovary
+S958,hair diseases
+S959,hemorrhagic disorders
+S960,hepatitis, chronic
+S961,hernia
+S962,hyperemia
+S963,hypergammaglobulinemia
+S964,hyperlipidemia, familial combined
+S965,hyperlipoproteinemias
+S966,hyperlipoproteinemia type ii
+S967,hyperlipoproteinemia type iv
+S968,hyperoxaluria
+S969,hypersensitivity
+S970,hypertelorism
+S971,hyperuricemia
+S972,hyponatremia
+S973,hypoplastic left heart syndrome
+S974,immunoproliferative disorders
+S975,inappropriate adh syndrome
+S976,influenza, human
+S977,intellectual disability
+S978,intracranial embolism
+S979,intracranial hypertension
+S980,keloid
+S981,ketosis
+S982,leukopenia
+S983,lipid metabolism disorders
+S984,lipidoses
+S985,lipomyelomeningocele
+S986,lupus erythematosus, cutaneous
+S987,lymphangiectasis, intestinal
+S988,lymphoma, t-cell, cutaneous
+S989,macular edema
+S990,malformations of cortical development
+S991,massive hepatic necrosis
+S992,melanoma, amelanotic
+S993,melas syndrome
+S994,meningocele
+S995,meningomyelocele
+S996,micrognathism
+S997,migraine with aura
+S998,migraine without aura
+S999,mitochondrial diseases
+S1000,mitochondrial myopathies
+S1001,mixed tumor, mullerian
+S1002,multiple myeloma
+S1003,muscle hypotonia
+S1004,musculoskeletal diseases
+S1005,myelodysplastic syndromes
+S1006,myoclonic epilepsy, juvenile
+S1007,myoglobinuria
+S1008,myositis
+S1009,neoplasm recurrence, local
+S1010,nephrosis, lipoid
+S1011,nephrotic syndrome
+S1012,nerve sheath neoplasms
+S1013,neurogenic bowel
+S1014,neurogenic inflammation
+S1015,neuromuscular manifestations
+S1016,niemann-pick disease, type c
+S1017,nocturnal enuresis
+S1018,nystagmus, congenital
+S1019,nystagmus, pathologic
+S1020,optic neuritis
+S1021,pain, postoperative
+S1022,pancreatic pseudocyst
+S1023,pancytopenia
+S1024,panniculitis, peritoneal
+S1025,papillomavirus infections
+S1026,parkinson disease, secondary
+S1027,parkinsonian disorders
+S1028,pericarditis
+S1029,pheochromocytoma
+S1030,pleural effusion
+S1031,pleural neoplasms
+S1032,poems syndrome
+S1033,polymyositis
+S1034,porphyria, acute intermittent
+S1035,postoperative hemorrhage
+S1036,protein deficiency
+S1037,pseudolymphoma
+S1038,pseudotumor cerebri
+S1039,red-cell aplasia, pure
+S1040,renal hypouricemia
+S1041,retinitis pigmentosa
+S1042,reye syndrome
+S1043,rhabdomyosarcoma
+S1044,schistosomiasis japonica
+S1045,schistosomiasis mansoni
+S1046,scleroderma, localized
+S1047,seizures, febrile
+S1048,signs and symptoms, digestive
+S1049,skin abnormalities
+S1050,spasms, infantile
+S1051,spina bifida cystica
+S1052,spina bifida occulta
+S1053,spinal cord injuries
+S1054,stevens-johnson syndrome
+S1055,stress disorders, post-traumatic
+S1056,stupor
+S1057,stuttering
+S1058,syndrome
+S1059,systemic carnitine deficiency
+S1060,tension-type headache
+S1061,tinnitus
+S1062,tongue diseases
+S1063,translocation, genetic
+S1064,transposition of great vessels
+S1065,twins, conjoined
+S1066,unverricht-lundborg syndrome
+S1067,urinary bladder diseases
+S1068,urinary bladder, neurogenic
+S1069,uterine prolapse
+S1070,valproic acid antenatal infection
+S1071,vasculitis, leukocytoclastic, cutaneous
+S1072,abducens nerve diseases
+S1073,alcohol withdrawal seizures
+S1074,anemia, hypochromic
+S1075,arthritis, gouty
+S1076,arthritis, rheumatoid
+S1077,azotemia
+S1078,behcet syndrome
+S1079,calcinosis
+S1080,cardiomyopathy, alcoholic
+S1081,central nervous system infections
+S1082,cholangitis
+S1083,dermatitis, exfoliative
+S1084,duodenal ulcer
+S1085,end stage liver disease
+S1086,extravasation of diagnostic and therapeutic materials
+S1087,facial paralysis
+S1088,fibromyalgia
+S1089,gingival hyperplasia
+S1090,gingival hypertrophy
+S1091,gingival overgrowth
+S1092,gingivitis
+S1093,graft vs host disease
+S1094,guillain-barre syndrome
+S1095,hemoglobinuria, paroxysmal
+S1096,hemostatic disorders
+S1097,hepatic veno-occlusive disease
+S1098,hepatitis b, chronic
+S1099,hepatitis c
+S1100,hyperbilirubinemia
+S1101,hypertension, renal
+S1102,hypertrichosis
+S1103,hypervitaminosis a
+S1104,immune suppression
+S1105,jaundice, neonatal
+S1106,keratoconjunctivitis sicca
+S1107,kidney calculi
+S1108,metabolic diseases
+S1109,metal metabolism, inborn errors
+S1110,monosomy
+S1111,multicystic dysplastic kidney
+S1112,myoclonic epilepsies, progressive
+S1113,nails, malformed
+S1114,nephrocalcinosis
+S1115,nephrosis, congenital
+S1116,neuralgia
+S1117,oral ulcer
+S1118,organophosphate poisoning
+S1119,osteosarcoma
+S1120,pain, intractable
+S1121,pancreatitis, chronic
+S1122,pemphigus
+S1123,polyploidy
+S1124,posterior leukoencephalopathy syndrome
+S1125,precursor t-cell lymphoblastic leukemia-lymphoma
+S1126,premenstrual syndrome
+S1127,protozoan infections, animal
+S1128,purpura, thrombocytopenic, idiopathic
+S1129,recurrence
+S1130,retinal vein occlusion
+S1131,scleroderma, diffuse
+S1132,serotonin syndrome
+S1133,spermatic cord torsion
+S1134,stomatitis, aphthous
+S1135,sturge-weber syndrome
+S1136,thrombotic microangiopathies
+S1137,thyroid cancer, follicular
+S1138,tourette syndrome
+S1139,trisomy
+S1140,urolithiasis
+S1141,uveitis
+S1142,uveitis, posterior
+S1143,vacuolar myopathy
+S1144,vascular system injuries
+S1145,vitamin b 12 deficiency
+S1146,xerophthalmia
+S1147,abnormalities, severe teratoid
+S1148,airway obstruction
+S1149,alcohol-induced disorders
+S1150,bile duct diseases
+S1151,biliary tract diseases
+S1152,cardiac output, high
+S1153,crohn disease
+S1154,drug-induced liver injury, chronic
+S1155,headache disorders
+S1156,hyperesthesia
+S1157,hyperventilation
+S1158,hypoalbuminemia
+S1159,hypovolemia
+S1160,kidney papillary necrosis
+S1161,male urogenital diseases
+S1162,methemoglobinemia
+S1163,oliguria
+S1164,osteoarthritis
+S1165,postoperative nausea and vomiting
+S1166,purpura fulminans
+S1167,respiratory hypersensitivity
+S1168,respiratory tract infections
+S1169,spondylosis
+S1170,ureteral neoplasms
+S1171,urologic diseases
+S1172,urticaria
+S1173,abscess
+S1174,accutane embryopathy
+S1175,acidosis, renal tubular
+S1176,acneiform eruptions
+S1177,acrodermatitis
+S1178,acth deficiency, isolated
+S1179,actinomycetales infections
+S1180,acute-phase reaction
+S1181,adams-stokes syndrome
+S1182,adenocarcinoma, bronchiolo-alveolar
+S1183,adenoviridae infections
+S1184,adrenal cortex diseases
+S1185,adrenal gland diseases
+S1186,adrenal hyperplasia, congenital
+S1187,adrenocortical adenoma
+S1188,adrenocortical carcinoma
+S1189,affective disorders, psychotic
+S1190,aids-related opportunistic infections
+S1191,akinetic mutism
+S1192,alopecia areata
+S1193,altitude sickness
+S1194,amphetamine-related disorders
+S1195,amyopathic dermatomyositis
+S1196,amyotrophic lateral sclerosis
+S1197,anemia, hypoplastic, congenital
+S1198,anemia, refractory, with excess of blasts
+S1199,angioedemas, hereditary
+S1200,anorexia nervosa
+S1201,anotia
+S1202,anti-neutrophil cytoplasmic antibody-associated vasculitis
+S1203,aortic valve stenosis
+S1204,aortitis
+S1205,aphasia, broca
+S1206,arsenic poisoning
+S1207,arthritis, juvenile rheumatoid
+S1208,aspergillosis
+S1209,asthenia
+S1210,atypical hemolytic uremic syndrome
+S1211,azoospermia
+S1212,bacteremia
+S1213,bacterial infections
+S1214,berylliosis
+S1215,biliary tract neoplasms
+S1216,blast crisis
+S1217,blastomycosis
+S1218,blepharospasm
+S1219,blue toe syndrome
+S1220,bone diseases, infectious
+S1221,bone marrow neoplasms
+S1222,brachial plexus neuritis
+S1223,brain abscess
+S1224,brain hemorrhage, traumatic
+S1225,bronchial neoplasms
+S1226,bronchitis
+S1227,bronchitis, chronic
+S1228,bronchopneumonia
+S1229,bronchopulmonary dysplasia
+S1230,burkitt lymphoma
+S1231,cachexia
+S1232,candidiasis
+S1233,candidiasis, chronic mucocutaneous
+S1234,candidiasis, invasive
+S1235,candidiasis, oral
+S1236,capillary leak syndrome
+S1237,carcinoma, bronchogenic
+S1238,carcinoma, ehrlich tumor
+S1239,carcinoma, large cell
+S1240,carcinoma, lewis lung
+S1241,carcinoma, lobular
+S1242,carcinoma, small cell
+S1243,carcinoma, squamous cell of head and neck
+S1244,carcinosarcoma
+S1245,cardiac output, low
+S1246,cardiac tamponade
+S1247,carotid artery injuries
+S1248,carotid stenosis
+S1249,cataplexy
+S1250,cavernous sinus thrombosis
+S1251,celiac disease
+S1252,central nervous system fungal infections
+S1253,cerebral hemorrhage, traumatic
+S1254,cheilitis
+S1255,cholangitis, sclerosing
+S1256,chorioamnionitis
+S1257,cicatrix
+S1258,cochlear diseases
+S1259,colitis, ulcerative
+S1260,community-acquired infections
+S1261,conjunctival diseases
+S1262,conjunctivitis
+S1263,constipation
+S1264,contusions
+S1265,corneal ulcer
+S1266,craniocerebral trauma
+S1267,cross infection
+S1268,cryptococcosis
+S1269,cushing syndrome
+S1270,cyanosis
+S1271,cysticercosis
+S1272,cytochrome-c oxidase deficiency
+S1273,deafness
+S1274,deficiency diseases
+S1275,dehydration
+S1276,delayed graft function
+S1277,dental caries
+S1278,dermatitis, contact
+S1279,diabetes insipidus, nephrogenic
+S1280,diabetic foot
+S1281,diffuse axonal injury
+S1282,diplopia
+S1283,discitis
+S1284,disease progression
+S1285,dissociative disorders
+S1286,dog diseases
+S1287,dysgerminoma
+S1288,echinococcosis
+S1289,eczema
+S1290,encephalitis
+S1291,endocarditis, bacterial
+S1292,endocarditis, subacute bacterial
+S1293,endolymphatic hydrops
+S1294,endomyocardial fibrosis
+S1295,endotoxemia
+S1296,enterobacteriaceae infections
+S1297,enterocolitis, necrotizing
+S1298,enterocolitis, neutropenic
+S1299,enterocolitis, pseudomembranous
+S1300,eosinophilia-myalgia syndrome
+S1301,epidural abscess
+S1302,erythema
+S1303,erythema nodosum
+S1304,esophageal diseases
+S1305,esophagitis
+S1306,eye injuries
+S1307,facial dermatoses
+S1308,facies
+S1309,fallopian tube neoplasms
+S1310,fasciculation
+S1311,fat necrosis
+S1312,fibrocystic breast disease
+S1313,fibroma
+S1314,focal nodular hyperplasia
+S1315,foreign-body reaction
+S1316,gas poisoning
+S1317,genital neoplasms, female
+S1318,germinoma
+S1319,giant cell arteritis
+S1320,glaucoma, open-angle
+S1321,gliosis
+S1322,glomerulonephritis, iga
+S1323,glomerulonephritis, membranoproliferative
+S1324,goiter
+S1325,gonadal dysgenesis
+S1326,gram-negative bacterial infections
+S1327,gram-positive bacterial infections
+S1328,granuloma, laryngeal
+S1329,granuloma, respiratory tract
+S1330,granulomatous allergic angiitis
+S1331,granulosa cell tumor
+S1332,graves disease
+S1333,graves ophthalmopathy
+S1334,hand-foot syndrome
+S1335,head and neck neoplasms
+S1336,hearing loss, cisplatin-induced, susceptibility to
+S1337,hearing loss, conductive
+S1338,hearing loss, high-frequency
+S1339,hearing loss, unilateral
+S1340,heart block
+S1341,heart injuries
+S1342,hemangioendothelioma
+S1343,hemangioma, cavernous
+S1344,hemiplegia
+S1345,hemoglobinuria
+S1346,hemoptysis
+S1347,hepatic insufficiency
+S1348,hepatitis, animal
+S1349,hepatitis b
+S1350,hepatolenticular degeneration
+S1351,hereditary angioedema types i and ii
+S1352,hernia, diaphragmatic
+S1353,hiccup
+S1354,hidradenitis suppurativa
+S1355,high serum cholesterol, familial
+S1356,histiocytic disorders, malignant
+S1357,histiocytosis
+S1358,histiocytosis, langerhans-cell
+S1359,histoplasmosis
+S1360,hoarseness
+S1361,hodgkin disease
+S1362,huntington disease
+S1363,hyperaldosteronism
+S1364,hypercalciuria
+S1365,hypereosinophilic syndrome
+S1366,hyperpigmentation
+S1367,hypersensitivity, immediate
+S1368,hypersplenism
+S1369,hypertension, portal
+S1370,hypertrophy, right ventricular
+S1371,hypoalphalipoproteinemias
+S1372,hypomagnesemia 2, renal
+S1373,hypomagnesemia primary
+S1374,hypoproteinemia
+S1375,hypotension, orthostatic
+S1376,ichthyosis
+S1377,idiopathic intracranial hypertension with papilledema
+S1378,ileal diseases
+S1379,ileus
+S1380,infarction, middle cerebral artery
+S1381,inflammatory bowel diseases
+S1382,intervertebral disc degeneration
+S1383,intestinal polyps
+S1384,intracranial aneurysm
+S1385,iridocyclitis
+S1386,iron metabolism disorders
+S1387,isotretinoin embryopathy like syndrome
+S1388,jaw diseases
+S1389,joint diseases
+S1390,kashin-beck disease
+S1391,kidney cortex necrosis
+S1392,kleine-levin syndrome
+S1393,lacrimal apparatus diseases
+S1394,laryngostenosis
+S1395,latent tuberculosis
+S1396,leiomyosarcoma
+S1397,leishmaniasis
+S1398,leishmaniasis, cutaneous
+S1399,leishmaniasis, mucocutaneous
+S1400,leishmaniasis, visceral
+S1401,leprosy, lepromatous
+S1402,leukemia, lymphocytic, chronic, b-cell
+S1403,leukemia, lymphoid
+S1404,leukemia, myelomonocytic, chronic
+S1405,leukemia, promyelocytic, acute
+S1406,leukomalacia, periventricular
+S1407,leukorrhea
+S1408,lichen planus
+S1409,lipodystrophy
+S1410,liver abscess, amebic
+S1411,liver cirrhosis, biliary
+S1412,liver diseases, alcoholic
+S1413,lung diseases, fungal
+S1414,lung diseases, obstructive
+S1415,lupus nephritis
+S1416,lymphatic metastasis
+S1417,lymphedema
+S1418,lymphocele
+S1419,lymphoma, aids-related
+S1420,lymphoma, large b-cell, diffuse
+S1421,lymphoma, t-cell, peripheral
+S1422,macrostomia
+S1423,malnutrition
+S1424,mastitis
+S1425,mastodynia
+S1426,maxillary sinus neoplasms
+S1427,mediastinitis
+S1428,meningeal neoplasms
+S1429,meningitis, aseptic
+S1430,meningitis, bacterial
+S1431,meningitis, cryptococcal
+S1432,meningitis, listeria
+S1433,meningitis, pneumococcal
+S1434,meningoencephalitis
+S1435,menkes kinky hair syndrome
+S1436,menorrhagia
+S1437,menstruation disturbances
+S1438,microphthalmos
+S1439,microstomia
+S1440,microvascular angina
+S1441,miller fisher syndrome
+S1442,miosis
+S1443,motion sickness
+S1444,motor neuron disease
+S1445,multiple pulmonary nodules
+S1446,multiple sclerosis
+S1447,multiple sclerosis, chronic progressive
+S1448,mushroom poisoning
+S1449,mycobacterium infections
+S1450,mycobacterium infections, nontuberculous
+S1451,mycoses
+S1452,myelinolysis, central pontine
+S1453,myopia
+S1454,myositis, inclusion body
+S1455,myxedema
+S1456,narcolepsy
+S1457,neointima
+S1458,neoplasms, germ cell and embryonal
+S1459,neoplasms, glandular and epithelial
+S1460,neoplasms, unknown primary
+S1461,nephrolithiasis
+S1462,neurasthenia
+S1463,neuritis
+S1464,neuroblastoma
+S1465,neurocysticercosis
+S1466,neuroectodermal tumors
+S1467,neuromuscular junction diseases
+S1468,neurotic disorders
+S1469,neutrophil chemotactic response
+S1470,night blindness
+S1471,nocardiosis
+S1472,nonseminomatous germ cell tumor
+S1473,occipital horn syndrome
+S1474,ocular hypertension
+S1475,ocular hypotension
+S1476,onychomycosis
+S1477,opportunistic infections
+S1478,osteosclerosis
+S1479,ovarian epithelial cancer
+S1480,pancreatic diseases
+S1481,panniculitis, lupus erythematosus
+S1482,paraganglioma, extra-adrenal
+S1483,paraparesis, tropical spastic
+S1484,paraproteinemias
+S1485,paronychia
+S1486,pellagra
+S1487,pemphigoid, bullous
+S1488,penile diseases
+S1489,perceptual disorders
+S1490,periodontitis
+S1491,peripheral arterial disease
+S1492,phlebitis
+S1493,pica
+S1494,picornaviridae infections
+S1495,pituitary apoplexy
+S1496,placental insufficiency
+S1497,plasmacytoma
+S1498,pleural diseases
+S1499,pneumonia, bacterial
+S1500,pneumonia, pneumococcal
+S1501,pneumonia, staphylococcal
+S1502,polyarteritis nodosa
+S1503,polycystic kidney, autosomal dominant
+S1504,polycystic kidney diseases
+S1505,polycythemia vera
+S1506,polyomavirus infections
+S1507,polyradiculoneuropathy, chronic inflammatory demyelinating
+S1508,poultry diseases
+S1509,precursor b-cell lymphoblastic leukemia-lymphoma
+S1510,pre-excitation syndromes
+S1511,pregnancy complications, infectious
+S1512,primary myelofibrosis
+S1513,prion diseases
+S1514,proctitis
+S1515,protein c deficiency
+S1516,pseudomonas infections
+S1517,psoas abscess
+S1518,pulmonary disease, chronic obstructive
+S1519,pulmonary fibrosis
+S1520,pulpitis
+S1521,pyomyositis
+S1522,rectal neoplasms
+S1523,respiratory sounds
+S1524,retroperitoneal liposarcoma
+S1525,rhabdoviridae infections
+S1526,rheumatic diseases
+S1527,rheumatic fever
+S1528,rippling muscle disease, 1
+S1529,rosacea
+S1530,sacroiliitis
+S1531,sagittal sinus thrombosis
+S1532,salmonella infections, animal
+S1533,sarcoidosis
+S1534,sarcoma, ewing
+S1535,sarcoma, synovial
+S1536,sarcopenia
+S1537,sciatic neuropathy
+S1538,scleral diseases
+S1539,scleritis
+S1540,scleromyxedema
+S1541,sclerosis
+S1542,scrapie
+S1543,scurvy
+S1544,sepsis
+S1545,shock, septic
+S1546,shoulder pain
+S1547,shwartzman phenomenon
+S1548,sjogren&apos;s syndrome
+S1549,skin diseases, bacterial
+S1550,sleep apnea, central
+S1551,somatoform disorders
+S1552,spinocerebellar degenerations
+S1553,staphylococcal infections
+S1554,staphylococcal skin infections
+S1555,starvation
+S1556,status asthmaticus
+S1557,stiff-person syndrome
+S1558,stomatitis
+S1559,striae distensae
+S1560,striatonigral degeneration
+S1561,surgical wound dehiscence
+S1562,syncope, vasovagal
+S1563,tachycardia, atrioventricular nodal reentry
+S1564,tachycardia, reciprocating
+S1565,telangiectasis
+S1566,teratoma
+S1567,testicular neoplasms
+S1568,thrombocytopenic purpura, autoimmune
+S1569,thyrotoxicosis
+S1570,tinea versicolor
+S1571,tissue adhesions
+S1572,tooth injuries
+S1573,tooth loss
+S1574,toxoplasmosis, cerebral
+S1575,tracheal diseases
+S1576,tracheal neoplasms
+S1577,trypanosomiasis
+S1578,tuberculosis
+S1579,tuberculosis, central nervous system
+S1580,tuberculosis, gastrointestinal
+S1581,tuberculosis, lymph node
+S1582,tuberculosis, meningeal
+S1583,tuberculosis, multidrug-resistant
+S1584,tuberculosis, pleural
+S1585,tuberculosis, pulmonary
+S1586,tuberculosis, spinal
+S1587,tuberous sclerosis
+S1588,urethral neoplasms
+S1589,urethritis
+S1590,urinary tract infections
+S1591,urogenital neoplasms
+S1592,urologic neoplasms
+S1593,uveomeningoencephalitic syndrome
+S1594,vaginal neoplasms
+S1595,ventricular flutter
+S1596,ventricular outflow obstruction
+S1597,ventricular premature complexes
+S1598,ventricular remodeling
+S1599,vertigo
+S1600,viremia
+S1601,virus diseases
+S1602,vitamin b 6 deficiency
+S1603,vitiligo
+S1604,vocal cord paralysis
+S1605,vulvar diseases
+S1606,waldenstrom macroglobulinemia
+S1607,water-electrolyte imbalance
+S1608,wolff-parkinson-white syndrome
+S1609,wounds and injuries
+S1610,wounds, penetrating
+S1611,arrest of spermatogenesis
+S1612,arthritis, infectious
+S1613,chlamydia infections
+S1614,glycosuria, renal
+S1615,renal aminoacidurias
+S1616,angina pectoris, variant
+S1617,hemangiosarcoma
+S1618,leukemia, erythroblastic, acute
+S1619,leukostasis
+S1620,lipoma
+S1621,liposarcoma
+S1622,neoplasms, adipose tissue
+S1623,peritoneal fibrosis
+S1624,persistent fetal circulation syndrome
+S1625,splenic neoplasms
+S1626,vascular neoplasms
+S1627,coloboma
+S1628,corneal neovascularization
+S1629,fetal weight
+S1630,hereditary sensory and motor neuropathy
+S1631,muscular atrophy, spinal
+S1632,nervous system neoplasms
+S1633,respiratory tract diseases
+S1634,tobacco use disorder
+S1635,achalasia addisonianism alacrimia syndrome
+S1636,amyloidosis
+S1637,anus, imperforate
+S1638,bladder exstrophy
+S1639,blepharoptosis
+S1640,blister
+S1641,cheyne-stokes respiration
+S1642,cholestasis, extrahepatic
+S1643,conjunctivitis, allergic
+S1644,cryptogenic organizing pneumonia
+S1645,cutis marmorata telangiectatica congenita
+S1646,digestive system abnormalities
+S1647,down syndrome
+S1648,eclampsia
+S1649,endocrine gland neoplasms
+S1650,eosinophilic granuloma
+S1651,epidermolysis bullosa
+S1652,epilepsia partialis continua
+S1653,fatigue syndrome, chronic
+S1654,fecal impaction
+S1655,fetal hydantoin syndrome
+S1656,foot deformities, congenital
+S1657,ganglioneuroblastoma
+S1658,hand deformities, congenital
+S1659,hernia, umbilical
+S1660,holoprosencephaly
+S1661,hyperhidrosis
+S1662,hyperparathyroidism, secondary
+S1663,hypopigmentation
+S1664,iga deficiency
+S1665,immunoblastic lymphadenopathy
+S1666,isaacs syndrome
+S1667,lymphocytosis
+S1668,median neuropathy
+S1669,megacolon
+S1670,mesenchymoma
+S1671,mucocutaneous lymph node syndrome
+S1672,myotonia congenita
+S1673,myotonic dystrophy
+S1674,neuroaxonal dystrophies
+S1675,neuroectodermal tumor, melanotic
+S1676,neuroectodermal tumors, primitive
+S1677,ornithine carbamoyltransferase deficiency disease
+S1678,peroneal neuropathies
+S1679,polydactyly
+S1680,pregnancy, prolonged
+S1681,reflex, babinski
+S1682,serum sickness
+S1683,skin diseases, papulosquamous
+S1684,systemic necrotizing angiitis
+S1685,tachycardia, ectopic junctional
+S1686,thymus hyperplasia
+S1687,tibial neuropathy
+S1688,trigeminal neuralgia
+S1689,ulnar neuropathies
+S1690,vitamin d deficiency
+S1691,cryptosporidiosis
+S1692,subdural effusion
+S1693,acquired immunodeficiency syndrome
+S1694,adrenal cortex neoplasms
+S1695,alstrom syndrome
+S1696,brucellosis
+S1697,carotid artery diseases
+S1698,corynebacterium infections
+S1699,delayed emergence from anesthesia
+S1700,dystonic disorders
+S1701,leprosy
+S1702,leprosy, borderline
+S1703,leprosy, multibacillary
+S1704,leprosy, tuberculoid
+S1705,lipodystrophy, familial partial
+S1706,meningitis, meningococcal
+S1707,meningococcal infections
+S1708,mycobacterium avium-intracellulare infection
+S1709,panuveitis
+S1710,phosphorus metabolism disorders
+S1711,plant poisoning
+S1712,pleurisy
+S1713,retinal vasculitis
+S1714,tooth demineralization
+S1715,tuberculosis, renal
+S1716,agammaglobulinemia
+S1717,alcoholic intoxication
+S1718,alcohol-induced disorders, nervous system
+S1719,alexander disease
+S1720,amnesia, transient global
+S1721,amyotrophic lateral sclerosis 1
+S1722,anophthalmos
+S1723,aortopulmonary septal defect
+S1724,aphonia
+S1725,arthropathy, neurogenic
+S1726,body temperature changes
+S1727,body weight
+S1728,bone marrow failure syndromes
+S1729,bulimia
+S1730,calculi
+S1731,capgras syndrome
+S1732,carcinoid tumor
+S1733,carcinoma, basal cell
+S1734,cardiomyopathy dilated with woolly hair and keratoderma
+S1735,chalazion
+S1736,cholestasis, intrahepatic of pregnancy
+S1737,cholestasis, progressive familial intrahepatic 1
+S1738,clubfoot
+S1739,congenital hypothyroidism
+S1740,conotruncal cardiac defects
+S1741,coronary vessel anomalies
+S1742,desmoid disease, hereditary
+S1743,desmoplastic small round cell tumor
+S1744,digestive system diseases
+S1745,dilatation, pathologic
+S1746,endocardial fibroelastosis
+S1747,epididymitis
+S1748,epilepsy, benign neonatal
+S1749,erythromelalgia
+S1750,esophageal and gastric varices
+S1751,esophageal atresia
+S1752,familial primary gastric lymphoma
+S1753,fetal alcohol syndrome
+S1754,foot dermatoses
+S1755,foot ulcer
+S1756,galactorrhea
+S1757,hand dermatoses
+S1758,headache disorders, primary
+S1759,hearing loss, noise-induced
+S1760,hematologic neoplasms
+S1761,hemosiderosis
+S1762,hepatitis, alcoholic
+S1763,hepatitis c, chronic
+S1764,hepatorenal syndrome
+S1765,hydrothorax
+S1766,inflammatory breast neoplasms
+S1767,irritable bowel syndrome
+S1768,lens diseases
+S1769,leukemia l1210
+S1770,lewy body disease
+S1771,liver abscess
+S1772,liver cirrhosis, alcoholic
+S1773,morphine dependence
+S1774,mucocele
+S1775,neoplasms, bone tissue
+S1776,nephrosclerosis
+S1777,neuralgia, postherpetic
+S1778,neurodermatitis
+S1779,optic atrophy
+S1780,optic atrophy, hereditary, leber
+S1781,optic neuropathy, ischemic
+S1782,pancreatitis, acute necrotizing
+S1783,pancreatitis, alcoholic
+S1784,paraplegia
+S1785,pelvic pain
+S1786,peripheral nerve injuries
+S1787,phantom limb
+S1788,pharyngitis
+S1789,phobic disorders
+S1790,photophobia
+S1791,phyllodes tumor
+S1792,polyradiculoneuropathy
+S1793,porphyrias
+S1794,proctocolitis
+S1795,qt interval, variation in
+S1796,radiation injuries
+S1797,radiculopathy
+S1798,rem sleep behavior disorder
+S1799,restless legs syndrome
+S1800,reticulocytosis
+S1801,sarcoma, kaposi
+S1802,schizophrenia, paranoid
+S1803,schizotypal personality disorder
+S1804,serositis
+S1805,sick sinus syndrome
+S1806,signs and symptoms, respiratory
+S1807,sleep bruxism
+S1808,soft tissue neoplasms
+S1809,somnambulism
+S1810,spinal diseases
+S1811,spinocerebellar ataxias
+S1812,spondylarthropathies
+S1813,spondylitis, ankylosing
+S1814,succinic semialdehyde dehydrogenase deficiency
+S1815,superior vena cava syndrome
+S1816,supranuclear palsy, progressive
+S1817,sweat gland diseases
+S1818,synovitis
+S1819,tauopathies
+S1820,telangiectasia, hereditary hemorrhagic
+S1821,tetralogy of fallot
+S1822,thalamic diseases
+S1823,thyroiditis
+S1824,trochlear nerve diseases
+S1825,ureteral diseases
+S1826,vacterl association
+S1827,vasoplegia
+S1828,ventricular dysfunction, right
+S1829,vision, low
+S1830,vitamin e deficiency
+S1831,bulimia nervosa
+S1832,ecchymosis
+S1833,hematoma, epidural, cranial
+S1834,keratoderma, palmoplantar
+S1835,marijuana abuse
+S1836,tics
+S1837,bruxism
+S1838,delirium, dementia, amnestic, cognitive disorders
+S1839,fragile x syndrome
+S1840,lymphadenitis
+S1841,multiple sclerosis, relapsing-remitting
+S1842,myasthenic syndromes, congenital
+S1843,pick disease of the brain
+S1844,renal osteodystrophy
+S1845,trismus
+S1846,paraquat lung
+S1847,ataxia with vitamin e deficiency
+S1848,bird diseases
+S1849,carbon tetrachloride poisoning
+S1850,carcinoma, signet ring cell
+S1851,eales disease
+S1852,muscular dystrophies
+S1853,renal insufficiency, chronic
+S1854,retinal hemorrhage
+S1855,retinopathy of prematurity
+S1856,short bowel syndrome
+S1857,sigmoid neoplasms
+S1858,aortic valve insufficiency
+S1859,arrhythmia, sinus
+S1860,brugada syndrome
+S1861,carpal tunnel syndrome
+S1862,darier disease
+S1863,dementia, vascular
+S1864,herpes simplex
+S1865,hyperglycemic hyperosmolar nonketotic coma
+S1866,hypernatremia
+S1867,hyperparathyroidism
+S1868,meniere disease
+S1869,mobility limitation
+S1870,nocturia
+S1871,panophthalmitis
+S1872,parathyroid neoplasms
+S1873,polyhydramnios
+S1874,schizophrenia, catatonic
+S1875,seasonal affective disorder
+S1876,sexually transmitted diseases
+S1877,shellfish poisoning
+S1878,sleep disorders, circadian rhythm
+S1879,soft tissue infections
+S1880,substance abuse, intravenous
+S1881,syphilis
+S1882,tachypnea
+S1883,tooth diseases
+S1884,bowen&apos;s disease
+S1885,chronic disease
+S1886,foot diseases
+S1887,hyperkeratosis, epidermolytic
+S1888,keratosis
+S1889,acantholysis
+S1890,acquired ichthyosis
+S1891,adenocarcinoma, clear cell
+S1892,adenocarcinoma, mucinous
+S1893,anodontia
+S1894,arteriovenous malformations
+S1895,atrial septal defect ostium primum
+S1896,barrett esophagus
+S1897,carcinoma, adenosquamous
+S1898,carcinoma, embryonal
+S1899,caudal regression syndrome
+S1900,cervical intraepithelial neoplasia
+S1901,choriocarcinoma
+S1902,colic
+S1903,cystadenocarcinoma
+S1904,ectropion
+S1905,femur head necrosis
+S1906,keratosis, actinic
+S1907,lentigo
+S1908,lichen planus, oral
+S1909,metabolism, inborn errors
+S1910,paraparesis
+S1911,parovarian cyst
+S1912,pterygium
+S1913,retroperitoneal neoplasms
+S1914,teratocarcinoma
+S1915,uterine cervical diseases
+S1916,uterine cervical dysplasia
+S1917,uveal neoplasms
+S1918,vaginal discharge
+S1919,vitreous hemorrhage
+S1920,xeroderma pigmentosum
+S1921,acrodermatitis enteropathica
+S1922,adenomatous polyps
+S1923,arachnoiditis
+S1924,ascorbic acid deficiency
+S1925,athletic injuries
+S1926,bartter syndrome
+S1927,blepharitis
+S1928,bulbar palsy, progressive
+S1929,calcium metabolism disorders
+S1930,carcinoma, papillary
+S1931,charcot-marie-tooth disease
+S1932,charcot-marie-tooth disease, axonal, type 2n
+S1933,common cold
+S1934,complex regional pain syndromes
+S1935,condylomata acuminata
+S1936,disease susceptibility
+S1937,duodenal neoplasms
+S1938,dysgeusia
+S1939,escherichia coli infections
+S1940,esophageal squamous cell carcinoma
+S1941,haemophilus infections
+S1942,htlv-i infections
+S1943,hypocapnia
+S1944,hypoprothrombinemias
+S1945,klebsiella infections
+S1946,leukemia-lymphoma, adult t-cell
+S1947,leukemia, monocytic, acute
+S1948,leukemia, t-cell
+S1949,meningitis, haemophilus
+S1950,mycosis fungoides
+S1951,nail diseases
+S1952,oculomotor nerve diseases
+S1953,oligohydramnios
+S1954,osteoarthritis, hip
+S1955,otitis media
+S1956,paraganglioma
+S1957,paraneoplastic syndromes
+S1958,parotid neoplasms
+S1959,peptic ulcer
+S1960,polyradiculopathy
+S1961,prinzmetal&apos;s variant angina
+S1962,prosthesis-related infections
+S1963,proteus infections
+S1964,pseudoxanthoma elasticum
+S1965,pulmonary eosinophilia
+S1966,rectal diseases
+S1967,retinitis
+S1968,salmonella infections
+S1969,sarcoma 180
+S1970,scleroderma, limited
+S1971,serratia infections
+S1972,spondylitis
+S1973,suppuration
+S1974,thiamine deficiency
+S1975,tumor lysis syndrome
+S1976,uveal melanoma
+S1977,uveitis, anterior
+S1978,vestibulocochlear nerve diseases
+S1979,vipoma
+S1980,argyria
+S1981,hyperlysinemias
+S1982,insect bites and stings
+S1983,ophthalmoplegia, chronic progressive external
+S1984,saccharopinuria
+S1985,aortic aneurysm, familial thoracic 1
+S1986,arthrogryposis
+S1987,mptp poisoning
+S1988,myxoma
+S1989,opioid-related disorders
+S1990,osteoporotic fractures
+S1991,pressure ulcer
+S1992,spinal cord compression
+S1993,spinal fractures
+S1994,tobacco addiction, susceptibility to
+S1995,vulvar neoplasms
+S1996,aortic valve disease 1
+S1997,bone diseases, endocrine
+S1998,cattle diseases
+S1999,gamma aminobutyric acid transaminase deficiency
+S2000,gastroesophageal reflux
+S2001,genetic predisposition to disease
+S2002,hyperphosphatemia
+S2003,hypoparathyroidism
+S2004,hypophosphatemic rickets, x-linked dominant
+S2005,osteochondrodysplasias
+S2006,parathyroid diseases
+S2007,pseudohypoparathyroidism
+S2008,rickets
+S2009,achlorhydria
+S2010,adenomatous polyposis coli
+S2011,adrenoleukodystrophy
+S2012,alkalosis, respiratory
+S2013,amaurosis fugax
+S2014,amnesia, anterograde
+S2015,anterior compartment syndrome
+S2016,antiphospholipid syndrome
+S2017,aortic coarctation
+S2018,asphyxia
+S2019,asthma, aspirin-induced
+S2020,asthma, occupational
+S2021,brain death
+S2022,bronchiolitis
+S2023,carcinoma, ductal
+S2024,causalgia
+S2025,ceroid lipofuscinosis, neuronal 1, infantile
+S2026,chickenpox
+S2027,choanal atresia
+S2028,cholestasis, benign recurrent intrahepatic 1
+S2029,chordoma
+S2030,chromosomal instability
+S2031,contracture
+S2032,cystitis, interstitial
+S2033,dengue
+S2034,diabetes mellitus, lipoatrophic
+S2035,distal myopathies
+S2036,diverticulum
+S2037,duane retraction syndrome
+S2038,dysgnathia complex
+S2039,dyspnea, paroxysmal
+S2040,ectromelia
+S2041,embolism and thrombosis
+S2042,encephalocele
+S2043,ependymoma
+S2044,episodic ataxia with nystagmus
+S2045,esophageal stenosis
+S2046,facial nerve diseases
+S2047,factor 8 deficiency, acquired
+S2048,familial apoceruloplasmin deficiency
+S2049,familial hdl deficiency
+S2050,fanconi anemia
+S2051,fecal incontinence
+S2052,food hypersensitivity
+S2053,foot deformities
+S2054,gagging
+S2055,galactorrhea-hyperprolactinemia
+S2056,gastric fistula
+S2057,gastroparesis
+S2058,gaucher disease
+S2059,gerstmann syndrome
+S2060,giant lymph node hyperplasia
+S2061,glossopharyngeal nerve diseases
+S2062,graft occlusion, vascular
+S2063,granulomatosis, orofacial
+S2064,heartburn
+S2065,hemangioblastoma
+S2066,hematemesis
+S2067,hematoma, subdural, chronic
+S2068,hemospermia
+S2069,hemothorax
+S2070,hernia, hiatal
+S2071,histiocytic sarcoma
+S2072,hiv-associated lipodystrophy syndrome
+S2073,hyperacusis
+S2074,hypercholesterolemia, familial
+S2075,hyperlipoproteinemia type iii
+S2076,hyperlipoproteinemia type v
+S2077,hypertension, pregnancy-induced
+S2078,hypertensive nephropathy
+S2079,hypoglossal nerve diseases
+S2080,hypolipoproteinemias
+S2081,iatrogenic disease
+S2082,intervertebral disc disease
+S2083,intervertebral disc displacement
+S2084,intestinal atresia
+S2085,intestinal pseudo-obstruction
+S2086,intracranial hemorrhage, traumatic
+S2087,jejunal diseases
+S2088,kartagener syndrome
+S2089,keratosis, seborrheic
+S2090,kidney diseases, cystic
+S2091,labor pain
+S2092,laryngismus
+S2093,laryngopharyngeal reflux
+S2094,leukemia, plasma cell
+S2095,lupus erythematosus, discoid
+S2096,lymphoma, b-cell, marginal zone
+S2097,lymphoma, follicular
+S2098,lymphoma, mantle-cell
+S2099,mastocytosis, systemic
+S2100,melena
+S2101,meningism
+S2102,mesothelioma, malignant
+S2103,mild cognitive impairment
+S2104,myotonia
+S2105,myotonic disorders
+S2106,nasopharyngeal carcinoma
+S2107,neck pain
+S2108,neoplasms, neuroepithelial
+S2109,neoplasms, second primary
+S2110,neurofibroma, plexiform
+S2111,optic nerve glioma
+S2112,osteoarthritis, knee
+S2113,pemphigoid, benign mucous membrane
+S2114,peptic ulcer hemorrhage
+S2115,polymyalgia rheumatica
+S2116,porokeratosis
+S2117,postpartum hemorrhage
+S2118,potassium deficiency
+S2119,primary sclerosing cholangitis
+S2120,prurigo
+S2121,pulmonary alveolar proteinosis
+S2122,pulmonary valve insufficiency
+S2123,renal colic
+S2124,respiratory paralysis
+S2125,respiratory syncytial virus infections
+S2126,retrograde degeneration
+S2127,rhinitis, allergic, perennial
+S2128,schnitzler syndrome
+S2129,sezary syndrome
+S2130,silicosis
+S2131,sitosterolemia
+S2132,sjogren-larsson syndrome
+S2133,skin manifestations
+S2134,smith-lemli-opitz syndrome
+S2135,spastic paraplegia type 5a, recessive
+S2136,spinal cord neoplasms
+S2137,spinal neoplasms
+S2138,spondylolysis
+S2139,steatorrhea
+S2140,still&apos;s disease, adult-onset
+S2141,supratentorial neoplasms
+S2142,tangier disease
+S2143,testicular hydrocele
+S2144,thyroid cancer, medullary
+S2145,thyroid cancer, papillary
+S2146,toothache
+S2147,trigeminal nerve diseases
+S2148,truncus arteriosus, persistent
+S2149,ureteral calculi
+S2150,urinary bladder, overactive
+S2151,urinary calculi
+S2152,vagus nerve diseases
+S2153,vestibular neuronitis
+S2154,vlcad deficiency
+S2155,wallerian degeneration
+S2156,werner syndrome
+S2157,wheat hypersensitivity
+S2158,zollinger-ellison syndrome
+S2159,ciliophora infections
+S2160,dermatitis, occupational
+S2161,fish diseases
+S2162,formaldehyde poisoning
+S2163,pneumonia, aspiration
+S2164,warts
+S2165,anovulation
+S2166,harlequin type ichthyosis
+S2167,ichthyosis, lamellar
+S2168,lamellar ichthyosis, type 2
+S2169,pneumoconiosis
+S2170,persian gulf syndrome
+S2171,sex chromosome aberrations
+S2172,leukemia, prolymphocytic, t-cell
+S2173,lymphoma, primary effusion
+S2174,rhabdomyosarcoma, alveolar
+S2175,rhabdomyosarcoma, embryonal
+S2176,alveolar bone loss
+S2177,carcinoma, medullary
+S2178,chondrocalcinosis
+S2179,coronavirus infections
+S2180,ductus arteriosus, patent
+S2181,dyssomnias
+S2182,folliculitis
+S2183,hydrops fetalis
+S2184,hyperamylasemia
+S2185,hypoaldosteronism
+S2186,ileitis
+S2187,intestinal perforation
+S2188,mastocytosis
+S2189,ossification, heterotopic
+S2190,ovarian hyperstimulation syndrome
+S2191,paroxysmal hemicrania
+S2192,pseudohypoaldosteronism
+S2193,pulmonary heart disease
+S2194,sciatica
+S2195,surfactant metabolism dysfunction, pulmonary, 3
+S2196,tendinopathy
+S2197,tricuspid valve insufficiency
+S2198,acquired hyperostosis syndrome
+S2199,cone-rod dystrophy 3
+S2200,femoral fractures
+S2201,giant cell tumor of bone
+S2202,macular degeneration
+S2203,macular degeneration, age-related, 2
+S2204,retinitis pigmentosa 19
+S2205,stargardt disease 1
+S2206,aids-related kaposi sarcoma
+S2207,aneurysm, false
+S2208,language disorders
+S2209,neuroendocrine tumors
+S2210,onycholysis
+S2211,plaque, amyloid
+S2212,thyroid cancer, anaplastic
+S2213,tonsillar neoplasms
+S2214,acute generalized exanthematous pustulosis
+S2215,articulation disorders
+S2216,connective tissue diseases
+S2217,diabetes insipidus primary central
+S2218,esotropia
+S2219,facial neuralgia
+S2220,hemifacial spasm
+S2221,intracranial arteriovenous malformations
+S2222,leukemoid reaction
+S2223,parapsoriasis
+S2224,purpura, thrombocytopenic
+S2225,radiation injuries, experimental
+S2226,tyrosinemias
+S2227,water intoxication
+S2228,atrial premature complexes
+S2229,bidirectional tachycardia
+S2230,chagas cardiomyopathy
+S2231,cytomegalovirus retinitis
+S2232,eye pain
+S2233,gonorrhea
+S2234,myoclonic dystonia
+S2235,pelvic inflammatory disease
+S2236,penile induration
+S2237,tachycardia, ectopic atrial
+S2238,tachycardia, paroxysmal
+S2239,5q- syndrome
+S2240,achalasia microcephaly
+S2241,acquired angioedema
+S2242,acrocephalosyndactylia
+S2243,acromegaly
+S2244,addison disease
+S2245,adenocarcinoma, follicular
+S2246,adenomatosis, pulmonary
+S2247,agnosia
+S2248,agraphia
+S2249,aids-related complex
+S2250,airway remodeling
+S2251,alexia, pure
+S2252,anemia, pernicious
+S2253,anemia, refractory
+S2254,angina, stable
+S2255,anomia
+S2256,anxiety, separation
+S2257,aortic aneurysm, thoracic
+S2258,apparent mineralocorticoid excess
+S2259,apraxia, ideomotor
+S2260,arthritis, reactive
+S2261,ascaridida infections
+S2262,asperger syndrome
+S2263,aspergillosis, allergic bronchopulmonary
+S2264,bile duct neoplasms
+S2265,binge-eating disorder
+S2266,blepharophimosis
+S2267,borderline personality disorder
+S2268,brachial plexus neuropathies
+S2269,burning mouth syndrome
+S2270,burns, chemical
+S2271,bursitis
+S2272,campylobacter infections
+S2273,cardiomyopathy, restrictive
+S2274,cerebellar neoplasms
+S2275,cerebral arterial diseases
+S2276,cerebral ventriculitis
+S2277,cerebrospinal fluid otorrhea
+S2278,cerebrospinal fluid rhinorrhea
+S2279,child nutrition disorders
+S2280,cholecystitis, acute
+S2281,choledocholithiasis
+S2282,cholestasis, progressive familial intrahepatic 3
+S2283,chondrodysplasia punctata
+S2284,chondrosarcoma
+S2285,choristoma
+S2286,choroid hemorrhage
+S2287,chromosome 17 deletion
+S2288,chromosome 7, monosomy
+S2289,chronic pain
+S2290,coccidioidomycosis
+S2291,coccidiosis
+S2292,collagen diseases
+S2293,colonic diseases, functional
+S2294,colorectal neoplasms, hereditary nonpolyposis
+S2295,combat disorders
+S2296,corneal dystrophy avellino type
+S2297,corneal edema
+S2298,corneal perforation
+S2299,crest syndrome
+S2300,cutaneous fistula
+S2301,cytomegalovirus infections
+S2302,decerebrate state
+S2303,dental plaque
+S2304,dermatitis, phototoxic
+S2305,dermatomycoses
+S2306,dextrocardia
+S2307,dirofilariasis
+S2308,diurnal enuresis
+S2309,diverticulitis, colonic
+S2310,dry eye syndromes
+S2311,dupuytren contracture
+S2312,dystonia musculorum deformans
+S2313,edema of the optic disc
+S2314,elephantiasis, filarial
+S2315,embolism, air
+S2316,embolism, cholesterol
+S2317,empty sella syndrome
+S2318,encephalitis, herpes simplex
+S2319,encephalomyelitis
+S2320,enterobiasis
+S2321,epileptic encephalopathy, lennox-gastaut type
+S2322,erythema migrans
+S2323,esophageal motility disorders
+S2324,euthyroid sick syndromes
+S2325,exotropia
+S2326,eye neoplasms
+S2327,facial nerve injuries
+S2328,factitious disorders
+S2329,failed back surgery syndrome
+S2330,failure to thrive
+S2331,familial mediterranean fever
+S2332,fasciitis, plantar
+S2333,femoral neuropathy
+S2334,fetal hypoxia
+S2335,fetishism (psychiatric)
+S2336,fissure in ano
+S2337,flatulence
+S2338,fractures, bone
+S2339,frontotemporal dementia
+S2340,gangrene
+S2341,genetic diseases, inborn
+S2342,gliosarcoma
+S2343,granuloma, plasma cell
+S2344,growth hormone-secreting pituitary adenoma
+S2345,halitosis
+S2346,heart failure, diastolic
+S2347,heart failure, systolic
+S2348,helminthiasis
+S2349,helminthiasis, animal
+S2350,hemianopsia
+S2351,hemobilia
+S2352,hemophilia a
+S2353,hepatitis, viral, human
+S2354,hepatopulmonary syndrome
+S2355,hernia, abdominal
+S2356,herpes zoster
+S2357,horner syndrome
+S2358,horse diseases
+S2359,hypercapnia
+S2360,hypochondriasis
+S2361,hypohidrosis
+S2362,hypopharyngeal neoplasms
+S2363,hypotrichosis
+S2364,hypoventilation
+S2365,ichthyosis, x-linked
+S2366,inflammatory bowel disease 13
+S2367,intermittent claudication
+S2368,intestinal fistula
+S2369,intestinal polyposis
+S2370,intracranial hemorrhage, hypertensive
+S2371,intrahepatic cholangiocarcinoma
+S2372,iris diseases
+S2373,iritis
+S2374,juvenile pauciarticular chronic arthritis
+S2375,klatskin&apos;s tumor
+S2376,kluver-bucy syndrome
+S2377,kyphosis
+S2378,lambert-eaton myasthenic syndrome
+S2379,leg ulcer
+S2380,leukemia, b-cell
+S2381,leukemia, myeloid, chronic, atypical, bcr-abl negative
+S2382,leukemia, myelomonocytic, acute
+S2383,leukemia, radiation-induced
+S2384,leukoplakia
+S2385,leukoplakia, oral
+S2386,liddle syndrome
+S2387,lipomatosis
+S2388,livedo reticularis
+S2389,loiasis
+S2390,lupus vasculitis, central nervous system
+S2391,lyme disease
+S2392,lymphohistiocytosis, hemophagocytic
+S2393,lymphoma, large-cell, anaplastic
+S2394,lymphoma, large-cell, immunoblastic
+S2395,lymphomatoid granulomatosis
+S2396,macroglossia
+S2397,malabsorption syndromes
+S2398,malaria, cerebral
+S2399,malaria, vivax
+S2400,malignant carcinoid syndrome
+S2401,malignant mesenchymal tumor
+S2402,marfan syndrome
+S2403,maxillary diseases
+S2404,meige syndrome
+S2405,meningeal carcinomatosis
+S2406,microscopic polyangiitis
+S2407,mitochondrial cytopathy
+S2408,mitochondrial encephalopathy
+S2409,mitochondrial myopathy with lactic acidosis
+S2410,mitral valve stenosis
+S2411,monkey diseases
+S2412,mucopolysaccharidosis iii
+S2413,multiple system atrophy
+S2414,muscular dystrophy, duchenne
+S2415,mycoplasma infections
+S2416,mycotoxicosis
+S2417,myelitis
+S2418,myelitis, transverse
+S2419,myokymia
+S2420,nematode infections
+S2421,neoplasms, radiation-induced
+S2422,nerve compression syndromes
+S2423,neuromyelitis optica
+S2424,night terrors
+S2425,nonpuerperal galactorrhea
+S2426,no-reflow phenomenon
+S2427,olfactory nerve diseases
+S2428,oligomenorrhea
+S2429,onchocerciasis
+S2430,oral submucous fibrosis
+S2431,orbital pseudotumor
+S2432,orthostatic intolerance
+S2433,osteitis deformans
+S2434,otitis media with effusion
+S2435,oxyuriasis
+S2436,pallor
+S2437,paranasal sinus neoplasms
+S2438,paraparesis, spastic
+S2439,paraphilias
+S2440,parasitemia
+S2441,parasitic diseases
+S2442,pars planitis
+S2443,pelvic infection
+S2444,pemphigus, benign familial
+S2445,penile neoplasms
+S2446,pericarditis, constrictive
+S2447,persistent vegetative state
+S2448,peters anomaly
+S2449,pharyngeal diseases
+S2450,pityriasis rubra pilaris
+S2451,pleural effusion, malignant
+S2452,pneumocephalus
+S2453,pneumonia, pneumocystis
+S2454,polymorphic catecholergic ventricular tachycardia
+S2455,post-exercise hypotension
+S2456,postural orthostatic tachycardia syndrome
+S2457,prader-willi syndrome
+S2458,pregnancy complications, neoplastic
+S2459,pregnancy, ectopic
+S2460,primary ovarian insufficiency
+S2461,prostatism
+S2462,prosthesis failure
+S2463,pseudobulbar palsy
+S2464,pulmonary aspergillosis
+S2465,pulmonary veno-occlusive disease
+S2466,pyelitis
+S2467,pyuria
+S2468,radial neuropathy
+S2469,rapidly progressive glomerulonephritis with pulmonary hemorrhage
+S2470,respiratory aspiration
+S2471,retinal dysplasia
+S2472,retroviridae infections
+S2473,rheumatic heart disease
+S2474,rheumatoid vasculitis
+S2475,rhinitis, allergic, seasonal
+S2476,rupture
+S2477,rupture, spontaneous
+S2478,sarcoma, clear cell
+S2479,sarcoma, experimental
+S2480,schizophrenia and disorders with psychotic features
+S2481,schizophrenia, childhood
+S2482,schizophrenia, disorganized
+S2483,seminoma
+S2484,severe acute respiratory syndrome
+S2485,severe cutaneous adverse reaction, susceptibility to
+S2486,sialadenitis
+S2487,simian acquired immunodeficiency syndrome
+S2488,situs inversus
+S2489,skin diseases, infectious
+S2490,skin diseases, vesiculobullous
+S2491,sleep disorders, intrinsic
+S2492,sleep-wake transition disorders
+S2493,smith-magenis syndrome
+S2494,sneezing
+S2495,snoring
+S2496,spermatogenic failure 6
+S2497,sphincter of oddi dysfunction
+S2498,spinal cord vascular diseases
+S2499,spinal stenosis
+S2500,sporotrichosis
+S2501,strongyle infections, equine
+S2502,sunburn
+S2503,sunct syndrome
+S2504,sweet syndrome
+S2505,syndactyly
+S2506,systemic candidiasis
+S2507,systemic inflammatory response syndrome
+S2508,tendon injuries
+S2509,tetanus
+S2510,thoracic neoplasms
+S2511,thyroiditis, autoimmune
+S2512,tinea
+S2513,tinea capitis
+S2514,tinea pedis
+S2515,tonic pupil
+S2516,tonsillitis
+S2517,tooth abrasion
+S2518,tooth discoloration
+S2519,toxoplasmosis, congenital
+S2520,toxoplasmosis, ocular
+S2521,tracheal stenosis
+S2522,trichinellosis
+S2523,trichostrongyloidiasis
+S2524,trophoblastic neoplasms
+S2525,trypanosomiasis, african
+S2526,tuberculosis, osteoarticular
+S2527,typhus, endemic flea-borne
+S2528,urethral obstruction
+S2529,urinary bladder fistula
+S2530,urinary bladder neck obstruction
+S2531,urinary incontinence, stress
+S2532,uterine cervicitis
+S2533,vaginitis
+S2534,vesico-ureteral reflux
+S2535,vesicovaginal fistula
+S2536,vitamin a deficiency
+S2537,warfarin syndrome
+S2538,wernicke encephalopathy
+S2539,afibrinogenemia congenital
+S2540,aids-associated nephropathy
+S2541,auditory neuropathy
+S2542,carcinoma, islet cell
+S2543,cholecystolithiasis
+S2544,cholestasis, benign recurrent intrahepatic 2
+S2545,cholestasis, progressive familial intrahepatic 2
+S2546,coproporphyria, hereditary
+S2547,extensively drug-resistant tuberculosis
+S2548,fanconi like syndrome
+S2549,insulinoma
+S2550,nocturnal myoclonus syndrome
+S2551,polydipsia
+S2552,surgical wound infection
+S2553,varicose ulcer
+S2554,angiomatosis
+S2555,dislocations
+S2556,epilepsy, post-traumatic
+S2557,fascioliasis
+S2558,gingival hemorrhage
+S2559,goiter, nodular
+S2560,immune complex diseases
+S2561,intestinal diseases, parasitic
+S2562,lung diseases, parasitic
+S2563,mite infestations
+S2564,speech disturbance - use of faulty phrasing and unrelated words
+S2565,strongyloidiasis
+S2566,asbestosis
+S2567,hyperoxia
+S2568,neoplastic processes
+S2569,neuritis, autoimmune, experimental
+S2570,opisthorchiasis
+S2571,diverticulitis
+S2572,gallbladder disease 1
+S2573,retinal detachment
+S2574,anemia, sideroblastic spinocerebellar ataxia
+S2575,appendiceal neoplasms
+S2576,beta-thalassemia
+S2577,foot injuries
+S2578,hand injuries
+S2579,antley-bixler syndrome phenotype
+S2580,candidiasis, cutaneous
+S2581,afibrinogenemia
+S2582,alpha 1-antitrypsin deficiency
+S2583,anemia, hypochromic microcytic
+S2584,antithrombin iii deficiency
+S2585,asthma, exercise-induced
+S2586,blood loss, surgical
+S2587,critical illness
+S2588,croup
+S2589,decompression sickness
+S2590,endometritis
+S2591,familial cerebral cavernous malformation
+S2592,fractures, closed
+S2593,friedreich ataxia
+S2594,head injuries, closed
+S2595,hemochromatosis
+S2596,hereditary angioedema type iii
+S2597,leriche syndrome
+S2598,mixed connective tissue disease
+S2599,multi-centric castleman&apos;s disease
+S2600,nasal polyps
+S2601,optic nerve injuries
+S2602,parasomnias
+S2603,postphlebitic syndrome
+S2604,primary amyloidosis
+S2605,primary graft dysfunction
+S2606,protozoan infections
+S2607,retrobulbar hemorrhage
+S2608,sarcoma, myeloid
+S2609,subarachnoid hemorrhage, traumatic
+S2610,toxemia
+S2611,vulvitis
+S2612,adjustment disorders
+S2613,anus diseases
+S2614,body dysmorphic disorders
+S2615,bone demineralization, pathologic
+S2616,dermatitis herpetiformis
+S2617,granuloma annulare
+S2618,hashimoto disease
+S2619,hyperthyroxinemia
+S2620,jaundice, chronic idiopathic
+S2621,lead poisoning, nervous system, childhood
+S2622,listeriosis
+S2623,liver diseases, parasitic
+S2624,mitochondrial encephalomyopathies
+S2625,neurosyphilis
+S2626,pneumocystis infections
+S2627,porphyria, variegate
+S2628,rectal fistula
+S2629,urinary incontinence, urge
+S2630,urinoma
+S2631,bacteriuria
+S2632,balkan nephropathy
+S2633,dysentery, bacillary
+S2634,salmonella food poisoning
+S2635,vibrio infections
+S2636,acinetobacter infections
+S2637,anthrax
+S2638,bordetella infections
+S2639,brachydactyly with hypertension
+S2640,dent disease
+S2641,flavobacteriaceae infections
+S2642,glossalgia
+S2643,hyperostosis, cortical, congenital
+S2644,impotence, vasculogenic
+S2645,moraxellaceae infections
+S2646,neisseriaceae infections
+S2647,obstetric labor complications
+S2648,osteitis
+S2649,osteoarthropathy, secondary hypertrophic
+S2650,otitis
+S2651,pulmonary atresia
+S2652,rickettsia infections
+S2653,typhoid fever
+S2654,congenital hyperinsulinism
+S2655,diabetes mellitus, permanent neonatal
+S2656,diabetes mellitus, transient neonatal, 2
+S2657,diabetic coma
+S2658,hyperinsulinemic hypoglycemia, familial, 1
+S2659,hypoglycemia, leucine-induced
+S2660,cantu syndrome
+S2661,cardiomyopathy, dilated, 1o
+S2662,sleep apnea syndromes
+S2663,hemangiopericytoma
+S2664,keratoacanthoma
+S2665,zellweger syndrome
+S2666,carcinoma 256, walker
+S2667,homocystinuria
+S2668,imerslund-grasbeck syndrome
+S2669,subacute combined degeneration
+S2670,enterovirus infections
+S2671,encephalitis, viral
+S2672,herpesviridae infections
+S2673,herpes zoster ophthalmicus
+S2674,herpes zoster oticus
+S2675,malignant hyperthermia
+S2676,miyoshi myopathy
+S2677,multiple endocrine neoplasia
+S2678,nutritional and metabolic diseases
+S2679,retinal necrosis syndrome, acute
+S2680,temporomandibular ankylosis
+S2681,lipid metabolism, inborn errors
+S2682,gallbladder disease 4
+S2683,murine acquired immunodeficiency syndrome
+S2684,post-dural puncture headache
+S2685,burkholderia infections
+S2686,chylothorax
+S2687,kidney disorder involving deposition of calcium and oxalate or phosphate in the renal tubules
+S2688,polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract
+S2689,refsum disease
+S2690,triglyceride storage disease with impaired long-chain fatty acid oxidation
+S2691,mastocytosis, cutaneous
+S2692,myeloproliferative disorders
+S2693,chromosome 22, microdeletion 22 q11
+S2694,low tension glaucoma
+S2695,filariasis
+S2696,leukocyte disorders
+S2697,d-bifunctional protein deficiency
+S2698,spinal curvatures
+S2699,isobutyryl-coa dehydrogenase deficiency
+S2700,acyl-coa dehydrogenase family, member 9, deficiency of
+S2701,medium chain acyl coa dehydrogenase deficiency
+S2702,short chain acyl coa dehydrogenase deficiency
+S2703,2-methylbutyryl-coa dehydrogenase deficiency
+S2704,neuronal ceroid-lipofuscinoses
+S2705,jet lag syndrome
+S2706,muscular dystrophy, facioscapulohumeral
+S2707,osteochondritis dissecans, short stature, and early-onset osteoarthritis
+S2708,spondyloepimetaphyseal dysplasia, aggrecan type
+S2709,spondyloepiphyseal dysplasia, kimberley type
+S2710,acute chest syndrome
+S2711,beta ketothiolase deficiency
+S2712,common bile duct diseases
+S2713,frostbite
+S2714,hemorrhoids
+S2715,herpes labialis
+S2716,hyaline membrane disease
+S2717,hip fractures
+S2718,paroxysmal nonkinesigenic dyskinesia
+S2719,allanson pantzar mcleod syndrome
+S2720,barotrauma
+S2721,chilblains
+S2722,evan&apos;s syndrome
+S2723,eyelid neoplasms
+S2724,fasciitis
+S2725,glossitis
+S2726,glycogen storage disease type v
+S2727,hearing loss, mixed conductive-sensorineural
+S2728,infarction, anterior cerebral artery
+S2729,microvascular complications of diabetes, susceptibility to, 1
+S2730,microvascular complications of diabetes, susceptibility to, 3
+S2731,parasystole
+S2732,pleurodynia, epidemic
+S2733,pneumonia, lipid
+S2734,pneumonia, viral
+S2735,pneumoperitoneum
+S2736,polyps
+S2737,renal tubular dysgenesis
+S2738,segmental glomerulosclerosis
+S2739,tietze&apos;s syndrome
+S2740,ascariasis
+S2741,cat diseases
+S2742,flea infestations
+S2743,hookworm infections
+S2744,hymenolepiasis
+S2745,oxyurida infections
+S2746,tick infestations
+S2747,trichuriasis
+S2748,cayler cardiofacial syndrome
+S2749,aggressive periodontitis
+S2750,chromosome 13q trisomy
+S2751,dementia, multi-infarct
+S2752,esophageal spasm, diffuse
+S2753,fluorosis, dental
+S2754,foodborne diseases
+S2755,fusariosis
+S2756,heart rupture
+S2757,hematoma, subdural, spinal
+S2758,hyperglycinemia, nonketotic
+S2759,job&apos;s syndrome
+S2760,myofascial pain syndromes
+S2761,neural tube defect, folate-sensitive
+S2762,parasitic diseases, animal
+S2763,schistosomiasis
+S2764,schistosomiasis haematobia
+S2765,acrocallosal syndrome
+S2766,anemia, diamond-blackfan
+S2767,nasopharyngitis
+S2768,thalassemia
+S2769,puerperal infection
+S2770,duodenitis
+S2771,pilonidal sinus
+S2772,peroxisomal acyl-coa oxidase deficiency
+S2773,spondyloenchondrodysplasia
+S2774,malonic aciduria
+S2775,methylmalonic acidemia
+S2776,mental retardation, x-linked 63
+S2777,myopathy, congenital, with fiber-type disproportion
+S2778,nemaline myopathy 3
+S2779,abortion, habitual
+S2780,aortic aneurysm, familial thoracic 6
+S2781,chylous ascites
+S2782,idiopathic pulmonary fibrosis
+S2783,leukemia, hairy cell
+S2784,leukemia, myelomonocytic, juvenile
+S2785,neoplasms, multiple primary
+S2786,nephrogenic fibrosing dermopathy
+S2787,pancreatic islet cell tumors
+S2788,thymoma
+S2789,juvenile-onset dystonia
+S2790,smoke inhalation injury
+S2791,neoplasms, mesothelial
+S2792,atrial septal defect 5
+S2793,cardiomyopathy, familial hypertrophic, 1
+S2794,cardiomyopathy, familial hypertrophic, 11
+S2795,refractive errors
+S2796,acetabular dysplasia
+S2797,deafness, autosomal dominant 20
+S2798,cecal neoplasms
+S2799,muscle neoplasms
+S2800,cardiomyopathy, dilated, 1aa
+S2801,hysteria
+S2802,takayasu arteritis
+S2803,myositis ossificans
+S2804,heterotaxy syndrome
+S2805,osler-rendu-weber syndrome 2
+S2806,aminoacylase 1 deficiency
+S2807,aicardi syndrome
+S2808,nelson syndrome
+S2809,pituitary acth hypersecretion
+S2810,severe combined immunodeficiency due to adenosine deaminase deficiency
+S2811,cone-rod dystrophy 9
+S2812,weill-marchesani syndrome
+S2813,weill-marchesani-like syndrome
+S2814,ehlers-danlos syndrome, type vii, autosomal recessive
+S2815,acromicric dysplasia
+S2816,geleophysic dysplasia 1
+S2817,ectopia lentis 2, isolated, autosomal recessive
+S2818,aicardi-goutieres syndrome
+S2819,dyschromatosis symmetrica hereditaria 1
+S2820,coenzyme q10 deficiency, primary, 1
+S2821,spinocerebellar ataxia, autosomal recessive 9
+S2822,hypercalciuria, absorptive, 2
+S2823,colonic polyps
+S2824,asphyxia neonatorum
+S2825,echinococcosis, hepatic
+S2826,giardiasis
+S2827,autonomic dysreflexia
+S2828,facial asymmetry
+S2829,chromosome fragility
+S2830,hypertension, essential
+S2831,parkinson disease, late-onset
+S2832,adiponectin, serum level of, quantitative trait locus 2
+S2833,adiponectin, serum level of, quantitative trait locus 3
+S2834,diabetes, gestational
+S2835,dystonia, dopa-responsive
+S2836,neurodegeneration with brain iron accumulation (nbia)
+S2837,parkinson disease, juvenile, autosomal recessive
+S2838,phencyclidine abuse
+S2839,segawa syndrome, autosomal recessive
+S2840,shy-drager syndrome
+S2841,transvestism
+S2842,gambling
+S2843,heart murmurs
+S2844,hyperemesis gravidarum
+S2845,neoplasms, squamous cell
+S2846,thyroid hormone resistance syndrome
+S2847,gait apraxia
+S2848,smooth muscle tumor
+S2849,aging, premature
+S2850,protoporphyria, erythropoietic
+S2851,adenylosuccinate lyase deficiency
+S2852,mental retardation, x-linked, associated with fragile site fraxe
+S2853,spinocerebellar ataxia 28
+S2854,aspartylglucosaminuria
+S2855,ciguatera poisoning
+S2856,klippel-trenaunay-weber syndrome
+S2857,glycogen storage disease type iii
+S2858,dysentery, amebic
+S2859,lipodystrophy, congenital generalized, type 1
+S2860,rhizomelic chondrodysplasia punctata, type 3
+S2861,congenital myasthenic syndrome ib
+S2862,acquired cjd
+S2863,anemia, neonatal
+S2864,autoimmune lymphoproliferative syndrome
+S2865,craniofacial dysostosis
+S2866,parotitis
+S2867,soft tissue injuries
+S2868,conversion disorder
+S2869,echolalia
+S2870,mental retardation, x-linked
+S2871,primary hyperoxaluria type 1
+S2872,amino acid metabolism, inborn errors
+S2873,bell palsy
+S2874,flavivirus infections
+S2875,hemorrhagic fever, american
+S2876,hemorrhagic fever, crimean
+S2877,hemorrhagic fever with renal syndrome
+S2878,hepatitis a
+S2879,hypertensive retinopathy
+S2880,lassa fever
+S2881,orthomyxoviridae infections
+S2882,paramyxoviridae infections
+S2883,phlebotomus fever
+S2884,reoviridae infections
+S2885,rift valley fever
+S2886,sarcoidosis, pulmonary
+S2887,subacute sclerosing panencephalitis
+S2888,joubert syndrome 3
+S2889,chromoblastomycosis
+S2890,hyperoxaluria, primary
+S2891,kernicterus
+S2892,mental fatigue
+S2893,pancreatic adenoma
+S2894,pancreatic cancer, adult
+S2895,sulfhemoglobinemia
+S2896,immunodeficiency with hyper-igm, type 2
+S2897,combined oxidative phosphorylation deficiency 6
+S2898,eosinophilic pustular folliculitis
+S2899,glycogen storage disease
+S2900,laryngomalacia
+S2901,nesidioblastosis
+S2902,preeclamptic toxemia
+S2903,ureaplasma infections
+S2904,west nile fever
+S2905,wound infection
+S2906,acth-secreting pituitary adenoma
+S2907,leber congenital amaurosis 4
+S2908,autoimmune polyendocrinopathy syndrome, type 1
+S2909,polyendocrinopathies, autoimmune
+S2910,autoimmune disease, susceptibility to, 1
+S2911,adenylate kinase deficiency, hemolytic anemia due to
+S2912,reticular dysgenesis
+S2913,severe combined immunodeficiency
+S2914,lichen nitidus
+S2915,cardiac conduction defect
+S2916,long qt syndrome 11
+S2917,laryngitis
+S2918,abortion, threatened
+S2919,lymphangioleiomyomatosis
+S2920,omphalocele exstrophy imperforate anus
+S2921,pityriasis lichenoides
+S2922,salpingitis
+S2923,bile acid synthesis defect, congenital, 2
+S2924,cestode infections
+S2925,diphyllobothriasis
+S2926,taeniasis
+S2927,trematode infections
+S2928,breast-ovarian cancer, familial, susceptibility to, 1
+S2929,depression, postpartum
+S2930,empyema
+S2931,fever of unknown origin
+S2932,myoma
+S2933,pedophilia
+S2934,polycystic liver disease
+S2935,macrocephaly
+S2936,dermatitis, photoallergic
+S2937,diffuse alopecia
+S2938,felty syndrome
+S2939,hyperparathyroidism, primary
+S2940,hypothalamic diseases
+S2941,porphyria, acute hepatic
+S2942,vulvodynia
+S2943,protoporphyria, erythropoietic, x-linked
+S2944,x-linked sideroblastic anemia
+S2945,abdominal abscess
+S2946,amebiasis
+S2947,bacteroides infections
+S2948,borrelia infections
+S2949,bronchiectasis
+S2950,central nervous system bacterial infections
+S2951,clostridium infections
+S2952,entamoebiasis
+S2953,heart septal defects
+S2954,hyperthyroxinemia, familial dysalbuminemic
+S2955,hypoparathyroidism familial isolated
+S2956,leukemia, biphenotypic, acute
+S2957,lyme neuroborreliosis
+S2958,nocardia infections
+S2959,pulmonary atelectasis
+S2960,trichomonas infections
+S2961,trichomonas vaginitis
+S2962,zinc, elevated plasma
+S2963,eye diseases, hereditary
+S2964,mucinoses
+S2965,urethral diseases
+S2966,alcohol sensitivity, acute
+S2967,hyperprolinemia type 2
+S2968,pyridoxine-dependent epilepsy
+S2969,glycogen storage disease xii
+S2970,hematoma, subdural, intracranial
+S2971,fructose intolerance
+S2972,congenital disorder of glycosylation type 1k
+S2973,congenital disorder of glycosylation, type ip
+S2974,congenital disorder of glycosylation type 1g
+S2975,congenital disorder of glycosylation type 1i
+S2976,congenital disorder of glycosylation type 1d
+S2977,congenital disorder of glycosylation type 1c
+S2978,congenital disorder of glycosylation type 1h
+S2979,congenital disorder of glycosylation type 1l
+S2980,plasma cell granuloma, pulmonary
+S2981,cystinuria
+S2982,glucosephosphate dehydrogenase deficiency
+S2983,hemarthrosis
+S2984,lafora disease
+S2985,myasthenia gravis, autoimmune, experimental
+S2986,thrombotic thrombocytopenic purpura, acquired
+S2987,ichthyosiform erythroderma, brocq congenital, nonbullous form
+S2988,periapical diseases
+S2989,fibrous dysplasia of bone
+S2990,hypophosphatasia, adult
+S2991,hypophosphatasia, childhood
+S2992,hypophosphatasia, infantile
+S2993,osteoporosis-pseudoglioma syndrome
+S2994,allergic rhinitis
+S2995,amyotrophic lateral sclerosis 2, juvenile
+S2996,hereditary spastic paralysis, infantile onset ascending
+S2997,primary lateral sclerosis juvenile
+S2998,frontonasal dysplasia 3
+S2999,frontonasal dysplasia 1
+S3000,frontonasal dysplasia 2
+S3001,parietal foramina
+S3002,parietal foramina 2
+S3003,bile acid synthesis defect, congenital, 4
+S3004,amelogenesis imperfecta, hypoplastic/hypomaturation, x-linked 1
+S3005,osteopathia striata cranial sclerosis
+S3006,persistent mullerian duct syndrome
+S3007,alport syndrome, mental retardation, midface hypoplasia, and elliptocytosis
+S3008,megaloblastic anemia 1
+S3009,adenosine monophosphate deaminase deficiency
+S3010,bone cysts, aneurysmal
+S3011,angelman syndrome
+S3012,amyotrophic lateral sclerosis 9
+S3013,ergotism
+S3014,hypobetalipoproteinemia, familial, 2
+S3015,spherocytosis, type 1
+S3016,cardiac arrhythmia, ankyrin-b-related
+S3017,chondrocalcinosis 2
+S3018,craniometaphyseal dysplasia, autosomal dominant
+S3019,tooth abnormalities
+S3020,dental enamel hypoplasia
+S3021,dental pulp calcification
+S3022,nutrition disorders
+S3023,gnathodiaphyseal dysplasia
+S3024,muscular dystrophy, limb-girdle, type 2l
+S3025,scott syndrome
+S3026,eye infections
+S3027,hemangioma, capillary infantile
+S3028,hyalinosis, systemic
+S3029,dermatitis, seborrheic
+S3030,paratuberculosis
+S3031,abdominal obesity metabolic syndrome
+S3032,mental retardation, x-linked, syndromic, fried type
+S3033,familial benign hypercalcemia, type 3
+S3034,hermansky pudlak syndrome 2
+S3035,spastic paraplegia 50, autosomal recessive
+S3036,spastic paraplegia 48, autosomal recessive
+S3037,turcot syndrome
+S3038,hypotrichosis simplex
+S3039,granuloma, pyogenic
+S3040,hutchinson&apos;s melanotic freckle
+S3041,amyloidosis, familial visceral
+S3042,intestinal volvulus
+S3043,hypertriglyceridemia, familial
+S3044,hypercholesterolemia, autosomal dominant, type b
+S3045,hypobetalipoproteinemia, familial, apolipoprotein b
+S3046,hyperlipoproteinemia type i
+S3047,alzheimer disease, familial
+S3048,alzheimer disease type 2
+S3049,cerebral amyloid angiopathy
+S3050,lipoprotein glomerulopathy
+S3051,macular degeneration, age-related, 1
+S3052,sea-blue histiocyte syndrome
+S3053,candidemia
+S3054,cerebral amyloid angiopathy, app-related
+S3055,cerebral hemorrhage with amyloidosis, hereditary, dutch type
+S3056,colonic pseudo-obstruction
+S3057,fungemia
+S3058,labyrinthitis
+S3059,meningitis, fungal
+S3060,mucormycosis
+S3061,zygomycosis
+S3062,early-onset ataxia with oculomotor apraxia and hypoalbuminemia
+S3063,carcinoma, adenoid cystic
+S3064,diabetes insipidus, neurogenic
+S3065,androgen-insensitivity syndrome
+S3066,aspermia
+S3067,bulbospinal neuronopathy, x-linked recessive
+S3068,epispadias
+S3069,hypospadias 1, x-linked
+S3070,sexual precocity
+S3071,heterotopia, periventricular, autosomal recessive
+S3072,erythema chronicum migrans
+S3073,hyperargininemia
+S3074,impetigo
+S3075,pruritus vulvae
+S3076,slowed nerve conduction velocity, autosomal dominant
+S3077,mental retardation, x-linked 46
+S3078,epileptic encephalopathy, early infantile, 8
+S3079,adenocarcinoma of esophagus
+S3080,coffin-siris syndrome
+S3081,joubert syndrome 8
+S3082,bardet-biedl syndrome
+S3083,retinitis pigmentosa 55
+S3084,leukodystrophy, metachromatic
+S3085,mucopolysaccharidosis vi
+S3086,chondrodysplasia punctata, brachytelephalangic
+S3087,epileptic encephalopathy, early infantile, 1
+S3088,lissencephaly, x-linked, 2
+S3089,mental retardation, x-linked, with or without seizures, arx-related
+S3090,partington x-linked mental retardation syndrome
+S3091,proud syndrome
+S3092,farber lipogranulomatosis
+S3093,tuberculoma, intracranial
+S3094,congenital central hypoventilation syndrome
+S3095,acanthamoeba keratitis
+S3096,babesiosis
+S3097,argininosuccinic aciduria
+S3098,anterior segment mesenchymal dysgenesis
+S3099,canavan disease
+S3100,microcephaly 5, primary, autosomal recessive
+S3101,sarcoma, alveolar soft part
+S3102,citrullinemia
+S3103,bohring syndrome
+S3104,cerebellar ataxia, cayman type
+S3105,jeune syndrome
+S3106,atrial fibrillation, familial 1
+S3107,inflammatory bowel disease 10
+S3108,aicar transformylase/imp cyclohydrolase deficiency
+S3109,spastic paraplegia 3, autosomal dominant
+S3110,dermatitis, atopic, 1
+S3111,wounds, nonpenetrating
+S3112,parkinson disease 9
+S3113,emaciation
+S3114,alternating hemiplegia of childhood
+S3115,migraine, familial hemiplegic, 2
+S3116,dystonia 12
+S3117,brody myopathy
+S3118,deafness, autosomal recessive 12
+S3119,mental retardation, x-linked, with epilepsy
+S3120,cutis laxa, autosomal recessive, type iia
+S3121,wrinkly skin syndrome
+S3122,renal tubular acidosis, distal, autosomal recessive
+S3123,renal tubular acidosis, distal, with progressive nerve deafness
+S3124,spinal muscular atrophy, distal, x-linked 3
+S3125,mitochondrial complex v (atp synthase) deficiency, nuclear type 1;mc5dn1 mitochondrial complex v (atp synthase) deficiency, atpaf2 type
+S3126,seckel syndrome 1
+S3127,alpha-thalassemia myelodysplasia syndrome
+S3128,atr-x syndrome
+S3129,mental retardation-hypotonic facies syndrome, x-linked, 1
+S3130,thoracic diseases
+S3131,spinocerebellar ataxia 10
+S3132,machado-joseph disease
+S3133,3-methylglutaconic aciduria, type i
+S3134,spermatogenic failure 5
+S3135,genetic diseases, x-linked
+S3136,nephrogenic syndrome of inappropriate antidiuresis
+S3137,atrioventricular septal defect 3
+S3138,caudal duplication anomaly
+S3139,oligodontia-colorectal cancer syndrome
+S3140,spermatogenic failure, nonobstructive, y-linked
+S3141,hypoproteinemia, hypercatabolic
+S3142,krause-kivlin syndrome
+S3143,congenital disorder of glycosylation type 2d
+S3144,ehlers-danlos syndrome, progeroid form
+S3145,hypercholanemia, familial
+S3146,choroidal neovascularization
+S3147,retinal neovascularization
+S3148,rhinitis, vasomotor
+S3149,encephalopathy, bovine spongiform
+S3150,myopathy, myofibrillar 6, mfm6
+S3151,nevi and melanomas
+S3152,acitretin embryopathy
+S3153,alien hand syndrome
+S3154,chorioretinitis
+S3155,infant nutrition disorders
+S3156,larva migrans
+S3157,olfactory nerve injuries
+S3158,papillon-lefevre disease
+S3159,secernentea infections
+S3160,sparganosis
+S3161,williams syndrome
+S3162,maple syrup urine disease
+S3163,bamforth syndrome
+S3164,butyrylcholinesterase deficiency
+S3165,paralysis, obstetric
+S3166,pseudocholinesterase deficiency
+S3167,sweating, gustatory
+S3168,chondrosarcoma, mesenchymal
+S3169,t-lymphocytopenia
+S3170,hypercarotenemia and vitamin a deficiency, autosomal dominant
+S3171,microphthalmia, syndromic 2
+S3172,bjornstad syndrome
+S3173,finnish lethal neonatal metabolic syndrome
+S3174,leigh disease
+S3175,mitochondrial complex iii deficiency
+S3176,brachydactyly type a1
+S3177,chromosome 2q37 deletion syndrome
+S3178,absence of tibia
+S3179,headache disorders, secondary
+S3180,obesity, morbid
+S3181,wilms tumor, aniridia, genitourinary anomalies, mental retardation, and obesity syndrome
+S3182,spinocerebellar ataxia 31
+S3183,bestrophinopathy, autosomal recessive
+S3184,macular dystrophy, concentric annular
+S3185,macular dystrophy, vitelliform, adult-onset
+S3186,retinitis pigmentosa 50
+S3187,vitelliform macular dystrophy
+S3188,vitreoretinochoroidopathy
+S3189,cataract, cortical, juvenile-onset
+S3190,cataract, autosomal dominant
+S3191,cataract, autosomal dominant, multiple types 1
+S3192,mandibular diseases
+S3193,myopathies, structural, congenital
+S3194,myopathy, centronuclear, 2
+S3195,leukemia, megakaryoblastic, acute
+S3196,maturity-onset diabetes of the young, type 11
+S3197,bloom syndrome
+S3198,agammaglobulinemia 4, autosomal recessive
+S3199,albinism with hemorrhagic diathesis and pigmented reticuloendothelial cells
+S3200,body mass index quantitative trait locus 4
+S3201,ovarian dysgenesis 2
+S3202,microphthalmia, syndromic 6
+S3203,orofacial cleft 11
+S3204,hamartoma syndrome, multiple
+S3205,juvenile polyposis syndrome
+S3206,polyposis syndrome, hereditary mixed, 2
+S3207,brachydactyly type a2
+S3208,chondrodysplasia, acromesomelic, with genital anomalies
+S3209,pulmonary edema of mountaineers
+S3210,bisphosphoglycerate mutase deficiency
+S3211,cardiofaciocutaneous syndrome
+S3212,costello syndrome
+S3213,leopard syndrome 3
+S3214,noonan syndrome
+S3215,noonan syndrome 7
+S3216,hereditary breast and ovarian cancer syndrome
+S3217,breast-ovarian cancer, familial, susceptibility to, 2
+S3218,fanconi anemia, complementation group d1
+S3219,fanconi anemia, complementation group j
+S3220,mental retardation, x-linked 93
+S3221,lipodystrophy, congenital generalized, type 2
+S3222,neuronopathy, distal hereditary motor, type va
+S3223,spastic paraplegia 17
+S3224,bartter syndrome, type 4a
+S3225,biotinidase deficiency
+S3226,bruton type agammaglobulinemia
+S3227,hypogammaglobulinemia and isolated growth hormone deficiency, x-linked
+S3228,mosaic variegated aneuploidy syndrome
+S3229,premature chromatid separation trait
+S3230,mitochondrial dna depletion syndrome 3 (hepatocerebral type)
+S3231,mitochondrial dna depletion syndrome 7 (hepatocerebral type)
+S3232,progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 3
+S3233,sensory ataxic neuropathy, dysarthria, and ophthalmoparesis
+S3234,combined oxidative phosphorylation deficiency 7
+S3235,tn syndrome
+S3236,late-onset retinal degeneration
+S3237,complement component c1r/c1s deficiency
+S3238,complement component 2 deficiency
+S3239,macular degeneration, age-related, 9
+S3240,complement component 5 deficiency
+S3241,complement component 6 deficiency
+S3242,complement component 7 deficiency
+S3243,complement component 8 deficiency, type i
+S3244,complement component 8 deficiency, type ii
+S3245,hyperchlorhidrosis, isolated
+S3246,osteopetrosis with renal tubular acidosis
+S3247,retinitis pigmentosa 17
+S3248,cerebellar ataxia, mental retardation, and dysequilibrium syndrome 3
+S3249,anaplasia
+S3250,carcinoma, intraductal, noninfiltrating
+S3251,night blindness, congenital stationary, type 2b
+S3252,hemiplegic migraine, familial type 1
+S3253,migraine, familial hemiplegic, 1
+S3254,brugada syndrome 3
+S3255,timothy syndrome
+S3256,aland island eye disease
+S3257,cone-rod dystrophy, x-linked, 3
+S3258,night blindness, congenital stationary, type 2a
+S3259,hypokalemic periodic paralysis, type 1
+S3260,malignant hyperthermia susceptibility type 5
+S3261,thyrotoxic periodic paralysis, susceptibility to, 1
+S3262,retinal cone dystrophy 4
+S3263,brugada syndrome 4
+S3264,episodic ataxia, type 5
+S3265,spherocytosis, hereditary
+S3266,adiposis dolorosa
+S3267,myocardial bridging
+S3268,syphilis, secondary
+S3269,desbuquois syndrome
+S3270,diabetes mellitus, noninsulin-dependent, 1
+S3271,limb-girdle muscular dystrophy type 2a
+S3272,candidiasis, familial, 2
+S3273,mental retardation and microcephaly with pontine and cerebellar hypoplasia
+S3274,opitz-kaveggia syndrome
+S3275,autoimmune lymphoproliferative syndrome, type iia
+S3276,lymphoma, non-hodgkin, familial
+S3277,creatine deficiency, x-linked
+S3278,leukoencephalitis, acute hemorrhagic
+S3279,sprains and strains
+S3280,ventricular tachycardia, catecholaminergic polymorphic, 1, with or without atrial dysfunction and/or dilated cardiomyopathy
+S3281,ventricular tachycardia, catecholaminergic polymorphic, 2
+S3282,hyperparathyroidism, neonatal severe primary
+S3283,hypocalciuric hypercalcemia, familial, type 1
+S3284,acatalasia
+S3285,cri-du-chat syndrome
+S3286,opsoclonus-myoclonus syndrome
+S3287,purpura, hyperglobulinemic
+S3288,spermatogenic failure 7
+S3289,lipodystrophy, congenital generalized, type 3
+S3290,chromosome 3, monosomy 3p25
+S3291,creatine phosphokinase, elevated serum
+S3292,long qt syndrome 9
+S3293,muscular dystrophies, limb-girdle
+S3294,muscular dystrophy, limb-girdle, type 1c
+S3295,noonan syndrome-like disorder with or without juvenile myelomonocytic leukemia
+S3296,46, xy sex reversal 5
+S3297,mental retardation, autosomal recessive 3
+S3298,coach syndrome
+S3299,joubert syndrome 9
+S3300,meckel syndrome, type 6
+S3301,cerulean cataract
+S3302,hennekam lymphangiectasia lymphedema syndrome
+S3303,deafness, autosomal dominant 44
+S3304,mycobacterium tuberculosis, susceptibility to
+S3305,eosinophilic esophagitis
+S3306,cerebral cavernous malformations 2
+S3307,hemangioma, cavernous, central nervous system
+S3308,peritoneal neoplasms
+S3309,von hippel-lindau disease
+S3310,chagas disease
+S3311,diabetes mellitus, insulin-dependent, 22
+S3312,pulmonary valve stenosis
+S3313,otorhinolaryngologic diseases
+S3314,cataract, total congenital
+S3315,neuropathy, hereditary sensory, with spastic paraplegia, autosomal recessive
+S3316,nephropathy with pretibial epidermolysis bullosa and deafness
+S3317,common variable immunodeficiency
+S3318,immunodeficiency due to defect in cd3-zeta
+S3319,methylmalonic aciduria due to transcobalamin receptor defect
+S3320,actinomycosis
+S3321,bacillaceae infections
+S3322,plasmodium falciparum blood infection level
+S3323,platelet glycoprotein iv deficiency
+S3324,severe combined immunodeficiency, autosomal recessive, t cell-negative, b cell-positive, nk cell-negative
+S3325,severe combined immunodeficiency, autosomal recessive, t cell-negative, b cell-positive, nk cell-positive
+S3326,immunodeficiency with hyper-igm, type 3
+S3327,immunodeficiency with hyper-igm, type 1
+S3328,measles
+S3329,cd59 deficiency
+S3330,dermatitis, perioral
+S3331,agammaglobulinemia 6, autosomal recessive
+S3332,radiodermatitis
+S3333,cd8 deficiency, familial
+S3334,c syndrome
+S3335,anemia, dyserythropoietic, congenital
+S3336,corneal dystrophy, thiel-behnke type
+S3337,meier-gorlin syndrome
+S3338,prostate cancer, familial
+S3339,mental retardation, autosomal dominant 3
+S3340,usher syndrome, type 1d
+S3341,ectodermal dysplasia, ectrodactyly, and macular dystrophy
+S3342,juvenile macular degeneration and hypotrichosis
+S3343,cone-rod dystrophy 15
+S3344,melanoma, cutaneous malignant, susceptibility to, 3
+S3345,microcephaly 3, primary, autosomal recessive
+S3346,epileptic encephalopathy, early infantile, 2
+S3347,rett syndrome
+S3348,multiple endocrine neoplasia, type iv
+S3349,beckwith-wiedemann syndrome
+S3350,li-fraumeni syndrome
+S3351,melanoma astrocytoma syndrome
+S3352,melanoma, cutaneous malignant, susceptibility to, 2
+S3353,melanoma-pancreatic cancer syndrome
+S3354,vulvar lichen sclerosus
+S3355,hypotrichosis 2
+S3356,specific granule deficiency
+S3357,maturity-onset diabetes of the young, type 8, with exocrine dysfunction
+S3358,exocrine pancreatic insufficiency
+S3359,microcephaly 6, primary, autosomal recessive
+S3360,seckel syndrome 4
+S3361,microcephaly 4, primary, autosomal recessive
+S3362,joubert syndrome 5
+S3363,leber congenital amaurosis 10
+S3364,meckel syndrome, type 4
+S3365,senior-loken syndrome 6
+S3366,retinitis pigmentosa 26
+S3367,coproporphyria
+S3368,hyperalphalipoproteinemia 1
+S3369,conotruncal heart malformations
+S3370,heterotaxy, visceral, 2, autosomal
+S3371,basal laminar drusen
+S3372,complement factor h deficiency
+S3373,macular degeneration, age-related, 4
+S3374,complement factor i deficiency
+S3375,nemaline myopathy 7
+S3376,lymphoma, extranodal nk-t-cell
+S3377,cystic fibrosis, modifier of, 1
+S3378,properdin deficiency, x-linked
+S3379,bronchiectasis with or without elevated sweat chloride 1
+S3380,congenital bilateral aplasia of vas deferens
+S3381,hereditary pancreatitis
+S3382,congenital myasthenic syndrome with episodic apnea
+S3383,charge association--coloboma, heart anomaly, choanal atresia, retardation, genital and ear anomalies
+S3384,charge syndrome
+S3385,kallmann syndrome
+S3386,scoliosis, idiopathic, susceptibility to, 3
+S3387,asthma-related traits, susceptibility to, 7
+S3388,choroideremia
+S3389,frontotemporal dementia, chromosome 3-linked
+S3390,frontotemporal lobar degeneration
+S3391,cataract, posterior polar, 3
+S3392,multiple pterygium syndrome, lethal type
+S3393,myasthenic syndrome, congenital, fast-channel
+S3394,myasthenic syndrome, congenital, postsynaptic slow-channel
+S3395,epilepsy, nocturnal frontal lobe, type 4
+S3396,epilepsy, frontal lobe
+S3397,epilepsy, nocturnal frontal lobe, type 1
+S3398,myasthenic syndrome, congenital, associated with acetylcholine receptor deficiency
+S3399,epilepsy, nocturnal frontal lobe, type 3
+S3400,multiple pterygium syndrome
+S3401,ehlers-danlos syndrome, musculocontractural type
+S3402,joint instability
+S3403,spondyloepiphyseal dysplasia with congenital joint dislocations
+S3404,macular dystrophy, corneal type 1
+S3405,cocoon syndrome
+S3406,usher syndrome, type ij
+S3407,bare lymphocyte syndrome 2
+S3408,north american indian childhood cirrhosis
+S3409,wolfram syndrome
+S3410,cervical dystonia, primary
+S3411,cold-induced sweating syndrome 1
+S3412,myotonia congenita, autosomal dominant
+S3413,myotonia congenita, autosomal recessive
+S3414,epilepsy juvenile absence
+S3415,dent disease 1
+S3416,hypophosphatemic rickets, x-linked recessive
+S3417,low molecular weight proteinuria with hypercalciuria and nephrocalcinosis
+S3418,nephrolithiasis, x-linked recessive, with renal failure
+S3419,osteopetrosis,  autosomal recessive 4
+S3420,bartter syndrome, type 4b
+S3421,bartter syndrome, type 3
+S3422,ichthyosis, leukocyte vacuoles, alopecia, and sclerosing cholangitis
+S3423,hypomagnesemia 3, renal
+S3424,hypomagnesemia 5, renal, with ocular involvement
+S3425,dengue hemorrhagic fever
+S3426,candidiasis familial chronic mucocutaneous, autosomal recessive
+S3427,ceroid lipofuscinosis, neuronal 3, juvenile
+S3428,ceroid lipofuscinosis, neuronal 5
+S3429,ceroid lipofuscinosis, neuronal, 6
+S3430,ceroid lipofuscinosis, neuronal 8
+S3431,ceroid lipofuscinosis, neuronal 9
+S3432,usher syndrome, type iiia
+S3433,familial dilated cardiomyopathy
+S3434,cardiomyopathy, dilated, 1c
+S3435,melanoma, cutaneous malignant, susceptibility to, 1
+S3436,dystrophia myotonica 2
+S3437,carney complex
+S3438,homocarnosinosis
+S3439,achromatopsia 2
+S3440,achromatopsia 3
+S3441,jalili syndrome
+S3442,myopathy, congenital, compton-north
+S3443,cortical dysplasia-focal epilepsy syndrome
+S3444,pitt-hopkins syndrome
+S3445,deafness, autosomal dominant 9
+S3446,congenital disorder of glycosylation, type 2g
+S3447,congenital disorder of glycosylation, type iij
+S3448,congenital disorder of glycosylation, type iii
+S3449,congenital disorder of glycosylation type 2e
+S3450,congenital disorder of glycosylation, type iih
+S3451,metaphyseal chondrodysplasia schmid type
+S3452,marshall syndrome
+S3453,stickler syndrome, type 2
+S3454,deafness, autosomal dominant 13
+S3455,deafness, autosomal recessive 53
+S3456,nance sweeney chondrodysplasia
+S3457,otospondylomegaepiphyseal dysplasia
+S3458,pierre robin syndrome with fetal chondrodysplasia
+S3459,stickler syndrome, type 3
+S3460,epidermolysis bullosa, junctional, non-herlitz type
+S3461,knobloch syndrome
+S3462,ehlers-danlos syndrome type 1
+S3463,ehlers-danlos syndrome, type vii, autosomal dominant
+S3464,osteogenesis imperfecta
+S3465,osteogenesis imperfecta, type 2a
+S3466,osteogenesis imperfecta, type 3
+S3467,osteogenesis imperfecta, type 4
+S3468,ehlers-danlos syndrome, cardiac valvular form
+S3469,achondrogenesis type 2
+S3470,epiphyseal dysplasia, multiple, with myopia and conductive deafness
+S3471,hyaloideoretinal degeneration of wagner
+S3472,kniest dysplasia
+S3473,legg-calve-perthes disease
+S3474,osteoarthritis with mild chondrodysplasia
+S3475,platyspondylic lethal skeletal dysplasia, torrance type
+S3476,spondyloepiphyseal dysplasia, congenita
+S3477,spondylometaphyseal dysplasia, kozlowski type
+S3478,spondyloperipheral dysplasia
+S3479,stickler syndrome, type 1
+S3480,stickler syndrome, type i, nonsyndromic ocular
+S3481,strudwick syndrome
+S3482,ehlers-danlos syndrome type 3
+S3483,ehlers danlos syndrome type 4, autosomal dominant
+S3484,angiopathy, hereditary, with nephropathy, aneurysms, and muscle cramps
+S3485,brain small vessel disease with hemorrhage
+S3486,familial porencephaly
+S3487,alport syndrome, recessive type
+S3488,hematuria, benign familial
+S3489,nephritis, hereditary
+S3490,alport syndrome, x-linked
+S3491,leiomyoma, epithelioid
+S3492,leiomyomatosis, diffuse, with alport syndrome
+S3493,ehlers-danlos syndrome type 2
+S3494,bethlem myopathy
+S3495,ossification of the posterior longitudinal ligament of the spine
+S3496,scleroatonic muscular dystrophy
+S3497,myosclerosis, autosomal recessive
+S3498,epidermolysis bullosa dystrophica, autosomal recessive
+S3499,epidermolysis bullosa dystrophica, pasini type
+S3500,epidermolysis bullosa, pretibial
+S3501,epidermolysis bullosa pruriginosa
+S3502,epidermolysis bullosa with congenital localized absence of skin and deformity of nails
+S3503,nail disorder, nonsyndromic congenital, 8
+S3504,transient bullous dermolysis of the newborn
+S3505,corneal dystrophy, fuchs&apos; endothelial, 1
+S3506,corneal dystrophy, posterior polymorphous, 1
+S3507,corneal dystrophy, posterior polymorphous, 2
+S3508,epiphyseal dysplasia, multiple, 2
+S3509,epiphyseal dysplasia, multiple, 3
+S3510,carnevale syndrome
+S3511,malpuech facial clefting syndrome
+S3512,oculopalatoskeletal syndrome
+S3513,endplate acetylcholinesterase deficiency
+S3514,epiphyseal dysplasia, multiple, 1
+S3515,fairbank disease
+S3516,pseudoachondroplasia
+S3517,digeorge syndrome
+S3518,exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis
+S3519,mitochondrial complex iv deficiency
+S3520,pasteurellaceae infections
+S3521,carboxypeptidase n deficiency
+S3522,alveolar capillary dysplasia
+S3523,carbamoyl-phosphate synthase i deficiency disease
+S3524,carnitine palmitoyl transferase 1a deficiency
+S3525,carnitine palmitoyltransferase ii deficiency, infantile
+S3526,carnitine palmitoyltransferase ii deficiency, late-onset
+S3527,carnitine palmitoyltransferase ii deficiency, lethal neonatal
+S3528,leber congenital amaurosis
+S3529,pigmented paravenous chorioretinal atrophy
+S3530,retinal telangiectasis
+S3531,retinitis pigmentosa 12
+S3532,mental retardation, autosomal recessive 2
+S3533,histiocytoma, angiomatoid fibrous
+S3534,rubinstein-taybi syndrome
+S3535,atrioventricular septal defect, partial, with heterotaxy syndrome
+S3536,intraoperative awareness
+S3537,crisponi syndrome
+S3538,purine-pyrimidine metabolism, inborn errors
+S3539,osteogenesis imperfecta, type 7
+S3540,cone-rod dystrophy 2
+S3541,alpha-b crystallinopathy
+S3542,cataract, congenital zonular, with sutural opacities
+S3543,cataract, lamellar 2
+S3544,microphthalmia, isolated, with cataract 4
+S3545,cataract, congenital nuclear, autosomal recessive 3
+S3546,cataract, congenital, cerulean type, 2
+S3547,cataract, coppock-like
+S3548,cataract, sutural, with punctate and cerulean opacities
+S3549,cataract, congenital nuclear, autosomal recessive 2
+S3550,cataract, congenital, cerulean type, 3
+S3551,cataract congenital dominant non nuclear
+S3552,cataract, crystalline aculeiform
+S3553,neoplasm, residual
+S3554,surfactant metabolism dysfunction, pulmonary, 4
+S3555,surfactant metabolism dysfunction, pulmonary, 1
+S3556,neutrophilia, hereditary
+S3557,silver-russell syndrome
+S3558,cardiomyopathy, dilated, 1m
+S3559,cardiomyopathy, familial hypertrophic, 12
+S3560,cerebral amyloid angiopathy, familial
+S3561,macular degeneration, age-related, 11
+S3562,gastric antral vascular ectasia
+S3563,congenital cataracts, facial dysmorphism, and neuropathy
+S3564,gamma-cystathionase deficiency
+S3565,diabetes mellitus, insulin-dependent, 12
+S3566,pilomatrixoma
+S3567,cystinosis, late-onset juvenile or adolescent nephropathic type
+S3568,cystinosis, ocular nonnephropathic
+S3569,nephropathic cystinosis
+S3570,neuraminidase deficiency with beta-galactosidase deficiency
+S3571,keratosis palmoplantaris with periodontopathia and onychogryposis
+S3572,ceroid lipofuscinosis, neuronal, 10
+S3573,optic atrophy, autosomal dominant
+S3574,tuberculosis, miliary
+S3575,pycnodysostosis
+S3576,mental retardation, x-linked, with short stature, hypogonadism, and abnormal gait
+S3577,three m syndrome 1
+S3578,basal ganglia disease, biotin-responsive
+S3579,chronic periodontitis
+S3580,trimethylaminuria
+S3581,whim syndrome
+S3582,methemoglobinemia type iv
+S3583,nadh cytochrome b5 reductase deficiency
+S3584,granulomatous disease, chronic
+S3585,granulomatous disease, chronic, autosomal recessive, cytochrome b-negative
+S3586,granulomatous disease, chronic, x-linked
+S3587,heredodegenerative disorders, nervous system
+S3588,familial cylindromatosis
+S3589,trichoepithelioma, multiple familial, 1
+S3590,46, xy disorders of sex development
+S3591,lipoid congenital adrenal hyperplasia
+S3592,congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency
+S3593,glucocorticoid-remediable aldosteronism
+S3594,18-hydroxylase deficiency
+S3595,adrenal hyperplasia, congenital, type 5
+S3596,aromatase deficiency
+S3597,sexual infantilism
+S3598,ischemic contracture
+S3599,skin and connective tissue diseases
+S3600,upper extremity deep vein thrombosis
+S3601,glaucoma 1, open angle, a
+S3602,glaucoma 3, primary congenital, a
+S3603,glaucoma, primary open angle
+S3604,congenital adrenal hyperplasia due to 21 hydroxylase deficiency
+S3605,xanthomatosis, cerebrotendinous
+S3606,vitamin d hydroxylation-deficient rickets, type 1a
+S3607,coumarin resistance
+S3608,drug metabolism, poor, cyp2c19-related
+S3609,invasive pulmonary aspergillosis
+S3610,neuroaspergillosis
+S3611,paracoccidioidomycosis
+S3612,exsanguination
+S3613,drug metabolism, poor, cyp2d6-related
+S3614,vitamin d hydroxylation-deficient rickets, type 1b
+S3615,hemangioma, capillary
+S3616,uterine cervical incompetence
+S3617,ventricular septal rupture
+S3618,lamellar ichthyosis, type 3
+S3619,bietti&apos;s crystalline dystrophy
+S3620,spastic paraplegia, hereditary
+S3621,chondroma
+S3622,d-2-hydroxyglutaric aciduria 1
+S3623,leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation
+S3624,dopamine beta hydroxylase deficiency
+S3625,woodhouse sakati syndrome
+S3626,mirror movements 1
+S3627,dyslexia
+S3628,reticuloendotheliosis, familial, with eosinophilia
+S3629,severe combined immunodeficiency with sensitivity to ionizing radiation
+S3630,corneal dystrophy, congenital stromal
+S3631,dysplastic nevus syndrome
+S3632,neuronopathy, distal hereditary motor, type viib
+S3633,perry syndrome
+S3634,lissencephaly, x-linked, 1
+S3635,pentosuria
+S3636,xeroderma pigmentosum, complementation group e
+S3637,aromatic amino acid decarboxylase deficiency
+S3638,liposarcoma, myxoid
+S3639,spondylometaepiphyseal dysplasia, short limb-hand type
+S3640,warsaw breakage syndrome
+S3641,peutz-jeghers syndrome
+S3642,wagr syndrome
+S3643,hypotonia-cystinuria syndrome
+S3644,chromosome xp11.3 deletion syndrome
+S3645,epilepsy, partial, with variable foci
+S3646,cardiomyopathy, dilated, 1i
+S3647,myopathy, myofibrillar, 1
+S3648,scapuloperoneal syndrome, neurogenic, kaeser type
+S3649,deafness, autosomal dominant 5
+S3650,deafness, autosomal recessive 31
+S3651,usher syndrome, type iid
+S3652,deafness, autosomal recessive 59
+S3653,desmosterolosis
+S3654,46,xy gonadal dysgenesis, complete or partial, dhh-related
+S3655,46,xy gonadal dysgenesis, partial, with minifascicular neuropathy
+S3656,deafness, autosomal dominant 1
+S3657,premature ovarian failure 2a
+S3658,auditory neuropathy, autosomal dominant, 1
+S3659,pleuropulmonary blastoma
+S3660,mental retardation, fra12a type
+S3661,nephroblastomatosis, fetal ascites, macrosomia and wilms tumor
+S3662,dyskeratosis congenita
+S3663,hoyeraal hreidarsson syndrome
+S3664,pyruvate dehydrogenase e2 deficiency
+S3665,spondylocostal dysostosis 1, autosomal recessive
+S3666,amelogenesis imperfecta, type iv
+S3667,trichodentoosseous syndrome
+S3668,cardiomyopathy, dilated, 3b
+S3669,dimethylglycine dehydrogenase deficiency
+S3670,human herpesvirus 6 encephalitis
+S3671,hypophosphatemia, familial
+S3672,hypophosphatemic rickets, autosomal recessive, 1
+S3673,dystrophia myotonica 1
+S3674,ciliary dyskinesia, primary, 13
+S3675,ciliary dyskinesia, primary, 10
+S3676,ciliary dyskinesia, primary, 7
+S3677,primary ciliary dyskinesia, 3
+S3678,ciliary dyskinesia, primary, 9
+S3679,3-methylglutaconic aciduria, type v
+S3680,dysentery
+S3681,charcot-marie-tooth disease, dominant intermediate b
+S3682,myopathy, centronuclear, 1
+S3683,hereditary sensory and autonomic neuropathies
+S3684,immunodeficiency-centromeric instability-facial anomalies syndrome 1
+S3685,hyper-ige recurrent infection syndrome, autosomal recessive
+S3686,pena shokeir syndrome, type 1
+S3687,congenital disorder of glycosylation, type im
+S3688,congenital disorder of glycosylation type 1j
+S3689,diffuse panbronchiolitis
+S3690,congenital disorder of glycosylation type 1e
+S3691,congenital disorder of glycosylation, type io
+S3692,paroxysmal ventricular fibrillation
+S3693,varicose veins
+S3694,dihydropyrimidine dehydrogenase deficiency
+S3695,dihydropyrimidinase deficiency
+S3696,psychoses, alcoholic
+S3697,westphal disease
+S3698,tremor hereditary essential, 1
+S3699,novelty seeking personality trait
+S3700,benign essential blepharospasm
+S3701,arrhythmogenic right ventricular dysplasia, familial, 11
+S3702,hypotrichosis and recurrent skin vesicles
+S3703,keratosis palmoplantaris striata 1
+S3704,arrhythmogenic right ventricular dysplasia, familial, 10
+S3705,cardiomyopathy, dilated, 1bb
+S3706,arrhythmogenic right ventricular dysplasia, familial, 8
+S3707,epidermolysis bullosa, lethal acantholytic
+S3708,keratosis palmoplantaris striata ii
+S3709,skin fragility-woolly hair syndrome
+S3710,deafness, autosomal dominant 39, with dentinogenesis imperfecta 1
+S3711,dentin dysplasia, type ii
+S3712,dentinogenesis imperfecta
+S3713,dentinogenesis imperfecta, shields type 3
+S3714,left ventricular noncompaction 1
+S3715,thyroid dyshormonogenesis 6
+S3716,thyroid dyshormonogenesis 5
+S3717,dyggve-melchior-clausen syndrome
+S3718,smith-mccort dysplasia
+S3719,asphyxiating thoracic dystrophy 3
+S3720,short rib-polydactyly syndrome
+S3721,short rib-polydactyly syndrome, verma-naumoff type
+S3722,limb-girdle muscular dystrophy, type 2b
+S3723,myopathy, distal, with anterior tibial onset
+S3724,familial paroxysmal dystonia
+S3725,chondrodysplasia punctata 2, x-linked dominant
+S3726,erythrocytosis, familial, 2
+S3727,hirschsprung disease
+S3728,lipoid proteinosis of urbach and wiethe
+S3729,ectodermal dysplasia 1, anhidrotic
+S3730,tooth agenesis, selective, x-linked, 1
+S3731,ectodermal dysplasia 3, anhidrotic
+S3732,ectodermal dysplasia, hypohidrotic, autosomal recessive
+S3733,waardenburg syndrome, type 4
+S3734,waardenburg syndrome, type 4a
+S3735,waardenburg syndrome, type 4b
+S3736,abcd syndrome
+S3737,doyne honeycomb retinal dystrophy
+S3738,cutis laxa, autosomal recessive, type ia
+S3739,craniofrontonasal dysplasia
+S3740,frontonasal dysplasia
+S3741,hypomagnesemia 4, renal
+S3742,polycystic kidney, autosomal recessive
+S3743,erythrocytosis, familial, 3
+S3744,charcot-marie-tooth disease, type 1d
+S3745,charcot-marie-tooth disease, type 4e
+S3746,prostate cancer, hereditary, 12
+S3747,kleefstra syndrome
+S3748,wolcott-rallison syndrome
+S3749,leukoencephalopathy with vanishing white matter
+S3750,myoclonic epilepsy, familial infantile
+S3751,cyclic neutropenia
+S3752,neutropenia, severe congenital, 1, autosomal dominant
+S3753,aortic stenosis, supravalvular
+S3754,cutis laxa
+S3755,cutis laxa, autosomal dominant 1
+S3756,stargardt disease 3
+S3757,muscular dystrophy, emery-dreifuss
+S3758,bowen-conradi syndrome
+S3759,schizencephaly
+S3760,amelogenesis imperfecta
+S3761,amelogenesis imperfecta, type ib
+S3762,amelogenesis imperfecta, type ic
+S3763,glycogen storage disease xiii
+S3764,arterial calcification of infancy
+S3765,hypophosphatemic rickets, autosomal recessive, 2
+S3766,erythrocytosis, familial, 4
+S3767,elliptocytosis 1
+S3768,spherocytosis, type 5
+S3769,colorectal cancer, hereditary nonpolyposis, type 8
+S3770,diarrhea 5, with tufting enteropathy, congenital
+S3771,lynch syndrome i (site-specific colonic cancer)
+S3772,absent corpus callosum cataract immunodeficiency
+S3773,cataract, age-related cortical, 2
+S3774,prostate cancer/brain cancer susceptibility
+S3775,microvascular complications of diabetes, susceptibility to, 2
+S3776,polycythemia, primary familial and congenital
+S3777,lethal congenital contracture syndrome 2
+S3778,cerebrooculofacioskeletal syndrome 4
+S3779,cerebrooculofacioskeletal syndrome 2
+S3780,trichothiodystrophy, photosensitive;ttdp ichthyosiform erythroderma with hair abnormality and mental and growth
+S3781,xeroderma pigmentosum, complementation group d
+S3782,xeroderma pigmentosum, complementation group b
+S3783,xeroderma pigmentosum, complementation group f
+S3784,xfe progeroid syndrome
+S3785,cerebrooculofacioskeletal syndrome 1
+S3786,xeroderma pigmentosum, complementation group g
+S3787,cockayne syndrome
+S3788,de sanctis-cacchione syndrome
+S3789,uv-sensitive syndrome 1
+S3790,roberts syndrome
+S3791,sc phocomelia syndrome
+S3792,deafness, autosomal recessive 36, with or without vestibular involvement
+S3793,pyometra
+S3794,deafness, autosomal recessive 35
+S3795,multiple acyl coenzyme a dehydrogenase deficiency
+S3796,ethylmalonic encephalopathy
+S3797,myeloproliferative disorder, chronic, with eosinophilia
+S3798,ellis-van creveld syndrome
+S3799,weyers acrofacial dysostosis
+S3800,pontocerebellar hypoplasia type 1
+S3801,exostoses, multiple hereditary
+S3802,exostoses, multiple, type i
+S3803,exostoses, multiple, type ii
+S3804,branchio-oto-renal syndrome
+S3805,branchiootorenal syndrome 1
+S3806,otofaciocervical syndrome
+S3807,cardiomyopathy, dilated, 1j
+S3808,deafness, autosomal dominant 10
+S3809,myelodysplastic-myeloproliferative diseases
+S3810,factor x deficiency
+S3811,factor xi deficiency
+S3812,factor xii deficiency
+S3813,factor xiii deficiency
+S3814,prothrombin deficiency, congenital
+S3815,factor v deficiency
+S3816,thrombophilia due to activated protein c resistance
+S3817,thrombophilia, hereditary
+S3818,factor vii deficiency
+S3819,hemophilia b
+S3820,thrombophilia, x-linked, due to factor ix defect
+S3821,spastic paraplegia 35, autosomal recessive
+S3822,leukodystrophy, hypomyelinating, 5
+S3823,neuropathy, hereditary sensory and autonomic, type iib
+S3824,raine syndrome
+S3825,toe syndactyly, telecanthus, and anogenital and renal malformations
+S3826,amelogenesis imperfecta, type iii
+S3827,megalocytic interstitial nephritis
+S3828,fanconi anemia, complementation group b
+S3829,vacterl association with hydrocephaly, x-linked
+S3830,fanconi anemia, complementation group c
+S3831,fanconi anemia, complementation group d2
+S3832,fanconi anemia, complementation group e
+S3833,fanconi anemia, complementation group f
+S3834,fanconi anemia, complementation group i
+S3835,synpolydactyly 2
+S3836,cutis laxa, recessive
+S3837,macular degeneration, age-related, 3
+S3838,arachnodactyly
+S3839,ectopia lentis
+S3840,ectopia lentis 1, isolated, autosomal dominant
+S3841,mass syndrome
+S3842,shprintzen golberg craniosynostosis
+S3843,stiff skin syndrome
+S3844,congenital contractural arachnodactyly
+S3845,fructose-1,6-diphosphatase deficiency
+S3846,parkinson disease 15, autosomal recessive early-onset
+S3847,fibrosis of extraocular muscles, congenital, 3a, with or without extraocular involvement
+S3848,poikiloderma of kindler
+S3849,leukocyte adhesion deficiency, type iii
+S3850,amyloidosis, familial
+S3851,aarskog syndrome
+S3852,charcot-marie-tooth disease, type 4h
+S3853,aplasia of lacrimal and salivary glands
+S3854,lacrimoauriculodentodigital syndrome
+S3855,spinocerebellar ataxia 27
+S3856,carcinoid heart disease
+S3857,periapical periodontitis
+S3858,hypophosphatemic rickets, autosomal dominant
+S3859,tumoral calcinosis, hyperphosphatemic, familial
+S3860,deafness, congenital, with inner ear agenesis, microtia, and microdontia
+S3861,22q11 deletion syndrome
+S3862,multiple synostoses syndrome 3
+S3863,antley-bixler syndrome without genital anomalies or disordered steroidogenesis
+S3864,jackson-weiss syndrome
+S3865,osteoglophonic dwarfism
+S3866,pfeiffer type acrocephalosyndactyly
+S3867,trigonocephaly 1
+S3868,ankylosis
+S3869,cutis gyrata syndrome of beare and stevenson
+S3870,plagiocephaly, nonsynostotic
+S3871,scaphocephaly, maxillary retrusion, and mental retardation
+S3872,achondroplasia
+S3873,catshl syndrome
+S3874,crouzon syndrome with acanthosis nigricans
+S3875,hypochondroplasia
+S3876,muenke syndrome
+S3877,nevus, epidermal
+S3878,thanatophoric dysplasia
+S3879,thanatophoric dysplasia, type 1
+S3880,thanatophoric dysplasia, type 2
+S3881,fumaric aciduria
+S3882,leiomyomatosis and renal cell cancer, hereditary
+S3883,reed&apos;s syndrome
+S3884,myopathy, reducing body, x-linked, childhood-onset
+S3885,myopathy, reducing body, x-linked, early-onset, severe
+S3886,myopathy, x-linked, with postural muscle atrophy
+S3887,scapuloperoneal myopathy, x-linked dominant
+S3888,amyotrophic lateral sclerosis 11
+S3889,charcot-marie-tooth disease, type 4j
+S3890,premature ovarian failure 6
+S3891,muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 1
+S3892,muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 5
+S3893,muscular dystrophy-dystroglycanopathy (congenital with or without mental retardation), type b, 5
+S3894,muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 5
+S3895,walker-warburg syndrome
+S3896,cardiomyopathy, dilated, 1x
+S3897,muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 4
+S3898,muscular dystrophy-dystroglycanopathy (congenital without mental retardation), type b, 4
+S3899,muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 4
+S3900,birt-hogg-dube syndrome
+S3901,oncocytoma, renal
+S3902,pneumothorax, primary spontaneous
+S3903,dermatitis, atopic, 2
+S3904,ichthyosis vulgaris
+S3905,cardiac valvular dysplasia, x-linked
+S3906,congenital idiopathic intestinal pseudoobstruction
+S3907,frontometaphyseal dysplasia
+S3908,heterotopia, periventricular, ehlers-danlos variant
+S3909,heterotopia, periventricular, x-linked dominant
+S3910,oto-palato-digital syndrome type 1
+S3911,oto-palato-digital syndrome, type 2
+S3912,terminal osseous dysplasia
+S3913,atelosteogenesis, type 1
+S3914,atelosteogenesis, type iii
+S3915,boomerang dysplasia
+S3916,larsen syndrome, dominant type
+S3917,spondylocarpotarsal synostosis
+S3918,filaminopathy, autosomal dominant
+S3919,lymphedema, hereditary, ia
+S3920,posterior column ataxia with retinitis pigmentosa
+S3921,encephaloclastic proliferative vasculopathy
+S3922,amyotrophic lateral sclerosis, sporadic
+S3923,fragile x mental retardation syndrome
+S3924,fragile x tremor ataxia syndrome
+S3925,glomerulopathy with fibronectin deposits
+S3926,keratoconus
+S3927,brain diseases, metabolic, inborn
+S3928,neurodegeneration due to cerebral folate transport deficiency
+S3929,amyloid neuropathies, familial
+S3930,embolism, amniotic fluid
+S3931,axenfeld-rieger syndrome, type 1
+S3932,axenfeld-rieger syndrome, type 3
+S3933,iridogoniodysgenesis, type 1
+S3934,lymphedema distichiasis syndrome
+S3935,lymphedema, hereditary, ii
+S3936,yellow nail syndrome
+S3937,aphakia, congenital primary
+S3938,rett syndrome, congenital variant
+S3939,deafness, autosomal recessive 4, with enlarged vestibular aqueduct
+S3940,blepharophimosis, ptosis, and epicanthus inversus
+S3941,blepharophimosis syndrome type 1
+S3942,bpes with duane retraction syndrome
+S3943,premature ovarian failure 3
+S3944,t-cell immunodeficiency, congenital alopecia and nail dystrophy
+S3945,mental retardation with language impairment and autistic features
+S3946,speech-language disorder 1
+S3947,immunodysregulation, polyendocrinopathy, and enteropathy, x-linked
+S3948,mitochondrial complex i deficiency
+S3949,fraser syndrome
+S3950,bifid nose
+S3951,bifid nose with or without anorectal and renal anomalies
+S3952,hereditary renal agenesis
+S3953,marles greenberg persaud syndrome
+S3954,nystagmus 1, congenital, x- linked
+S3955,retinitis pigmentosa 30
+S3956,follicle-stimulating hormone deficiency, isolated
+S3957,facioscapulohumeral muscular dystrophy 1b
+S3958,ovarian dysgenesis 1
+S3959,glutamate formiminotransferase deficiency
+S3960,hyperferritinemia, hereditary, with congenital cataracts
+S3961,neurodegeneration with brain iron accumulation 3
+S3962,growth retardation, developmental delay, coarse facies, and early death
+S3963,mental retardation, x-linked 9
+S3964,fucosidosis
+S3965,amyotrophic lateral sclerosis 6, autosomal recessive
+S3966,caliciviridae infections
+S3967,vitamin b12 plasma level quantitative trait locus 1
+S3968,exudative vitreoretinopathy 1
+S3969,glycogen storage disease type i
+S3970,neutropenia, severe congenital, 4, autosomal recessive
+S3971,anemia, hemolytic, congenital nonspherocytic
+S3972,favism
+S3973,phagocyte bactericidal dysfunction
+S3974,glycogen storage disease type ii
+S3975,entropion
+S3976,generalized epilepsy with febrile seizures plus, type 1
+S3977,generalized epilepsy with febrile seizures plus, type 3
+S3978,cerebral palsy, spastic quadriplegic, 1
+S3979,leukodystrophy, globoid cell
+S3980,galactosemias
+S3981,mucopolysaccharidosis iv
+S3982,guanidinoacetate methyltransferase deficiency
+S3983,giant axonal neuropathy
+S3984,charcot-marie-tooth disease, type 2d
+S3985,thrombocytopenia with beta-thalassemia, x-linked
+S3986,thrombocytopenia, x-linked, with or without dyserythropoietic anemia
+S3987,barakat syndrome
+S3988,arginine:glycine amidinotransferase deficiency
+S3989,gaucher disease, perinatal lethal
+S3990,gaucher-like disease
+S3991,glycogen storage disease type iv
+S3992,glucocorticoid deficiency 2
+S3993,glutaric aciduria 1
+S3994,hyperphenylalaninemia, bh4-deficient, b
+S3995,hyperinsulinemic hypoglycemia, familial, 3
+S3996,maturity-onset diabetes of the young
+S3997,maturity-onset diabetes of the young, type 2
+S3998,gamma-glutamylcysteine synthetase deficiency, hemolytic anemia due to
+S3999,cataract, congenital or juvenile
+S4000,charcot-marie-tooth disease, axonal, with vocal cord paresis, autosomal recessive
+S4001,charcot-marie-tooth disease, recessive intermediate a
+S4002,charcot-marie-tooth disease, type 2k
+S4003,charcot-marie-tooth disease, type 4a
+S4004,klippel-feil syndrome 3, autosomal dominant
+S4005,microphthalmia, isolated 7
+S4006,microphthalmia, isolated, with coloboma 6
+S4007,acromesomelic dysplasia hunter-thompson type
+S4008,brachydactyly type c
+S4009,chondrodysplasia, grebe type
+S4010,cushing&apos;s symphalangism
+S4011,fibular hypoplasia and complex brachydactyly
+S4012,multiple synostoses syndrome 2
+S4013,klippel-feil syndrome
+S4014,klippel feil syndrome dominant type
+S4015,microphthalmia, isolated 4
+S4016,spondylocostal dysostosis 5, autosomal dominant
+S4017,mental retardation, x-linked 3
+S4018,myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay
+S4019,neutropenia, nonimmune chronic idiopathic, of adults
+S4020,neutropenia, severe congenital, 2, autosomal dominant
+S4021,combined oxidative phosphorylation deficiency 1
+S4022,pseudoxanthoma elasticum-like disorder with multiple coagulation factor deficiency
+S4023,vitamin k-dependent clotting factors, combined deficiency of, 1
+S4024,glutathionuria
+S4025,isolated growth hormone deficiency, type ia
+S4026,isolated growth hormone deficiency, type ib
+S4027,isolated growth hormone deficiency, type ii
+S4028,kowarski syndrome
+S4029,short stature, idiopathic, autosomal
+S4030,turner syndrome
+S4031,laron syndrome
+S4032,goldenhar syndrome
+S4033,digestive system neoplasms
+S4034,intrinsic factor deficiency
+S4035,parkinson disease 11, autosomal dominant
+S4036,fibromatosis, gingival, 1
+S4037,hallermann&apos;s syndrome
+S4038,oculodentodigital dysplasia
+S4039,oculodentodigital dysplasia, autosomal recessive
+S4040,syndactyly, type 3
+S4041,cataract, zonular pulverulent 3
+S4042,atrial standstill
+S4043,cataract microcornea syndrome
+S4044,cataract, zonular pulverulent 1
+S4045,charcot-marie-tooth disease, x-linked, 1
+S4046,deafness, autosomal dominant 3a
+S4047,deafness, autosomal recessive 1a
+S4048,ichthyosis, hystrix-like, with deafness
+S4049,keratitis-ichthyosis-deafness syndrome, autosomal dominant
+S4050,keratoderma palmoplantar deafness
+S4051,knuckle pads, leuconychia and sensorineural deafness
+S4052,vohwinkel syndrome
+S4053,deafness, autosomal dominant 2a
+S4054,deafness, autosomal dominant 2b
+S4055,erythrokeratodermia variabilis
+S4056,deafness, autosomal dominant 3b
+S4057,deafness, autosomal recessive 1b
+S4058,ectodermal dysplasia 2, hidrotic
+S4059,leukodystrophy, hypomyelinating, 2
+S4060,lymphedema, hereditary, ic
+S4061,spastic paraplegia 44, autosomal recessive
+S4062,hyperglycerolemia
+S4063,angiokeratoma
+S4064,fabry disease
+S4065,gangliosidosis, gm1
+S4066,lethal arthrogryposis with anterior horn cell disease
+S4067,lethal congenital contracture syndrome 1
+S4068,basal cell nevus syndrome
+S4069,holoprosencephaly 9
+S4070,greig cephalopolysyndactyly syndrome
+S4071,hypothalamic hamartomas
+S4072,pallister-hall syndrome
+S4073,polydactyly, postaxial, type a1
+S4074,polydactyly, preaxial 4
+S4075,nephronophthisis 7
+S4076,diabetes mellitus, neonatal, with congenital hypothyroidism
+S4077,glomus vagale tumors
+S4078,hyperexplexia hereditary
+S4079,anemia, sideroblastic, pyridoxine-refractory, autosomal recessive
+S4080,hyperinsulinemic hypoglycemia, familial, 6
+S4081,glutamine deficiency, congenital
+S4082,tay-sachs disease, ab variant
+S4083,ventricular tachycardia, familial
+S4084,albright&apos;s hereditary osteodystrophy
+S4085,brachydactyly
+S4086,cafe-au-lait spots
+S4087,fibrous dysplasia, polyostotic
+S4088,osseous heteroplasia, progressive
+S4089,pseudohypoparathyroidism type 1b
+S4090,pseudohypoparathyroidism, type ia
+S4091,pseudopseudohypoparathyroidism
+S4092,night blindness, congenital stationary, autosomal dominant 3
+S4093,distal myopathy, nonaka type
+S4094,inclusion body myopathy autosomal recessive
+S4095,sialic acid storage disease
+S4096,glycine n-methyltransferase deficiency
+S4097,rhizomelic chondrodysplasia punctata, type 2
+S4098,mucolipidosis ii alpha/beta
+S4099,mucolipidosis iii alpha/beta
+S4100,mucolipidosis iii gamma
+S4101,fertile eunuch syndrome
+S4102,gerodermia osteodysplastica
+S4103,bernard-soulier syndrome
+S4104,bernard-soulier syndrome, type a2, autosomal dominant
+S4105,nonarteritic anterior ischemic optic neuropathy, susceptibility to
+S4106,von willebrand disease, platelet type
+S4107,simpson-golabi-behmel syndrome, type 1
+S4108,omodysplasia type 1
+S4109,brugada syndrome 2
+S4110,molybdenum cofactor deficiency
+S4111,hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency
+S4112,nystagmus 6, congenital, x-linked
+S4113,ocular albinism type 1
+S4114,polymicrogyria, bilateral frontoparietal
+S4115,febrile seizures, familial, 4
+S4116,usher syndrome, type 2c
+S4117,chudley-mccullough syndrome
+S4118,deafness, autosomal dominant 28
+S4119,primary hyperoxaluria type 2
+S4120,mental retardation, x-linked 94
+S4121,mental retardation, autosomal recessive 6
+S4122,oguchi disease
+S4123,night blindness, congenital stationary, type 1b
+S4124,frontotemporal lobar degeneration with tdp43 inclusions, grn-related
+S4125,meretoja syndrome
+S4126,glutathione synthetase deficiency
+S4127,glutathione synthetase deficiency of erythrocytes, hemolytic anemia due to
+S4128,cone dystrophy 3
+S4129,amaurosis congenita of leber, type 1
+S4130,cone-rod dystrophy 5
+S4131,retinal cone dystrophy 2
+S4132,mucopolysaccharidosis vii
+S4133,glycogen storage disease xv
+S4134,glycogen storage disease 0, muscle
+S4135,glycogen storage disease 0, liver
+S4136,cortisone reductase deficiency
+S4137,3-hydroxyacyl-coa dehydrogenase deficiency
+S4138,hyperinsulinemic hypoglycemia, familial, 4
+S4139,long-chain 3-hydroxyacyl-coa dehydrogenase deficiency
+S4140,trifunctional protein deficiency
+S4141,histidinemia
+S4142,biliary atresia
+S4143,hemochromatosis, type 2a
+S4144,hemochromatosis, type 2b
+S4145,dwarfism
+S4146,ige responsiveness, atopic
+S4147,neutropenia, severe congenital, 3, autosomal recessive
+S4148,alpha-thalassemia
+S4149,heinz body anemias
+S4150,beta-thalassemia, dominant inclusion body type
+S4151,hemoglobinopathies
+S4152,progressive familial heart block, type ia
+S4153,progressive familial heart block, type ib
+S4154,thyroid cancer, hurthle cell
+S4155,microphthalmia, syndromic 7
+S4156,brugada syndrome 8
+S4157,sick sinus syndrome 2, autosomal dominant
+S4158,high density lipoprotein cholesterol level quantitative trait locus 6
+S4159,spondylocostal dysostosis 4, autosomal recessive
+S4160,hypopituitarism and septooptic &apos;dysplasia&apos;
+S4161,tay-sachs disease
+S4162,sandhoff disease
+S4163,microvascular complications of diabetes, susceptibility to, 7
+S4164,porphyria, south african type
+S4165,alkaptonuria
+S4166,deafness, autosomal recessive 39
+S4167,beta-hydroxyisobutyryl coa deacylase deficiency
+S4168,inherited peripheral neuropathy
+S4169,hemolytic anemia, nonspherocytic, due to hexokinase deficiency
+S4170,creutzfeldt-jakob syndrome
+S4171,holocarboxylase synthetase deficiency
+S4172,lipomatosis, multiple
+S4173,hmg coa lyase deficiency
+S4174,3-hydroxy-3-methylglutaryl-coa synthase 2 deficiency
+S4175,marie unna congenital hypotrichosis
+S4176,oculoauricular syndrome
+S4177,diabetes mellitus, insulin-dependent, 20
+S4178,hepatic adenomas, familial
+S4179,maturity-onset diabetes of the young, type 3
+S4180,prostate cancer, hereditary, 11
+S4181,renal cysts and diabetes syndrome
+S4182,maturity-onset diabetes of the young, type 1
+S4183,hyperoxaluria, primary, type iii
+S4184,athabaskan brainstem dysgenesis
+S4185,radioulnar synostosis with amegakaryocytic thrombocytopenia
+S4186,hand foot uterus syndrome
+S4187,preaxial deficiency, postaxial polydactyly and hypospadias
+S4188,microtia, hearing impairment, and cleft palate
+S4189,lymphatic abnormalities
+S4190,vertical talus, congenital
+S4191,brachydactyly-syndactyly syndrome
+S4192,brachydactyly, type d
+S4193,brachydactyly, type e1
+S4194,syndactyly, type v
+S4195,synpolydactyly 1
+S4196,vater association
+S4197,hawkinsinuria
+S4198,digital clubbing, isolated congenital
+S4199,hypertrophic osteoarthropathy, primary, autosomal recessive, 1
+S4200,osteoarthropathy, primary hypertrophic
+S4201,hyperpigmentation, familial progressive, 2
+S4202,osteoblastoma
+S4203,kelley-seegmiller syndrome
+S4204,lesch-nyhan syndrome
+S4205,urofacial syndrome
+S4206,alopecia universalis
+S4207,atrichia with papular lesions
+S4208,nevus, sebaceous of jadassohn
+S4209,thrombophilia due to histidine-rich glycoprotein deficiency
+S4210,obesity, abdominal
+S4211,hydroxyacyl-coa dehydrogenase, type 2, deficiency
+S4212,mental retardation, x-linked 17
+S4213,mental retardation, x-linked, syndromic 10
+S4214,17-hydroxysteroid dehydrogenase deficiency
+S4215,peroxisomal disorders
+S4216,adrenal hyperplasia 2
+S4217,bile acid synthesis defect, congenital, 1
+S4218,cataract, zonular
+S4219,heat stress disorders
+S4220,knee injuries
+S4221,osteochondritis
+S4222,charcot-marie-tooth disease, type 2f
+S4223,neuronopathy, distal hereditary motor, type iib
+S4224,neuronopathy, distal hereditary motor, type iic
+S4225,charcot-marie-tooth disease, axonal, type 2l
+S4226,neuronopathy, distal hereditary motor, type iia
+S4227,leukodystrophy, hypomyelinating, 4
+S4228,spastic paraplegia 13, autosomal dominant
+S4229,dyssegmental dysplasia
+S4230,macular degeneration, age-related, 7
+S4231,parkinson disease 13, autosomal dominant, susceptibility to
+S4232,mental retardation, x-linked, syndromic, turner type
+S4233,mucopolysaccharidosis type ix
+S4234,hydrolethalus syndrome 1
+S4235,diabetes mellitus, transient neonatal, 1
+S4236,inflammatory bowel disease 25, autosomal recessive
+S4237,idiopathic basal ganglia calcification 1
+S4238,endocrine-cerebroosteodysplasia
+S4239,diabetes mellitus, insulin-dependent, 10
+S4240,diabetes mellitus, insulin-dependent, 2
+S4241,enchondromatosis
+S4242,d-2-hydroxyglutaric aciduria 2
+S4243,mucopolysaccharidosis ii
+S4244,mucopolysaccharidosis i
+S4245,diabetes mellitus, insulin-dependent, 19
+S4246,hemangioendothelioma, epithelioid
+S4247,appendicitis
+S4248,legionnaires&apos; disease
+S4249,ciliary motility disorders
+S4250,cranioectodermal dysplasia
+S4251,asphyxiating thoracic dystrophy 2
+S4252,corpus callosum, agenesis of, with mental retardation, ocular coloboma, and micrognathia
+S4253,insulin-like growth factor i deficiency
+S4254,insulin-like growth factor i, resistance to
+S4255,agammaglobulinemia 1, autosomal recessive
+S4256,spinal muscular atrophy with respiratory distress 1
+S4257,dysgammaglobulinemia
+S4258,hemihyperplasia, isolated
+S4259,acrocapitofemoral dysplasia
+S4260,dysautonomia, familial
+S4261,atypical mycobacteriosis, familial, x-linked 1
+S4262,ectodermal dysplasia, anhidrotic, with immunodeficiency, osteopetrosis, and lymphedema
+S4263,ectodermal dysplasia, hypohidrotic, with immune deficiency
+S4264,immunodeficiency without anhidrotic ectodermal dysplasia
+S4265,incontinentia pigmenti
+S4266,invasive pneumococcal disease, recurrent isolated, 2
+S4267,superinfection
+S4268,inflammatory bowel disease 28, autosomal recessive
+S4269,central serous chorioretinopathy
+S4270,angioid streaks
+S4271,anthracosis
+S4272,kearns-sayre syndrome
+S4273,merrf syndrome
+S4274,gastritis, atrophic
+S4275,mental retardation, x-linked 21
+S4276,microvascular complications of diabetes, susceptibility to, 4
+S4277,osteomyelitis, sterile multifocal, with periostitis and pustulosis
+S4278,inflammatory bowel disease 17
+S4279,interleukin 2 receptor, alpha, deficiency of
+S4280,severe combined immunodeficiency, x-linked
+S4281,x-linked combined immunodeficiency diseases
+S4282,tuberculosis, bovine
+S4283,diaper rash
+S4284,deafness, autosomal recessive 42
+S4285,retinitis pigmentosa 10
+S4286,retinitis pigmentosa 56
+S4287,joubert syndrome 1
+S4288,morm syndrome
+S4289,maturity-onset diabetes of the young, type 10
+S4290,telomeric 22q13 monosomy syndrome
+S4291,diabetes mellitus, insulin-resistant, with acanthosis nigricans
+S4292,donohue syndrome
+S4293,hyperinsulinemic hypoglycemia, familial, 5
+S4294,nephronophthisis 2
+S4295,senior-loken syndrome 5
+S4296,mental retardation, x-linked 1
+S4297,asthma-related traits, susceptibility to, 5
+S4298,invasive pneumococcal disease, recurrent isolated, 1
+S4299,irak4 deficiency
+S4300,inflammatory bowel disease 14
+S4301,orofacial cleft 6, susceptibility to
+S4302,popliteal pterygium syndrome
+S4303,van der woude syndrome
+S4304,myopathy with lactic acidosis, hereditary
+S4305,autoimmune disease, syndromic multisystem
+S4306,thrombasthenia
+S4307,epidermolysis bullosa junctionalis with pyloric atresia
+S4308,muscular dystrophy, congenital, due to integrin alpha-7 deficiency
+S4309,leukocyte-adhesion deficiency syndrome
+S4310,leukocyte adhesion deficiency, type i
+S4311,thrombocytopenia, neonatal alloimmune
+S4312,epidermolysis bullosa simplex
+S4313,lymphoproliferative syndrome, ebv-associated, autosomal, 1
+S4314,dementia, familial british
+S4315,dementia, familial danish
+S4316,spinocerebellar ataxia 15
+S4317,spinocerebellar ataxia 29
+S4318,heterotaxy, visceral, 5, autosomal
+S4319,acidemia, isovaleric
+S4320,thyroid dyshormonogenesis 4
+S4321,alagille syndrome
+S4322,hemorrhagic destruction of the brain, subependymal calcification, and cataracts
+S4323,huntington disease-like 2
+S4324,arrhythmogenic right ventricular dysplasia, familial, 12
+S4325,naxos disease
+S4326,cerebral palsy, spastic quadriplegic, 2
+S4327,charcot-marie-tooth disease, recessive intermediate b
+S4328,nemaline myopathy 6
+S4329,episodic ataxia, type 1
+S4330,atrial fibrillation, familial, 7
+S4331,spinocerebellar ataxia 13
+S4332,jervell-lange nielsen syndrome
+S4333,long qt syndrome 5
+S4334,atrial fibrillation, familial, 3
+S4335,atrial fibrillation, familial, 4
+S4336,long qt syndrome 6
+S4337,brugada syndrome 6
+S4338,paralysis, hyperkalemic periodic
+S4339,long qt syndrome 2
+S4340,short qt syndrome 1
+S4341,bartter syndrome, antenatal , type 2
+S4342,seizures, sensorineural deafness, ataxia, mental retardation, and electrolyte imbalance
+S4343,diabetes mellitus, transient neonatal, 3
+S4344,hyperinsulinemic hypoglycemia, familial, 2
+S4345,snowflake vitreoretinal degeneration
+S4346,andersen syndrome
+S4347,short qt syndrome 3
+S4348,long qt syndrome 13
+S4349,birk-barel mental retardation dysmorphism syndrome
+S4350,generalized epilepsy and paroxysmal dyskinesia
+S4351,hypertension, diastolic, resistance to
+S4352,romano-ward syndrome
+S4353,short qt syndrome 2
+S4354,epileptic encephalopathy, early infantile, 7
+S4355,seizures, benign familial neonatal, 1
+S4356,seizures, benign familial neonatal, 2
+S4357,retinal cone dystrophy 3b
+S4358,epilepsy, progressive myoclonic 3, with or without intracellular inclusions
+S4359,mental retardation, x-linked, syndromic, jarid1c-related
+S4360,cornea plana 2
+S4361,fructosuria
+S4362,spastic paraplegia 8, autosomal dominant
+S4363,goldberg-shprintzen megacolon syndrome
+S4364,charcot-marie-tooth disease, axonal, type 2a1
+S4365,fibrosis of extraocular muscles, congenital, 1
+S4366,spastic paraplegia 10, autosomal dominant
+S4367,hydrolethalus syndrome
+S4368,mental retardation, autosomal dominant 4
+S4369,precocious puberty, central
+S4370,piebaldism
+S4371,testicular germ cell tumor
+S4372,maturity-onset diabetes of the young, type 7
+S4373,retinitis pigmentosa 42
+S4374,amelogenesis imperfecta pigmented hypomaturation type
+S4375,prekallikrein deficiency
+S4376,flaujeac factor deficiency
+S4377,noonan syndrome 3
+S4378,ichthyosis, cyclic, with epidermolytic hyperkeratosis
+S4379,ichthyosis hystrix, curth macklin type
+S4380,keratoderma, palmoplantar, epidermolytic
+S4381,keratosis palmoplantaris striata 3
+S4382,palmoplantar keratoderma, nonepidermolytic
+S4383,erythroderma, ichthyosiform, congenital reticular
+S4384,corneal dystrophy, juvenile epithelial of meesmann
+S4385,leukokeratosis, hereditary mucosal
+S4386,dermatopathia pigmentosa reticularis
+S4387,epidermolysis bullosa simplex, autosomal recessive
+S4388,naegeli syndrome
+S4389,pachyonychia congenita
+S4390,palmoplantar keratoderma, nonepidermolytic, focal
+S4391,pachyonychia congenita jackson lawler type
+S4392,steatocystoma multiplex
+S4393,cirrhosis, familial
+S4394,ichthyosis bullosa of siemens
+S4395,dowling-degos disease
+S4396,epidermolysis bullosa simplex with migratory circinate erythema
+S4397,epidermolysis bullosa simplex with mottled pigmentation
+S4398,adenoma, oxyphilic
+S4399,woolly hair, autosomal dominant
+S4400,pseudofolliculitis barbae
+S4401,monilethrix
+S4402,ectodermal dysplasia 4, hair/nail type
+S4403,hydroxykynureninuria
+S4404,corpus callosum, partial agenesis of, x-linked
+S4405,hydrocephalus, x-linked
+S4406,masa (mental retardation, aphasia, shuffling gait, adducted thumbs) syndrome
+S4407,l-2-hydroxyglutaric aciduria
+S4408,muscular dystrophy congenital, merosin negative
+S4409,epidermolysis bullosa, junctional
+S4410,laryngo onycho cutaneous syndrome
+S4411,mesangial sclerosis, diffuse
+S4412,pierson syndrome
+S4413,pelvic organ prolapse
+S4414,glycogen storage disease type iib
+S4415,immunodeficiency due to defect in mapbp-interacting protein
+S4416,laryngeal adductor paralysis
+S4417,muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 6
+S4418,muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 6
+S4419,hydrops-ectopic calcification-moth-eaten skeletal dysplasia
+S4420,pelger-huet anomaly
+S4421,reynolds syndrome
+S4422,amaurosis congenita of leber, type 5
+S4423,lecithin acyltransferase deficiency
+S4424,blue cone monochromatism
+S4425,lactase deficiency, congenital
+S4426,lactose intolerance, adult type
+S4427,myopathy, myofibrillar, 4
+S4428,lactate dehydrogenase deficiency type a
+S4429,splenic rupture
+S4430,hypercholesterolemia, autosomal recessive
+S4431,buschke-ollendorff syndrome
+S4432,melorheostosis
+S4433,overweight
+S4434,osteogenesis imperfecta, type viii
+S4435,wolf-hirschhorn syndrome
+S4436,spondylocostal dysostosis 3, autosomal recessive
+S4437,epilepsy, familial temporal lobe, 1
+S4438,familial testotoxicosis
+S4439,leydig cell hypoplasia, type i
+S4440,deafness, autosomal recessive 67
+S4441,pituitary hormone deficiency, combined, 2
+S4442,winkelman bethge pfeiffer syndrome
+S4443,pituitary hormone deficiency, combined, 4
+S4444,stuve-wiedemann syndrome
+S4445,lig4 syndrome
+S4446,lysosomal acid lipase deficiency
+S4447,high density lipoprotein cholesterol level quantitative trait locus 12
+S4448,charcot-marie-tooth disease, type 1c
+S4449,factor v and factor viii, combined deficiency of, 1
+S4450,acheiropodia
+S4451,polydactyly, preaxial ii
+S4452,syndactyly, type iv
+S4453,methylmalonic aciduria and homocystinuria, cblf type
+S4454,lipase deficiency combined
+S4455,charcot-marie-tooth disease, type 2b1
+S4456,heart-hand syndrome, slovenian type
+S4457,hutchinson gilford progeria syndrome
+S4458,limb-girdle muscular dystrophy, type 1b
+S4459,lipodystrophy, familial partial, type 2
+S4460,mandibuloacral dysplasia with type a lipodystrophy
+S4461,muscular dystrophy, congenital, lmna-related
+S4462,progeria
+S4463,tight skin contracture syndrome, lethal
+S4464,pelizaeus-merzbacher disease
+S4465,lipodystrophy, partial, acquired, susceptibility to
+S4466,nail-patella syndrome
+S4467,vohwinkel syndrome, variant form
+S4468,myoglobinuria, acute recurrent, autosomal recessive
+S4469,majeed syndrome
+S4470,leber congenital amaurosis 14
+S4471,donnai-barrow syndrome
+S4472,syndactyly cenani lenz type
+S4473,exudative vitreoretinopathy 4
+S4474,hyperostosis corticalis generalisata, benign form of worth, with torus palatinus
+S4475,osteopetrosis autosomal dominant type 1
+S4476,van buchem disease type 2
+S4477,vitreoretinopathy, proliferative
+S4478,coronary artery disease, autosomal dominant 2
+S4479,leigh syndrome , french canadian type
+S4480,parkinson disease 8, autosomal dominant
+S4481,deafness, autosomal recessive 63
+S4482,glaucoma 3, primary congenital, d
+S4483,tooth agenesis, selective, 6
+S4484,cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities
+S4485,chediak-higashi syndrome
+S4486,cataract, pulverulent, juvenile-onset
+S4487,major affective disorder 1
+S4488,mental retardation, x-linked 95
+S4489,hypospadias 2, x-linked
+S4490,alpha-mannosidosis
+S4491,beta-mannosidosis
+S4492,brunner syndrome
+S4493,progressive supranuclear palsy atypical
+S4494,deafness, autosomal recessive 49
+S4495,masp2 deficiency
+S4496,methionine adenosyltransferase deficiency
+S4497,epiphyseal dysplasia, multiple, 5
+S4498,spondyloepimetaphyseal dysplasia, matrilin-3 related
+S4499,mental retardation, autosomal dominant 1
+S4500,ichthyosis follicularis atrichia photophobia syndrome
+S4501,melanoma, cutaneous malignant, susceptibility to, 5
+S4502,oculocutaneous albinism type 2
+S4503,protein-losing enteropathies
+S4504,glucocorticoid deficiency 1
+S4505,body mass index quantitative trait locus 9
+S4506,3-methylcrotonyl coa carboxylase 1 deficiency
+S4507,3-methylcrotonyl coa carboxylase 2 deficiency
+S4508,methylmalonyl-coa epimerase deficiency
+S4509,factor v and factor viii, combined deficiency of, 2
+S4510,medullary cystic kidney disease 1
+S4511,mucolipidoses
+S4512,mucolipidosis iv
+S4513,microcephaly 1, primary, autosomal recessive
+S4514,autism, susceptibility to, x-linked 3
+S4515,encephalopathy, neonatal severe, due to mecp2 mutations
+S4516,lubs x-linked mental retardation syndrome
+S4517,mental retardation, x-linked, syndromic 13
+S4518,lujan fryns syndrome
+S4519,transposition of the great arteries, dextro-looped 1
+S4520,microcephaly, postnatal progressive, with seizures and brain atrophy
+S4521,charcot-marie-tooth disease, type 2b2
+S4522,coronary artery disease, autosomal dominant, 1
+S4523,mental retardation, autosomal dominant 20
+S4524,familial mediterranean fever, autosomal dominant
+S4525,gastrinoma
+S4526,glucagonoma
+S4527,multiple endocrine neoplasia type 1
+S4528,spondylocostal dysostosis 2, autosomal recessive
+S4529,charcot-marie-tooth disease, axonal, type 2a2
+S4530,hereditary motor and sensory neuropathy vi
+S4531,microphthalmia, isolated 5
+S4532,nanophthalmos 2
+S4533,ceroid lipofuscinosis, neuronal, 7
+S4534,congenital disorder of glycosylation type 2a
+S4535,keutel syndrome
+S4536,opitz gbbb syndrome, x-linked
+S4537,laurin-sandrow syndrome
+S4538,deafness, autosomal dominant 50
+S4539,albinism ocular late onset sensorineural deafness
+S4540,albinism, oculocutaneous
+S4541,tietz syndrome
+S4542,waardenburg syndrome type 2
+S4543,waardenburg syndrome type 2a
+S4544,mckusick kaufman syndrome
+S4545,meckel syndrome type 1
+S4546,megalencephalic leukoencephalopathy with subcortical cysts
+S4547,cafe au lait spots, multiple
+S4548,lynch syndrome ii
+S4549,muir-torre syndrome
+S4550,kabuki syndrome
+S4551,griscelli syndrome type 3
+S4552,methylmalonic aciduria cbla type
+S4553,methylmalonic aciduria cblb type
+S4554,methylmalonic acidemia with homocystinuria
+S4555,methylmalonic aciduria and homocystinuria, cbld type
+S4556,cryopyrin-associated periodic syndromes
+S4557,spondyloepimetaphyseal dysplasia, missouri type
+S4558,torg-winchester syndrome
+S4559,amelogenesis imperfecta, hypomaturation type, iia2
+S4560,histiocytoma, benign fibrous
+S4561,actinobacillus infections
+S4562,fusobacterium infections
+S4563,metaphyseal anadysplasia 2
+S4564,meningioma, familial
+S4565,classical lissencephalies and subcortical band heterotopias
+S4566,currarino triad
+S4567,congenital disorder of glycosylation, type iib
+S4568,congenital disorder of glycosylation type 1f
+S4569,congenital disorder of glycosylation type 1b
+S4570,congenital amegakaryocytic thrombocytopenia
+S4571,amish brittle hair brain syndrome
+S4572,myeloperoxidase deficiency
+S4573,mitochondrial dna depletion syndrome 6 (hepatocerebral type)
+S4574,charcot-marie-tooth disease, dominant intermediate d
+S4575,charcot-marie-tooth disease, type 2i
+S4576,charcot-marie-tooth disease, type 2j
+S4577,roussy-levy hereditary areflexic dystasia
+S4578,ataxia-telangiectasia-like disorder
+S4579,combined oxidative phosphorylation deficiency 2
+S4580,combined oxidative phosphorylation deficiency 5
+S4581,mental retardation, autosomal recessive 4
+S4582,mental retardation, x-linked 72
+S4583,neurofibromatosis 1
+S4584,prostate cancer, hereditary, 13
+S4585,deafness, autosomal recessive 74
+S4586,keratoacanthoma familial
+S4587,myostatin-related muscle hypertrophy
+S4588,orofacial cleft 5
+S4589,tooth agenesis, selective, 1
+S4590,witkop syndrome
+S4591,craniosynostosis, type 2
+S4592,parietal foramina with cleidocranial dysplasia
+S4593,eye burns
+S4594,nevus
+S4595,blood coagulation disorders, inherited
+S4596,homocystinuria due to deficiency of n(5,10)-methylenetetrahydrofolate reductase activity
+S4597,orofacial cleft 1
+S4598,myopathy, centronuclear, x-linked
+S4599,charcot-marie-tooth disease, type 4b1
+S4600,spastic ataxia 4, autosomal recessive
+S4601,methylcobalamin deficiency, cblg type
+S4602,homocystinuria-megaloblastic anemia due to defect in cobalamin metabolism, cble complementation type
+S4603,abetalipoproteinemia
+S4604,methylmalonic aciduria due to methylmalonyl-coa mutase deficiency
+S4605,colorectal adenomatous polyposis, autosomal recessive
+S4606,mevalonate kinase deficiency
+S4607,porokeratosis, disseminated superficial actinic 1
+S4608,influenza in birds
+S4609,cardiomyopathy, familial hypertrophic, 4
+S4610,cardiomyopathy, hypertrophic, familial
+S4611,oculodigitoesophagoduodenal syndrome
+S4612,myd88 deficiency
+S4613,aortic aneurysm, familial thoracic 4
+S4614,deafness, autosomal dominant 4a
+S4615,inclusion body myopathy, autosomal dominant
+S4616,distal arthrogryposis type 2b
+S4617,freeman-sheldon syndrome
+S4618,cardiomyopathy, dilated, 1ee
+S4619,cardiomyopathy, familial hypertrophic, 14
+S4620,cardiomyopathy, dilated, 1s
+S4621,myopathy, myosin storage
+S4622,scapuloperoneal myopathy, myh7-related
+S4623,carney complex variant
+S4624,hecht syndrome
+S4625,deafness, autosomal dominant 17
+S4626,epstein syndrome
+S4627,fechtner syndrome
+S4628,macrothrombocytopenia progressive deafness
+S4629,may-hegglin anomaly
+S4630,sebastian syndrome
+S4631,cardiomyopathy, familial hypertrophic, 10
+S4632,cardiomyopathy, familial hypertrophic, 8
+S4633,deafness, autosomal recessive 3
+S4634,deafness, autosomal dominant 48
+S4635,deafness, autosomal recessive 30
+S4636,griscelli syndrome type 1
+S4637,microvillus inclusion disease
+S4638,deafness, autosomal dominant 22;dfna22 deafness, autosomal dominant 22, with hypertrophic cardiomyopathy,
+S4639,deafness, autosomal recessive 37
+S4640,deafness, autosomal dominant 11
+S4641,deafness, autosomal recessive 2
+S4642,usher syndromes
+S4643,usher syndrome, type 1b
+S4644,muscular dystrophy, limb-girdle, type 1a
+S4645,myopathy, myofibrillar, 3
+S4646,spheroid body myopathy
+S4647,solitary fibrous tumors
+S4648,kanzaki disease
+S4649,schindler disease, type 1
+S4650,n-acetyl glutamate synthetase deficiency
+S4651,gray platelet syndrome
+S4652,nijmegen breakage syndrome
+S4653,granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type i
+S4654,granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type ii
+S4655,hidradenitis suppurativa, familial
+S4656,optic atrophies, hereditary
+S4657,exudative vitreoretinopathy 2, x-linked
+S4658,norrie disease
+S4659,neuropathy, hereditary motor and sensory, lom type
+S4660,nemaline myopathy 2
+S4661,charcot-marie-tooth disease, type 1f
+S4662,charcot-marie-tooth disease, type 2e
+S4663,never in mitosis gene a-related kinase 1
+S4664,neuraminidase 1 deficiency
+S4665,maturity-onset diabetes of the young, type 6
+S4666,diarrhea 4, malabsorptive, congenital
+S4667,cardiomyopathy, dilated, 1cc
+S4668,neurofibromatoses
+S4669,neurofibromatosis, familial spinal
+S4670,neurofibromatosis-noonan syndrome
+S4671,watson syndrome
+S4672,neurofibromatosis 2
+S4673,schwannomatosis
+S4674,ectodermal dysplasia, anhidrotic, with t-cell immunodeficiency, autosomal dominant
+S4675,neuropathy, hereditary sensory and autonomic, type v
+S4676,severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation
+S4677,dyskeratosis congenita, autosomal recessive
+S4678,nance-horan syndrome
+S4679,spastic paraplegia 6, autosomal dominant
+S4680,ichthyosis, congenital, autosomal recessive 6
+S4681,de lange syndrome
+S4682,choreoathetosis, hypothyroidism, and neonatal respiratory distress
+S4683,atrial septal defect 7 with or without atrioventricular conduction defects
+S4684,hypothyroidism, congenital, nongoitrous, 5
+S4685,spondylo-megaepiphyseal-metaphyseal dysplasia
+S4686,asperger syndrome, x-linked, susceptibility to, 1
+S4687,autism, susceptibility to, x-linked 1
+S4688,asperger syndrome, x-linked, susceptibility to, 2
+S4689,autism, susceptibility to, x-linked 2
+S4690,vitiligo-associated multiple autoimmune disease susceptibility 1
+S4691,familial cold autoinflammatory syndrome 2
+S4692,familial cold autoinflammatory syndrome 1
+S4693,muckle-wells syndrome
+S4694,hydatidiform mole
+S4695,ciliary dyskinesia, primary, 6
+S4696,hereditary macular coloboma
+S4697,premature ovarian failure 5
+S4698,sarcoidosis, early-onset
+S4699,synovitis granulomatous with uveitis and cranial neuropathies
+S4700,brachydactyly, type b2
+S4701,multiple synostoses syndrome 1
+S4702,stapes ankylosis with broad thumb and toes
+S4703,tarsal carpal coalition syndrome
+S4704,pyloric stenosis, infantile hypertrophic, 1
+S4705,hajdu-cheney syndrome
+S4706,cadasil
+S4707,niemann-pick disease, type c2
+S4708,joubert syndrome 4
+S4709,nephronophthisis, familial juvenile
+S4710,senior-loken syndrome 1
+S4711,nephronophthisis 3
+S4712,renal-hepatic-pancreatic dysplasia
+S4713,renal hepatic pancreatic dysplasia dandy walker cyst
+S4714,nephronophthisis 4
+S4715,senior-loken syndrome 4
+S4716,nephrotic syndrome, idiopathic, steroid-resistant
+S4717,atrial fibrillation, familial, 6
+S4718,acromesomelic dysplasia, maroteaux type
+S4719,asthma-related traits, susceptibility to, 2
+S4720,dosage-sensitive sex reversal
+S4721,enhanced s-cone syndrome
+S4722,retinitis pigmentosa 37
+S4723,46, xx disorders of sex development
+S4724,acanthosis nigricans
+S4725,hypertension, early-onset, autosomal dominant, with severe exacerbation in pregnancy
+S4726,chondrosarcoma, extraskeletal myxoid
+S4727,46,xy sex reversal 3
+S4728,gonadal dysgenesis, 46,xx
+S4729,gonadal dysgenesis, 46,xy
+S4730,premature ovarian failure 7
+S4731,neurofibrosarcoma
+S4732,noonan syndrome 6
+S4733,sotos syndrome
+S4734,weaver syndrome
+S4735,ck syndrome
+S4736,congenital hemidysplasia with ichthyosiform erythroderma and limb defects
+S4737,uridine 5-prime monophosphate hydrolase deficiency, hemolytic anemia due to
+S4738,calcification of joints and arteries
+S4739,glaucoma 1, open angle, o
+S4740,familial medullary thyroid carcinoma
+S4741,striatonigral degeneration infantile
+S4742,night blindness, congenital stationary, type 1a
+S4743,ornithine aminotransferase deficiency
+S4744,three m syndrome 2
+S4745,band-like calcification with simplified gyration and polymicrogyria
+S4746,dent disease 2
+S4747,oculocerebrorenal syndrome
+S4748,joubert syndrome 10
+S4749,orofaciodigital syndrome type1
+S4750,simpson-golabi-behmel syndrome, type 2
+S4751,alpha-ketoglutarate dehydrogenase deficiency
+S4752,glaucoma, normal tension, susceptibility to
+S4753,optic atrophy 1 and deafness
+S4754,costeff optic atrophy syndrome
+S4755,optic atrophy and cataract, autosomal dominant
+S4756,mental retardation, x-linked, with cerebellar hypoplasia and distinctive facial appearance
+S4757,colorblindness, partial, deutan series
+S4758,tritanopia
+S4759,hip contracture
+S4760,lordosis
+S4761,osteoarthritis, spine
+S4762,shoulder dislocation
+S4763,amyotrophic lateral sclerosis 12
+S4764,immune dysfunction with t-cell inactivation due to calcium entry defect 1
+S4765,amyloidosis ix
+S4766,osteopetrosis, autosomal recessive 1
+S4767,osteopetrosis, autosomal recessive 5
+S4768,ornithine transcarbamylase deficiency, hyperammonemia due to
+S4769,deafness, autosomal recessive 22
+S4770,deafness, autosomal recessive 9
+S4771,microphthalmia, syndromic 5
+S4772,succinyl-coa:3-oxoacid coa transferase deficiency
+S4773,bleeding disorder, platelet-type, 8
+S4774,muscular dystrophy, oculopharyngeal
+S4775,lissencephaly
+S4776,phenylketonurias
+S4777,mental retardation, x-linked 30
+S4778,fanconi anemia, complementation group n
+S4779,hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration
+S4780,pantothenate kinase-associated neurodegeneration
+S4781,spondyloepimetaphyseal dysplasia, pakistani type
+S4782,parkinson disease 4, autosomal dominant lewy body
+S4783,parkinson disease 7, autosomal recessive early-onset
+S4784,papillorenal syndrome
+S4785,craniofacial deafness hand syndrome
+S4786,waardenburg syndrome
+S4787,maturity-onset diabetes of the young, type 9
+S4788,aniridia
+S4789,aniridia cerebellar ataxia mental deficiency
+S4790,aniridia, type 2
+S4791,coloboma of optic nerve
+S4792,ectopia pupillae
+S4793,foveal hypoplasia and presenile cataract syndrome
+S4794,keratitis, hereditary
+S4795,optic nerve hypoplasia, bilateral
+S4796,hypothyroidism, congenital, nongoitrous, 2
+S4797,tooth agenesis, selective, 3
+S4798,pyruvate carboxylase deficiency disease
+S4799,hyperphenylalaninemia, bh4-deficient, d
+S4800,propionic acidemia
+S4801,deafness, autosomal recessive 23
+S4802,usher syndrome, type 1f
+S4803,epileptic encephalopathy, early infantile, 9
+S4804,phosphoenolpyruvate carboxykinase deficiency
+S4805,phosphoenolpyruvate carboxykinase 2 deficiency
+S4806,microcephalic osteodysplastic primordial dwarfism, type ii
+S4807,seckel syndrome 2
+S4808,body mass index quantitative trait locus 12
+S4809,proprotein convertase 1/3 deficiency
+S4810,tracheoesophageal fistula
+S4811,hypercholesterolemia, autosomal dominant, 3
+S4812,cerebral cavernous malformations 3
+S4813,pigmented nodular adrenocortical disease, primary, 2
+S4814,night blindness, congenital stationary
+S4815,night blindness, congenital stationary, autosomal dominant 2
+S4816,cone dystrophy 4
+S4817,retinitis pigmentosa 57
+S4818,retinal cone dystrophy 3a
+S4819,striatal degeneration, autosomal dominant
+S4820,hypereosinophilic syndrome, idiopathic
+S4821,leigh syndrome, x-linked
+S4822,pyruvate dehydrogenase complex deficiency disease
+S4823,pyruvate metabolism, inborn errors
+S4824,pyruvate dehydrogenase e3-binding protein deficiency
+S4825,pyruvate dehydrogenase phosphatase deficiency
+S4826,maturity-onset diabetes of the young, type 4
+S4827,pancreatic agenesis, congenital
+S4828,spinocerebellar ataxia 23
+S4829,prolidase deficiency
+S4830,advanced sleep-phase syndrome, familial
+S4831,peroxisome biogenesis disorder 2b
+S4832,peroxisome biogenesis disorders
+S4833,refsum disease, infantile
+S4834,chondrodysplasia punctata, rhizomelic
+S4835,rhizomelic chondrodysplasia punctata, type 1
+S4836,glycogen storage disease type vii
+S4837,dimauro disease
+S4838,phosphoglycerate kinase 1 deficiency
+S4839,glycogen storage disease xiv
+S4840,borjeson-forssman-lehmann syndrome
+S4841,siderius x-linked mental retardation syndrome
+S4842,phosphoglycerate dehydrogenase deficiency
+S4843,glycogen storage disease, type ixd
+S4844,glycogen storage disease ixa1
+S4845,glycogen storage disease ixb
+S4846,glycogen storage disease ixc
+S4847,fibrosis of extraocular muscles, congenital, 2
+S4848,hyperphosphatasia with mental retardation syndrome 1
+S4849,corneal dystrophy, fleck
+S4850,parkinson disease 6, autosomal recessive early-onset
+S4851,lethal congenital contractural syndrome 3
+S4852,iridogoniodysgenesis, type 2
+S4853,ring dermoid of cornea
+S4854,cataract, posterior polar, 4
+S4855,polycystic kidney disease, type 2
+S4856,adenosine triphosphate, elevated, of erythrocytes
+S4857,pyruvate kinase deficiency of red cells
+S4858,ectodermal dysplasia/ skin fragility syndrome
+S4859,arrhythmogenic right ventricular dysplasia, familial, 9
+S4860,neurodegeneration with brain iron accumulation 2a
+S4861,neurodegeneration with brain iron accumulation 2b
+S4862,parkinson disease 14, autosomal recessive
+S4863,salivary gland adenoma, pleomorphic
+S4864,thrombophilia, familial, due to decreased release of tissue plasminogen activator;thph9 hyperfibrinolysis, familial, due to increased release of tissue plasminogen
+S4865,epileptic encephalopathy, early infantile, 12
+S4866,nephrotic syndrome, type 3
+S4867,epidermolysa bullosa simplex and limb girdle muscular dystrophy
+S4868,epidermolysis bullosa simplex, ogna type
+S4869,epidermolysis bullosa simplex with pyloric atresia
+S4870,muscular dystrophy, limb-girdle, type 2q
+S4871,spinal muscular atrophy, distal, autosomal recessive, 4
+S4872,osteopetrosis, autosomal recessive 6
+S4873,pulmonary function
+S4874,plasminogen deficiency, type i
+S4875,cardiomyopathy, dilated, 1p
+S4876,ehlers-danlos syndrome type 6
+S4877,nevo syndrome
+S4878,bruck syndrome 2
+S4879,bone fragility with contractures, arterial rupture, and deafness
+S4880,spastic paraplegia 2, x-linked
+S4881,congenital disorder of glycosylation type 1a
+S4882,charcot-marie-tooth disease, demyelinating, type 1e
+S4883,neuropathy, hereditary, with liability to pressure palsies
+S4884,dna repair-deficiency disorders
+S4885,epileptic encephalopathy, early infantile, 10
+S4886,purine nucleoside phosphorylase deficiency
+S4887,neutral lipid storage disease with myopathy
+S4888,spastic paraplegia 39, autosomal recessive
+S4889,pyridoxamine 5-prime-phosphate oxidase deficiency
+S4890,premature ovarian failure 2b
+S4891,diffuse cerebral sclerosis of schilder
+S4892,mitochondrial dna depletion syndrome 1 (mngie type)
+S4893,mitochondrial dna depletion syndrome 4a (alpers type)
+S4894,mitochondrial dna depletion syndrome 4b (mngie type)
+S4895,progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 1
+S4896,progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal recessive
+S4897,progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 4
+S4898,xeroderma pigmentosum, variant type
+S4899,mandibulofacial dysostosis
+S4900,mandibulofacial dysostosis, treacher collins type, autosomal recessive
+S4901,treacher collins syndrome 2
+S4902,acth syndrome, ectopic
+S4903,aortic stenosis, subvalvular
+S4904,proopiomelanocortin deficiency
+S4905,rhabdomyoma
+S4906,muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 3
+S4907,muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 3
+S4908,keratosis linearis with ichthyosis congenita and sclerosing keratoderma
+S4909,muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 1
+S4910,muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 1
+S4911,muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 2
+S4912,muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 2
+S4913,muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 2
+S4914,microvascular complications of diabetes, susceptibility to, 5
+S4915,adrenal hyperplasia, congenital, due to cytochrome p450 oxidoreductase deficiency
+S4916,antley-bixler syndrome with genital anomalies and disordered steroidogenesis
+S4917,disordered steroidogenesis due to cytochrome p450 oxidoreductase deficiency
+S4918,focal dermal hypoplasia
+S4919,chromosome disorders
+S4920,dwarfism, pituitary
+S4921,pituitary hormone deficiency, combined, 1
+S4922,progressive hearing loss stapes fixation
+S4923,deafness, autosomal dominant 15
+S4924,gestational trophoblastic disease
+S4925,carotid intimal medial thickness 1
+S4926,lipodystrophy, familial partial, type 3
+S4927,juvenile osteoporosis
+S4928,osteogenesis imperfecta, type ix
+S4929,spinocerebellar ataxia 12
+S4930,ceroid lipofuscinosis, neuronal, 1
+S4931,renpenning syndrome 1
+S4932,pierre robin syndrome
+S4933,hemophagocytic lymphohistiocytosis, familial, 2
+S4934,jacobs syndrome
+S4935,epilepsy, progressive myoclonic, 1b
+S4936,cardiomyopathy, familial hypertrophic, 6
+S4937,glycogen storage disease of heart, lethal congenital
+S4938,carbohydrate metabolism, inborn errors
+S4939,atrial myxoma, familial
+S4940,pigmented nodular adrenocortical disease, primary, 1
+S4941,spinocerebellar ataxia 14
+S4942,gerstmann-straussler-scheinker disease
+S4943,huntington disease-like 1
+S4944,insomnia, fatal familial
+S4945,spongiform encephalopathy with neuropsychiatric features
+S4946,congenital thrombotic disease, due to protein c deficiency
+S4947,thrombophilia due to protein c deficiency, autosomal recessive
+S4948,hyperprolinemia
+S4949,cone-rod dystrophy 12
+S4950,macular dystrophy, retinal, 2
+S4951,retinitis pigmentosa 41
+S4952,stargardt disease 4
+S4953,thrombophilia due to protein s deficiency, autosomal dominant
+S4954,retinitis pigmentosa 18
+S4955,retinitis pigmentosa 11
+S4956,retinitis pigmentosa 13
+S4957,choroidal dystrophy, central areolar 2
+S4958,fundus albipunctatus
+S4959,patterned dystrophy of retinal pigment epithelium
+S4960,retinitis pigmentosa 7
+S4961,arts syndrome
+S4962,deafness, x-linked 1
+S4963,optic atrophy polyneuropathy deafness
+S4964,phosphoribosylpyrophosphate synthetase superactivity
+S4965,retrognathia
+S4966,mental retardation, autosomal recessive 1
+S4967,combined saposin deficiency
+S4968,gaucher disease, atypical, due to saposin c deficiency
+S4969,krabbe disease, atypical, due to saposin a deficiency
+S4970,metachromatic leukodystrophy due to saposin b deficiency
+S4971,phosphoserine aminotransferase deficiency
+S4972,linitis plastica
+S4973,alzheimer disease, familial, 3, with spastic paraparesis and apraxia
+S4974,cardiomyopathy, dilated, 1u
+S4975,alzheimer disease type 4
+S4976,cardiomyopathy, dilated, 1v
+S4977,pyogenic arthritis, pyoderma gangrenosum, and acne
+S4978,holoprosencephaly 7
+S4979,duodenal diseases
+S4980,leopard syndrome
+S4981,macrocephaly autism syndrome
+S4982,proteus syndrome
+S4983,vacterl hydrocephaly
+S4984,diabetes mellitus, permanent neonatal, with cerebellar agenesis
+S4985,asthma-related traits, susceptibility to, 1
+S4986,asthma, nasal polyps, and aspirin intolerance
+S4987,chondrodysplasia, blomstrand type
+S4988,eiken skeletal dysplasia
+S4989,failure of tooth eruption, primary
+S4990,jansen type metaphyseal chondrodysplasia
+S4991,brachydactyly, type e2
+S4992,potocki-lupski syndrome
+S4993,leopard syndrome, 1
+S4994,metachondromatosis
+S4995,osteochondroma
+S4996,choanal atresia and lymphedema
+S4997,deafness, autosomal recessive 84a
+S4998,lipodystrophy, congenital generalized, type 4
+S4999,6-pyruvoyl-tetrahydropterin synthase deficiency
+S5000,myopathy with lactic acidosis and sideroblastic anemia
+S5001,poliomyelitis
+S5002,rosselli-gulienetti syndrome
+S5003,zlotogora-ogur syndrome
+S5004,ectodermal dysplasia-syndactyly syndrome 1
+S5005,cutis laxa, autosomal recessive, type iib
+S5006,glycogen storage disease type vi
+S5007,hyperphenylalaninemia, bh4-deficient, c
+S5008,acrocephalopolysyndactyly type ii
+S5009,griscelli syndrome type 2
+S5010,warburg sjo fledelius syndrome
+S5011,martsolf syndrome
+S5012,charcot-marie-tooth disease, type 2b
+S5013,neutrophil immunodeficiency syndrome
+S5014,nijmegen breakage syndrome-like disorder
+S5015,breast-ovarian cancer, familial, susceptibility to, 3
+S5016,fanconi anemia, complementation group o
+S5017,leopard syndrome, 2
+S5018,noonan syndrome 5
+S5019,alpha/beta t-cell lymphopenia with gamma/delta t-cell expansion, severe cytomegalovirus infection, and autoimmunity
+S5020,combined cellular and humoral immune defects with granulomas
+S5021,severe combined immunodeficiency, autosomal recessive, t cell-negative, b cell-negative, nk cell-positive
+S5022,encephalopathy, acute, infection-induced, susceptibility to, 3
+S5023,pontocerebellar hypoplasia type 6
+S5024,capillary malformation-arteriovenous malformation
+S5025,port-wine stain
+S5026,microphthalmia, isolated 3
+S5027,cone-rod dystrophy 11
+S5028,tarp syndrome
+S5029,cardiomyopathy, dilated, 1dd
+S5030,alopecia, neurologic defects, and endocrinopathy syndrome
+S5031,absent radii and thrombocytopenia
+S5032,keratomalacia
+S5033,leber congenital amaurosis 12
+S5034,leber congenital amaurosis 13
+S5035,leber congenital amaurosis 3
+S5036,retinal dystrophies
+S5037,deafness, autosomal recessive 24
+S5038,craniosynostosis radial aplasia syndrome
+S5039,rapadilino syndrome
+S5040,rothmund-thomson syndrome
+S5041,spastic paraplegia 31, autosomal dominant
+S5042,norman roberts lissencephaly syndrome
+S5043,hyperuricemic nephropathy, familial juvenile, 2
+S5044,otitis externa
+S5045,multiple endocrine neoplasia type 2a
+S5046,multiple endocrine neoplasia type 2b
+S5047,simpson-golabi-behmel syndrome
+S5048,congenital disorder of glycosylation, type in
+S5049,prolonged electroretinal response suppression
+S5050,rh-null, regulator type
+S5051,anemia, hemolytic, congenital
+S5052,night blindness, congenital stationary, autosomal dominant 1
+S5053,retinitis pigmentosa 4
+S5054,cone-rod dystrophy 7
+S5055,macrocephaly, alopecia, cutis laxa, and scoliosis
+S5056,bothnia retinal dystrophy
+S5057,newfoundland rod-cone dystrophy
+S5058,anauxetic dysplasia
+S5059,cartilage-hair hypoplasia
+S5060,metaphyseal dysplasia without hypotrichosis
+S5061,aicardi-goutieres syndrome 4
+S5062,aicardi-goutieres syndrome 3
+S5063,prostate cancer, hereditary, 1
+S5064,leukoencephalopathy, cystic, without megalencephaly
+S5065,riddle syndrome
+S5066,meningitis, viral
+S5067,gaze palsy, familial horizontal, with progressive scoliosis
+S5068,brachydactyly, type b1
+S5069,robinow syndrome, autosomal recessive
+S5070,retinitis pigmentosa 1
+S5071,retinitis pigmentosa 2
+S5072,retinitis pigmentosa 9
+S5073,amaurosis congenita of leber, type 2
+S5074,cone-rod dystrophy, x-linked, 1
+S5075,retinitis pigmentosa 3
+S5076,retinitis pigmentosa, x-linked, and sinorespiratory infections, with or without deafness
+S5077,cone-rod dystrophy 13
+S5078,joubert syndrome 7
+S5079,meckel syndrome, type 5
+S5080,ribose 5-phosphate isomerase deficiency
+S5081,diamond-blackfan anemia 7
+S5082,diamond-blackfan anemia 5
+S5083,diamond-blackfan anemia 6
+S5084,diamond-blackfan anemia 9
+S5085,diamond-blackfan anemia 4
+S5086,anemia, diamond-blackfan, 3
+S5087,diamond-blackfan anemia 10
+S5088,coffin-lowry syndrome
+S5089,diamond-blackfan anemia 8
+S5090,mitochondrial dna depletion syndrome 8a (encephalomyopathic type with renal tubulopathy)
+S5091,progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 5
+S5092,retinoschisis
+S5093,ciliary dyskinesia, primary, 11
+S5094,ciliary dyskinesia, primary, 12
+S5095,palmoplantar hyperkeratosis with squamous cell carcinoma of skin and 46,xx sex reversal
+S5096,anonychia congenita
+S5097,platelet disorder, familial, with associated myeloid malignancy
+S5098,cleidocranial dysplasia
+S5099,stomatognathic system abnormalities
+S5100,malignant hyperthermia susceptibility type 1
+S5101,minicore myopathy with external ophthalmoplegia
+S5102,myopathy, central core
+S5103,arrhythmogenic right ventricular dysplasia, familial, 2
+S5104,spastic ataxia charlevoix-saguenay type
+S5105,ehlers-danlos syndrome
+S5106,townes-brocks syndrome
+S5107,oculootoradial syndrome
+S5108,tumoral calcinosis, normophosphatemic, familial
+S5109,aicardi-goutieres syndrome 5
+S5110,chylomicron retention disease
+S5111,sarcosinemia
+S5112,keratosis follicularis spinulosa decalvans, x-linked
+S5113,cleft palate, isolated, and mental retardation
+S5114,shwachman syndrome
+S5115,charcot-marie-tooth disease, type 4b2
+S5116,lathosterolosis
+S5117,epilepsy, progressive myoclonic 4, with or without renal failure
+S5118,generalized epilepsy with febrile seizures plus, type 2
+S5119,migraine, familial hemiplegic, 3
+S5120,brugada syndrome 5
+S5121,epilepsy, benign neonatal, 3
+S5122,epileptic encephalopathy, early infantile, 11
+S5123,brugada syndrome 7
+S5124,hypokalemic periodic paralysis, type 2
+S5125,paramyotonia congenita of von eulenburg
+S5126,potassium aggravated myotonia
+S5127,long qt syndrome 10
+S5128,cardiomyopathy, dilated, 1e
+S5129,long qt syndrome 3
+S5130,long qt syndrome type 3
+S5131,sick sinus syndrome 1, autosomal recessive
+S5132,indifference to pain, congenital, autosomal recessive
+S5133,paroxysmal extreme pain disorder
+S5134,bronchiectasis with or without elevated sweat chloride 2
+S5135,bronchiectasis with or without elevated sweat chloride 3
+S5136,cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency
+S5137,leukoencephalopathy with dystonia and motor neuropathy
+S5138,mitochondrial complex ii deficiency
+S5139,carney-stratakis syndrome
+S5140,cowden-like syndrome
+S5141,carcinoid tumors, intestinal
+S5142,craniolenticulosutural dysplasia
+S5143,thyroid hormone metabolism, abnormal
+S5144,cone-rod dystrophy 10
+S5145,retinitis pigmentosa 35
+S5146,rigid spine syndrome
+S5147,neuritis with brachial predilection
+S5148,panniculitis, nodular nonsuppurative
+S5149,corticosteroid-binding globulin deficiency
+S5150,deafness, autosomal recessive 91
+S5151,heparin cofactor ii deficiency
+S5152,plasminogen activator inhibitor-1 deficiency
+S5153,anti-plasmin deficiency, congenital
+S5154,complement component 4, partial deficiency of
+S5155,familial encephalopathy with neuroserpin inclusion bodies
+S5156,schinzel-giedion syndrome
+S5157,amyotrophic lateral sclerosis 4, juvenile
+S5158,spinocerebellar ataxia, autosomal recessive 1
+S5159,surfactant metabolism dysfunction, pulmonary, 2
+S5160,limb-girdle muscular dystrophy, type 2d
+S5161,limb-girdle muscular dystrophy, type 2e
+S5162,cardiomyopathy, dilated, 1l
+S5163,limb-girdle muscular dystrophy type 2f
+S5164,limb-girdle muscular dystrophy, type 2c
+S5165,cherubism
+S5166,ter haar syndrome
+S5167,charcot-marie-tooth disease, type 4c
+S5168,mononeuropathy of the median nerve, mild
+S5169,split hand foot deformity 1
+S5170,holoprosencephaly 3
+S5171,microphthalmia, isolated, with coloboma 5
+S5172,single upper central incisor
+S5173,noonan syndrome-like disorder with loose anagen hair
+S5174,langer mesomelic dysplasia
+S5175,leri-weil syndrome
+S5176,short stature, idiopathic, x-linked
+S5177,stocco dos santos syndrome
+S5178,sucrase-isomaltase deficiency, congenital
+S5179,branchiootic syndrome 3
+S5180,deafness, autosomal dominant 23
+S5181,holoprosencephaly 2
+S5182,branchiootorenal syndrome 2
+S5183,microphthalmia, isolated, with cataract 2
+S5184,bile acid malabsorption, primary
+S5185,buruli ulcer
+S5186,anemia, hypochromic microcytic, with iron overload
+S5187,bartter syndrome, antenatal type 1
+S5188,gitelman syndrome
+S5189,corpus callosum agenesis neuronopathy
+S5190,erythrocyte lactate transporter defect
+S5191,hyperinsulinemic hypoglycemia, familial, 7
+S5192,cataract, juvenile, with microcornea and glucosuria
+S5193,allan-herndon-dudley syndrome
+S5194,deafness, autosomal dominant 25
+S5195,thiamine responsive megaloblastic anemia syndrome
+S5196,episodic ataxia, type 6
+S5197,pleuropneumonia
+S5198,hypomyelination, global cerebral
+S5199,adult-onset citrullinemia type 2
+S5200,neonatal-onset citrullinemia type 2
+S5201,hhh syndrome
+S5202,amish lethal microcephaly
+S5203,carnitine-acylcarnitine translocase deficiency
+S5204,epileptic encephalopathy, early infantile, 3
+S5205,mitochondrial phosphate carrier deficiency
+S5206,progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 2
+S5207,achondrogenesis type 1b
+S5208,atelosteogenesis type 2
+S5209,diastrophic dysplasia
+S5210,epiphyseal dysplasia, multiple, 4
+S5211,pendred syndrome
+S5212,ichthyosis prematurity syndrome
+S5213,histiocytosis, sinus
+S5214,histiocytosis with joint contractures and sensorineural deafness
+S5215,de vivo disease
+S5216,glut1 deficiency syndrome 2
+S5217,arterial tortuosity syndrome
+S5218,fanconi-bickel syndrome
+S5219,hypouricemia, renal, 2
+S5220,spastic paraplegia 42, autosomal dominant
+S5221,nephrolithiasis/osteoporosis, hypophosphatemic, 1
+S5222,pulmonary alveolar microlithiasis
+S5223,testicular microlithiasis
+S5224,hypophosphatemic rickets with hypercalciuria, hereditary
+S5225,congenital disorder of glycosylation, type iif
+S5226,congenital disorder of glycosylation, type 2c
+S5227,schneckenbecken dysplasia
+S5228,hyperglycinuria
+S5229,iminoglycinuria
+S5230,glycogen storage disease ib
+S5231,glycogen storage disease ic
+S5232,spondylocheirodysplasia, ehlers-danlos syndrome-like
+S5233,hemochromatosis, type 4
+S5234,oculocutaneous albinism, type iv
+S5235,folate malabsorption, hereditary
+S5236,autosomal dominant distal renal tubular acidosis
+S5237,elliptocytosis, hereditary
+S5238,renal tubular acidosis, distal, with hemolytic anemia
+S5239,spherocytosis, type 4
+S5240,corneal dystrophy and perceptive deafness
+S5241,corneal dystrophy, fuchs endothelial, 4
+S5242,corneal endothelial dystrophy type 2
+S5243,renal tubular acidosis, proximal, with ocular abnormalities and mental retardation
+S5244,brown-vialetto-van laere syndrome
+S5245,glucose/galactose malabsorption
+S5246,thyroid dyshormonogenesis 1
+S5247,body mass index quantitative trait locus 11
+S5248,hartnup disease
+S5249,parkinsonism-dystonia, infantile
+S5250,superior mesenteric artery syndrome
+S5251,lysinuric protein intolerance
+S5252,nephrolithiasis/osteoporosis, hypophosphatemic, 2
+S5253,mental retardation, x-linked, syndromic, christianson type
+S5254,loeys-dietz syndrome
+S5255,growth mental deficiency syndrome of myhre
+S5256,juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome
+S5257,nicolaides baraitser syndrome
+S5258,rhabdoid tumor predisposition syndrome 2
+S5259,schimke immunoosseous dysplasia
+S5260,rhabdoid tumor predisposition syndrome 1
+S5261,cdls, x-linked
+S5262,spinal muscular atrophies of childhood
+S5263,spinal muscular atrophy 4
+S5264,niemann-pick diseases
+S5265,niemann-pick disease, type a
+S5266,niemann-pick disease, type b
+S5267,snyder robinson syndrome
+S5268,waardenburg syndrome, type 2d
+S5269,cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome
+S5270,parkinson disease 1, autosomal dominant
+S5271,retinitis pigmentosa 33
+S5272,long qt syndrome 12
+S5273,microcephaly, microphthalmia, ectrodactyly of lower limbs, and prognathism
+S5274,mental retardation, anterior maxillary protrusion, and strabismus
+S5275,dermatitis, atopic, 4
+S5276,microvascular complications of diabetes, susceptibility to, 6
+S5277,noonan syndrome 4
+S5278,sclerosteosis
+S5279,peripheral demyelinating neuropathy, central dysmyelination, waardenburg syndrome, and hirschsprung disease
+S5280,waardenburg syndrome, type 4c
+S5281,yemenite deaf-blind hypopigmentation syndrome
+S5282,hypotrichosis-lymphedema-telangiectasia syndrome
+S5283,microphthalmia, syndromic 3
+S5284,mental retardation, x-linked, with panhypopituitarism
+S5285,panhypopituitarism x-linked
+S5286,campomelic dysplasia
+S5287,hepatic venoocclusive disease with immunodeficiency
+S5288,spastic paraplegia 4, autosomal dominant
+S5289,spastic paraplegia 11, autosomal recessive
+S5290,spastic paraplegia 20, autosomal recessive
+S5291,mast syndrome
+S5292,spastic paraplegia 7, autosomal recessive
+S5293,tropical calcific pancreatitis
+S5294,netherton syndrome
+S5295,diarrhea 3, secretory sodium, congenital
+S5296,dystonia, dopa-responsive, due to sepiapterin reductase deficiency
+S5297,legius syndrome
+S5298,elliptocytosis 2
+S5299,pyropoikilocytosis, hereditary
+S5300,spherocytosis, type 3
+S5301,epileptic encephalopathy, early infantile, 5
+S5302,neuropathy, hereditary sensory and autonomic, type ia
+S5303,neuropathy, hereditary sensory and autonomic, type ic
+S5304,pseudovaginal perineoscrotal hypospadias
+S5305,congenital disorder of glycosylation, type iq
+S5306,perisylvian syndrome
+S5307,rolandic epilepsy, mental retardation, and speech dyspraxia, x-linked
+S5308,46,xx gonadal dysgenesis, complete, sry-positive
+S5309,46,xy sex reversal 1
+S5310,ichthyosis with hypotrichosis, autosomal recessive
+S5311,amish infantile epilepsy syndrome
+S5312,hyper-ige recurrent infection syndrome, autosomal dominant
+S5313,growth hormone insensitivity with immunodeficiency
+S5314,microcephaly 7, primary, autosomal recessive
+S5315,immune dysfunction with t-cell inactivation due to calcium entry defect 2
+S5316,microphthalmia, syndromic 9
+S5317,polyhydramnios, megalencephaly, and symptomatic epilepsy
+S5318,deafness, autosomal recessive 16
+S5319,hemophagocytic lymphohistiocytosis, familial, 4
+S5320,epileptic encephalopathy, early infantile, 4
+S5321,mitochondrial dna depletion syndrome 2 (myopathic type)
+S5322,mitochondrial dna depletion syndrome 5 (encephalomyopathic with methylmalonic aciduria)
+S5323,mitochondrial dna depletion syndrome 9 (encephalomyopathic type with methylmalonic aciduria)
+S5324,multiple sulfatase deficiency disease
+S5325,orofacial cleft 10
+S5326,diabetes mellitus, insulin-dependent, 5
+S5327,sulfite oxidase deficiency
+S5328,spermatogenic failure 4
+S5329,epilepsy, x-linked, with variable learning disabilities and behavior disorders
+S5330,spinocerebellar ataxia, autosomal recessive 8
+S5331,mental retardation, autosomal dominant 5
+S5332,mental retardation, x-linked 96
+S5333,corneal dystrophy, gelatinous drop-like
+S5334,dystonia 3, torsion, x-linked
+S5335,diabetes mellitus, insulin-dependent, 21
+S5336,transaldolase deficiency
+S5337,myeloproliferative syndrome, transient
+S5338,bare lymphocyte syndrome, type i
+S5339,amyotrophic lateral sclerosis 10
+S5340,thiourea tasting
+S5341,barth syndrome
+S5342,hypoparathyroidism-retardation-dysmorphism syndrome
+S5343,kenny caffey syndrome
+S5344,kenny-caffey syndrome, type 1
+S5345,spinocerebellar ataxia 17
+S5346,cousin syndrome
+S5347,pelviscapular dysplasia
+S5348,atrial septal defect 4
+S5349,cleft palate x-linked
+S5350,ulnar-mammary syndrome
+S5351,ischiopatellar dysplasia
+S5352,holt-oram syndrome
+S5353,ghosal hematodiaphyseal dysplasia
+S5354,cardiomyopathy, dilated, 1n
+S5355,muscular dystrophy, limb-girdle, type 2g
+S5356,transcobalamin ii deficiency
+S5357,spinocerebellar ataxia, autosomal recessive, with axonal neuropathy
+S5358,sveinsson chorioretinal atrophy
+S5359,deafness, autosomal dominant 12
+S5360,deafness, autosomal recessive 21
+S5361,venous malformations, multiple cutaneous and mucosal
+S5362,dyskeratosis congenita, autosomal dominant
+S5363,congenital atransferrinemia
+S5364,char syndrome
+S5365,hemochromatosis, type 3
+S5366,arenaviridae infections
+S5367,thyroid dyshormonogenesis 3
+S5368,camurati-engelmann syndrome
+S5369,arrhythmogenic right ventricular dysplasia, familial, 1
+S5370,corneal dystrophy, epithelial basement membrane
+S5371,corneal dystrophy, lattice type iiia
+S5372,corneal dystrophy of bowman layer, type 1
+S5373,groenouw type i corneal dystrophy
+S5374,lattice corneal dystrophy type 1
+S5375,loeys-dietz syndrome, type 1a
+S5376,loeys-dietz syndrome, type 2a
+S5377,aortic aneurysm, familial thoracic 3
+S5378,hernia, inguinal
+S5379,loeys-dietz syndrome, type 1b
+S5380,holoprosencephaly 4
+S5381,lamellar ichthyosis, type 1
+S5382,peeling skin syndrome
+S5383,peeling skin syndrome, acral type
+S5384,dystonia 6, torsion
+S5385,thyroid hormone resistance, generalized, autosomal dominant
+S5386,thyroid hormone resistance, generalized, autosomal recessive
+S5387,thyroid hormone resistance, selective pituitary
+S5388,jensen syndrome
+S5389,mohr-tranebjaerg syndrome
+S5390,fundus dystrophy, pseudoinflammatory, of sorsby
+S5391,revesz debuse syndrome
+S5392,korsakoff syndrome
+S5393,atrial septal defect 6
+S5394,macular degeneration, age-related, 10
+S5395,deafness, autosomal dominant 36
+S5396,deafness, autosomal recessive 7
+S5397,epidermodysplasia verruciformis
+S5398,optic atrophy 7
+S5399,joubert syndrome 2
+S5400,meckel syndrome type 2
+S5401,arrhythmogenic right ventricular dysplasia, familial, 5
+S5402,joubert syndrome 6
+S5403,meckel syndrome type 3
+S5404,nephronophthisis 11
+S5405,deafness, autosomal recessive 6
+S5406,cardiomyopathy, dilated, 1t
+S5407,enterokinase deficiency
+S5408,deafness, autosomal recessive 8
+S5409,iron-refractory iron deficiency anemia
+S5410,osteopetrosis, autosomal recessive 7
+S5411,polyostotic osteolytic dysplasia, hereditary expansile
+S5412,paget disease, juvenile
+S5413,immunoglobulin a deficiency 2
+S5414,periodic fever, familial, autosomal dominant
+S5415,osteopetrosis, autosomal recessive 2
+S5416,cardiomyopathy, dilated, 1z
+S5417,cardiomyopathy, familial hypertrophic, 13
+S5418,cardiomyopathy, dilated, 1ff
+S5419,cardiomyopathy, dilated, 2a
+S5420,cardiomyopathy, familial hypertrophic, 7
+S5421,cardiomyopathy, familial restrictive, 1
+S5422,nemaline myopathy 5
+S5423,cardiomyopathy, dilated, 1d
+S5424,cardiomyopathy, familial hypertrophic, 2
+S5425,cardiomyopathy, familial restrictive, 3
+S5426,ehlers-danlos syndrome caused by tenascin-x deficiency
+S5427,keratosis palmoplantaris with esophageal cancer
+S5428,retinitis pigmentosa 31
+S5429,dystonia musculorum deformans type 1
+S5430,adrenocortical carcinoma, hereditary
+S5431,papilloma, choroid plexus
+S5432,ectrodactyly-cleft lip/palate syndrome
+S5433,ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3
+S5434,hay-wells syndrome
+S5435,limb-mammary syndrome
+S5436,propping zerres syndrome
+S5437,rapp-hodgkin syndrome
+S5438,split-hand/foot malformation 4
+S5439,cardiomyopathy, dilated, 1y
+S5440,cardiomyopathy, familial hypertrophic, 3
+S5441,arthrogryposis, distal, type 1a
+S5442,nemaline myopathy 4
+S5443,nemaline myopathy 1
+S5444,thiopurine s-methyltransferase deficiency
+S5445,thyroid dyshormonogenesis 2a
+S5446,ceroid lipofuscinosis, neuronal, 2
+S5447,deafness, autosomal recessive 79
+S5448,spondyloepiphyseal dysplasia tarda, x-linked
+S5449,mental retardation, autosomal recessive 13
+S5450,trehalase deficiency
+S5451,polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy
+S5452,chilblain lupus
+S5453,vasculopathy, retinal, with cerebral leukodystrophy
+S5454,coma, post-head injury
+S5455,thyrotropin-releasing hormone deficiency
+S5456,limb-girdle muscular dystrophy type 2h
+S5457,mulibrey nanism
+S5458,deafness, autosomal recessive 28
+S5459,achondrogenesis type 1a
+S5460,deafness, aminoglycoside-induced
+S5461,liver failure, infantile, transient
+S5462,night blindness, congenital stationary, type 1c
+S5463,hypomagnesemia 1, intestinal
+S5464,amyotrophic lateral sclerosis-parkinsonism/dementia complex 1
+S5465,langer-giedion syndrome
+S5466,trichorhinophalangeal syndrome type 2
+S5467,trichorhinophalangeal syndrome, type i
+S5468,trichorhinophalangeal syndrome, type iii
+S5469,brachyolmia type 3
+S5470,hereditary motor and sensory neuropathy, type iic
+S5471,metatropic dwarfism
+S5472,parastremmatic dwarfism
+S5473,scapuloperoneal spinal muscular atrophy
+S5474,sodium serum level quantitative trait locus 1
+S5475,spondyloepiphyseal dysplasia, maroteaux type
+S5476,focal cortical dysplasia of taylor
+S5477,pontocerebellar hypoplasia, type 2b
+S5478,pontocerebellar hypoplasia, type 2c
+S5479,pontocerebellar hypoplasia, type 2a
+S5480,pontocerebellar hypoplasia, type 4
+S5481,combined oxidative phosphorylation deficiency 3
+S5482,hypothyroidism, congenital, nongoitrous, 4
+S5483,hyperthyroidism, familial gestational
+S5484,hyperthyroidism, nonautoimmune
+S5485,exudative vitreoretinopathy 5
+S5486,mental retardation, x-linked 58
+S5487,sudden infant death with dysgenesis of the testes syndrome
+S5488,spinocerebellar ataxia 11
+S5489,retinitis pigmentosa 51
+S5490,cardiomyopathy, dilated, 1g
+S5491,cardiomyopathy, familial hypertrophic, 9
+S5492,distal myopathy markesbery-griggs type
+S5493,hereditary myopathy with early respiratory failure
+S5494,muscular dystrophy, limb-girdle, type 2j
+S5495,myopathy, early-onset, with fatal cardiomyopathy
+S5496,amyloidosis, hereditary, transthyretin-related
+S5497,dystransthyretinemic euthyroidal hyperthyroxinemia
+S5498,polymicrogyria with optic nerve hypoplasia
+S5499,macrothrombocytopenia, autosomal dominant, tubb1-related
+S5500,polymicrogyria, symmetric or asymmetric
+S5501,combined oxidative phosphorylation deficiency 4
+S5502,leber congenital amaurosis 15
+S5503,retinitis pigmentosa 14
+S5504,mental retardation, autosomal recessive 7
+S5505,saethre-chotzen syndrome with eyelid anomalies
+S5506,tyrosine kinase 2 deficiency
+S5507,mitochondrial neurogastrointestinal encephalopathy syndrome
+S5508,oculocutaneous albinism type 1
+S5509,oculocutaneous albinism type 1b
+S5510,oculocutaneous albinism type 3
+S5511,arthrogryposis multiplex congenita, distal, x-linked
+S5512,corneal dystrophy, crystalline, of schnyder
+S5513,johanson blizzard syndrome
+S5514,parkinson disease 5, autosomal dominant
+S5515,gilbert disease
+S5516,crigler najjar syndrome, type 1
+S5517,crigler najjar syndrome, type 2
+S5518,hyperbilirubinemia, transient familial neonatal
+S5519,glomerulocystic kidney disease with hyperuricemia and isosthenuria
+S5520,hyperuricemic nephropathy, familial juvenile, 1
+S5521,medullary cystic kidney disease 2
+S5522,oroticaciduria 1
+S5523,hemophagocytic lymphohistiocytosis, familial, 3
+S5524,immunodeficiency with hyper-igm, type 5
+S5525,beta-ureidopropionase deficiency
+S5526,mental retardation, x-linked, syndromic 14
+S5527,urocanase deficiency
+S5528,porphyria, erythropoietic
+S5529,poikiloderma with neutropenia
+S5530,deafness, autosomal recessive 18a
+S5531,usher syndrome, type 1c
+S5532,usher syndrome, type ig
+S5533,usher syndrome, type 2a
+S5534,sertoli cell-only syndrome
+S5535,cystocele
+S5536,sacral defect and anterior sacral meningocele
+S5537,amyotrophic lateral sclerosis 8
+S5538,spinal muscular atrophy, proximal, adult, autosomal dominant
+S5539,cardiomyopathy, dilated, 1w
+S5540,cardiomyopathy, familial hypertrophic, 15
+S5541,inclusion body myopathy with early-onset paget disease and frontotemporal dementia
+S5542,vitamin d-dependent rickets, type 2a
+S5543,arthrogryposis renal dysfunction cholestasis syndrome
+S5544,vitamin k-dependent clotting factors, combined deficiency of, 2
+S5545,dysequilibrium syndrome
+S5546,myopathy, x-linked, with excessive autophagy
+S5547,neuroacanthocytosis
+S5548,cohen syndrome
+S5549,corneal dystrophies, hereditary
+S5550,keratoconus 1
+S5551,microphthalmia, isolated 2
+S5552,microphthalmia, isolated, with coloboma 3
+S5553,von willebrand disease, type 1
+S5554,von willebrand disease, type 2
+S5555,von willebrand disease, type 3
+S5556,neutropenia, severe congenital, x-linked
+S5557,wiskott-aldrich syndrome
+S5558,cranioectodermal dysplasia 2
+S5559,glaucoma 1, open angle, g
+S5560,pachygyria with mental retardation, seizures, and arachnoid cysts
+S5561,amelogenesis imperfecta, hypomaturation type, iia3
+S5562,deafness, autosomal dominant 6
+S5563,arthropathy, progressive pseudorheumatoid, of childhood
+S5564,neuropathy, hereditary sensory and autonomic, type iia
+S5565,odontoonychodermal dysplasia
+S5566,schopf-schulz-passarge syndrome
+S5567,split-hand/foot malformation 6
+S5568,tetra-amelia autosomal recessive
+S5569,46,xx sex reversal with dysgenesis of kidneys, adrenals, and lungs
+S5570,mullerian aplasia and hyperandrogenism
+S5571,rokitansky kuster hauser syndrome
+S5572,al awadi syndrome
+S5573,fibular aplasia or hypoplasia, femoral bowing and poly-, syn-, and oligodactyly
+S5574,denys-drash syndrome
+S5575,frasier syndrome
+S5576,meacham winn culler syndrome
+S5577,nephrotic syndrome, type 4
+S5578,wilson-turner x-linked mental retardation syndrome
+S5579,major affective disorder 7
+S5580,xanthinuria, type i
+S5581,xeroderma pigmentosum, complementation group c
+S5582,nephronophthisis-like nephropathy 1
+S5583,charcot-marie-tooth disease, dominant intermediate c
+S5584,t cell immunodeficiency primary
+S5585,skeletal defects, genital hypoplasia, and mental retardation
+S5586,mental retardation, x-linked 91
+S5587,mental retardation, x-linked, syndromic, raymond type
+S5588,corneal dystrophy, fuchs endothelial, 6
+S5589,corneal dystrophy, posterior polymorphous, 3
+S5590,mowat-wilson syndrome
+S5591,diaphragmatic hernia 3
+S5592,spastic paraplegia 15, autosomal recessive
+S5593,spastic paraplegia 33, autosomal dominant
+S5594,holoprosencephaly 5
+S5595,heterotaxy, visceral, x-linked
+S5596,acro-osteolysis
+S5597,mandibuloacral dysplasia with type b lipodystrophy
+S5598,nephrolithiasis, uric acid, susceptibility to
+S5599,ehlers-danlos syndrome 6b
+S5600,retinitis pigmentosa 58
+S5601,spinocerebellar ataxia, autosomal recessive 5
+S5602,seborrhea-like dermatitis with psoriasiform elements
+S5603,mental retardation, x-linked 45
