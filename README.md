@@ -284,7 +284,7 @@ python3 scripts/integration.py --fusion late --annotation annotation.txt --entit
 
 
 ## Example
-Here you can find the example of the Drug-Target interaction link prediction task.\
+Here you can find the example of the Drug-Target interaction link prediction task.
 
 ```shell
 # 1) Network Preparation
