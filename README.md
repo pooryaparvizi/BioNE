@@ -99,7 +99,7 @@ python3 scripts/merge_edgelist.py --input1 input1.txt --input2 input2.txt --rmdu
 
 ## 2. Network Embedding
 Network embedding methods convert high-dimensional data to low-dimensional vector representations. In this project users are able to conduct the following embedding methods:\
-[LINE](https://doi.org/10.1145/2736277.2741093), [GraRep](https://doi.org/10.1145/2806416.2806512), [SDNE](https://doi.org/10.1145/2939672.2939753), [LLE](https://doi.org/10.1126/science.290.5500.2323), [HOPE](https://doi.org/10.1145/2939672.2939751), [LaplacianEigenmaps (Lap)](https://dl.acm.org/doi/abs/10.5555/2980539.2980616), [node2vec](https://doi.org/10.1145/2939672.2939754), [DeepWalk](https://doi.org/10.1145/2623330.2623732) and [GF](https://doi.org/10.1145/2488388.2488393).\
+[LINE](https://doi.org/10.1145/2736277.2741093), [GraRep](https://doi.org/10.1145/2806416.2806512), [SDNE](https://doi.org/10.1145/2939672.2939753), [LLE](https://doi.org/10.1126/science.290.5500.2323), [HOPE](https://doi.org/10.1145/2939672.2939751), [LaplacianEigenmaps (Lap)](https://dl.acm.org/doi/abs/10.5555/2980539.2980616), [node2vec](https://doi.org/10.1145/2939672.2939754), [DeepWalk](https://doi.org/10.1145/2623330.2623732) and [GF](https://doi.org/10.1145/2488388.2488393).
 
 ```shell
 python3 scripts/embedding.py --method lle --input input.txt --directed --weighted --representation_size 128 --output output.txt
@@ -210,7 +210,7 @@ python3 scripts/integration.py --fusion late --annotation annotation.txt --entit
 &emsp; &emsp; &emsp; &emsp; mix: Merging all embedding results, and then summing up the prediction probabilities achieved from different prediction models.
 
 &emsp; &emsp; &emsp; **annotation** &ensp; The filepath of the annotation file\
-&emsp; &emsp; &emsp; This file should contain two columns. The first and second columns in the annotation file harbour the information of entity1 and entity2 respectively. Click [here](./output/edgelist/edgelist_drug_protein.txt) to see a sample annotation file.\
+&emsp; &emsp; &emsp; This file should contain two columns. The first and second columns in the annotation file harbour the information of entity1 and entity2 respectively. Click [here](./output/edgelist/edgelist_drug_protein.txt) to see a sample annotation file.
 
 &emsp; &emsp; &emsp; **entity1-embeddings** &ensp; filepaths of the embeddings containing the entities of the **first** column (entity1) in the annotation file\
 &emsp; &emsp; &emsp; The file paths should be given in this format: '[["deepwalk_drug.txt"](./output/embedding/deepwalk_20_drug.txt), ["gf_drug.txt"](./output/embedding/gf_20_drug.txt)]'.\
@@ -277,7 +277,7 @@ python3 scripts/integration.py --fusion late --annotation annotation.txt --entit
 
 &emsp; &emsp; &emsp; **output** &ensp; The filepath for the predictions and evaluation results\
 &emsp; &emsp; &emsp; Only provide directory and file prefix. e.g. ./Desktop/DTI_prediction \
-&emsp; &emsp; &emsp; Click [here](./output/mix_DTI_prediction.csv) to see a sample prediction output and [here](./output/mix_DTI_prediction.png) for ROC and PR curves.\
+&emsp; &emsp; &emsp; Click [here](./output/prediction/DTI_prediction.csv) to see a sample prediction output and [here](./output/prediction/DTI_prediction.pdf) for ROC and PR curves.\
 &emsp; &emsp; &emsp; In ROC and PR, the label of the positive class is fixed to 1.
     
 &nbsp;
