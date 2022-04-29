@@ -329,7 +329,7 @@ Please consider citing the following publication if you found BioNE beneficial i
   journal = {bioRxiv},\
   publisher = {Cold Spring Harbor Laboratory},\
   title = {{BioNE: Integration of network embeddings for supervised learning}},\
-  url = {https://www.biorxiv.org/content/early/2022/04/27/2022.04.26.489560},\
+  url = {https://www.biorxiv.org/content/early/2022/04/27/2022.04.26.489560}, 
   year = {2022}\
   }
 
