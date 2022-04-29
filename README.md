@@ -323,14 +323,14 @@ python3 scripts/integration.py --fusion late --annotation ./output/edgelist/edge
 Please consider citing the following publication if you found BioNE beneficial in your research:
 
 
-  @article{BioNE,
-  author = {Parvizi, Poorya and Azuaje, Francisco and Theodoratou, Evropi and Luz, Saturnino},
-  doi = {10.1101/2022.04.26.489560},
-  journal = {bioRxiv},
-  publisher = {Cold Spring Harbor Laboratory},
-  title = {{BioNE: Integration of network embeddings for supervised learning}},
-  url = {https://www.biorxiv.org/content/early/2022/04/27/2022.04.26.489560},
-  year = {2022}
+  @article{BioNE,\
+  author = {Parvizi, Poorya and Azuaje, Francisco and Theodoratou, Evropi and Luz, Saturnino},\
+  doi = {10.1101/2022.04.26.489560},\
+  journal = {bioRxiv},\
+  publisher = {Cold Spring Harbor Laboratory},\
+  title = {{BioNE: Integration of network embeddings for supervised learning}},\
+  url = {https://www.biorxiv.org/content/early/2022/04/27/2022.04.26.489560},\
+  year = {2022}\
   }
 
 BioNE is also archived at Zenodo (https://doi.org/10.5281/zenodo.5500712)
